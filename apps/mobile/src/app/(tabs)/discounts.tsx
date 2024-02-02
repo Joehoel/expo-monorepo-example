@@ -2,7 +2,7 @@ import { Text, View } from 'react-native';
 
 import { api } from '~/lib/trpc';
 
-export default function Search() {
+export default function Discounts() {
   const { data } = api.hello.world.useQuery('Joel');
 
   return (

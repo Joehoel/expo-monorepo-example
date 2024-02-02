@@ -65,5 +65,6 @@ function withTurborepoManagedCache(config) {
 function withSourceExtensions(config, sourceExts) {
   config.resolver.sourceExts = [...config.resolver.sourceExts, ...sourceExts];
   config.watcher.additionalExts = [...config.watcher.additionalExts, ...sourceExts];
+
   return config;
 }

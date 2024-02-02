@@ -1,7 +1,12 @@
+import '../../global.css';
+
 import { Stack } from 'expo-router';
 
-import '../../global.css';
-import { TRPCProvider } from '../lib/trpc';
+import { AssetsProvider } from '~/providers/assets';
+import { SplashScreenProvider } from '~/providers/splash';
+import { TRPCProvider } from '~/providers/trpc';
+
+export { ErrorBoundary } from 'expo-router';
 
 export const unstable_settings = {
   initialRouteName: '(tabs)',
@@ -9,11 +14,15 @@ export const unstable_settings = {
 
 export default function Layout() {
   return (
-    <TRPCProvider>
-      <Stack>
-        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-        {/* <Stack.Screen name="modal" options={{ presentation: 'modal' }} /> */}
-      </Stack>
-    </TRPCProvider>
+    <SplashScreenProvider>
+      <AssetsProvider>
+        <TRPCProvider>
+          <Stack>
+            <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+            {/* <Stack.Screen name="modal" options={{ presentation: 'modal' }} /> */}
+          </Stack>
+        </TRPCProvider>
+      </AssetsProvider>
+    </SplashScreenProvider>
   );
 }

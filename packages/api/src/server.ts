@@ -1,13 +1,9 @@
 import { serve } from '@hono/node-server';
 import { trpcServer } from '@hono/trpc-server';
 import { Hono } from 'hono';
-import { appRouter } from './root';
-import { logger } from 'hono/logger';
 import { cors } from 'hono/cors';
-
-// type Bindings = HttpBindings & {
-//   DB: MySql2Database;
-// };
+import { logger } from 'hono/logger';
+import { appRouter } from './root';
 
 const app = new Hono();
 
@@ -19,7 +15,6 @@ app.use('/trpc/*', async (c, next) => {
     origin: '*',
     credentials: true,
     allowMethods: ['GET', 'POST', 'OPTIONS', 'PUT', 'DELETE'],
-    // https://hono.dev/middleware/builtin/cors#options
   })(c, next);
 });
 

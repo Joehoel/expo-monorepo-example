@@ -7,8 +7,8 @@
     ".": "./src/index.ts"
   },
   "scripts": {
+    "dev": "tsx watch --clear-screen=false ./src/server.ts",
     "studio": "drizzle-kit studio",
-    "dev": "tsx watch --clear-screen=false src/server.ts",
     "generate": "drizzle-kit generate:mysql2 --schema=./src/db/schema.ts --out=./migrations",
     "typecheck": "tsc --noEmit"
   },
