@@ -8,7 +8,7 @@
   },
   "scripts": {
     "studio": "drizzle-kit studio",
-    "dev": "tsx watch src/server.ts",
+    "dev": "tsx watch --clear-screen=false src/server.ts",
     "generate": "drizzle-kit generate:mysql2 --schema=./src/db/schema.ts --out=./migrations",
     "typecheck": "tsc --noEmit"
   },

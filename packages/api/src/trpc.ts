@@ -6,11 +6,9 @@
  * tl;dr - this is where all the tRPC server stuff is created and plugged in.
  * The pieces you will need to use are documented accordingly near the end
  */
-import { initTRPC, TRPCError } from '@trpc/server';
+import { initTRPC } from '@trpc/server';
 import superjson from 'superjson';
 import { ZodError } from 'zod';
-import { createDb } from './db/client';
-import { MySql2Database } from 'drizzle-orm/mysql2';
 
 /**
  * 1. CONTEXT
@@ -24,20 +22,14 @@ import { MySql2Database } from 'drizzle-orm/mysql2';
  *
  * @see https://trpc.io/docs/server/context
  */
-export const createTRPCContext = async (opts: {
-  headers: Headers;
-  mysql2: MySql2Database;
-  // session: Session | null;
-}) => {
+export const createTRPCContext = async (opts: { headers: Headers }) => {
   // const session = opts.session ?? (await auth());
   const source = opts.headers.get('x-trpc-source') ?? 'unknown';
 
-  const db = createDb(opts.mysql2);
-  // console.log(">>> tRPC Request from", source, "by", session?.user);
+  console.log('>>> tRPC Request from', source);
 
   return {
     // session,
-    db,
   };
 };
 

@@ -3,12 +3,12 @@ import { StyleSheet, Text, View } from 'react-native';
 import { api } from './lib/trpc';
 
 export default function Page() {
-  const { data } = api.hello.world.useQuery('Mama');
+  const { data } = api.hello.world.useQuery('Joel');
 
   return (
     <View style={styles.container}>
       <View style={styles.main}>
-        <Text style={styles.title}>Hello {data}</Text>
+        <Text style={styles.title}>{data}</Text>
         <Text style={styles.subtitle}>This is the first page of your app.</Text>
       </View>
     </View>
