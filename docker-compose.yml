@@ -1,0 +1,33 @@
+version: '3'
+services:
+  mysql:
+    image: mariadb
+    restart: always
+    ports:
+      - '3306:3306'
+    deploy:
+      resources:
+        limits:
+          memory: 512m
+    stop_signal: SIGKILL
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+      MYSQL_DATABASE: ${DB_NAME}
+      MYSQL_USER: ${DB_USER}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+      TZ: UTC
+  memcached:
+    image: memcached
+    restart: always
+    ports:
+      - '11211:11211'
+  phpmyadmin:
+    image: phpmyadmin
+    restart: always
+    ports:
+      - '8080:80'
+    environment:
+      - PMA_HOST=mysql
+      - PMA_PORT=3306
+    depends_on:
+      - mysql

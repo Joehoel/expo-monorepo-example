@@ -1,6 +1,10 @@
 import { drizzle } from 'drizzle-orm/mysql2';
-import { MySql2Database } from 'drizzle-orm/mysql2';
+import mysql from 'mysql2/promise';
 
-export const createDb = (mysql2: MySql2Database) => {
-  return drizzle(mysql2);
-};
+const connection = await mysql.createConnection({
+  host: process.env.DB_HOST,
+  user: process.env.DB_USER,
+  database: process.env.DB_NAME,
+});
+
+export const db = drizzle(connection);
