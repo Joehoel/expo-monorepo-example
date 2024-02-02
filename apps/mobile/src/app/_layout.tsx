@@ -1,13 +1,19 @@
-import { Slot } from 'expo-router';
+import { Stack } from 'expo-router';
 
-// Import your global CSS file
 import '../../global.css';
 import { TRPCProvider } from '../lib/trpc';
+
+export const unstable_settings = {
+  initialRouteName: '(tabs)',
+};
 
 export default function Layout() {
   return (
     <TRPCProvider>
-      <Slot />
+      <Stack>
+        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+        {/* <Stack.Screen name="modal" options={{ presentation: 'modal' }} /> */}
+      </Stack>
     </TRPCProvider>
   );
 }

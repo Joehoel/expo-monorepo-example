@@ -26,11 +26,12 @@ const getBaseUrl = () => {
    * baseUrl to your production API URL.
    */
   const debuggerHost = Constants.expoConfig?.hostUri;
-  const localhost = debuggerHost?.split(':')[0];
+  const localhost = debuggerHost?.split(':')[0] ?? 'localhost';
 
   if (!localhost) {
     throw new Error('Failed to get localhost. Please point to your production server.');
   }
+
   return `http://${localhost}:3000`;
 };
 
