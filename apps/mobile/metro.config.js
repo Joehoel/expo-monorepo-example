@@ -1,12 +1,13 @@
 // Learn more https://docs.expo.dev/guides/monorepos
 const { getDefaultConfig } = require('expo/metro-config');
 const { FileStore } = require('metro-cache');
+const { withNativeWind } = require('nativewind/metro');
 const path = require('path');
 
 const projectRoot = __dirname;
 const workspaceRoot = path.resolve(projectRoot, '../..');
 
-const config = getDefaultConfig(projectRoot);
+const config = getDefaultConfig(projectRoot, { isCSSEnabled: true });
 
 // #1 - Watch all files in the monorepo
 config.watchFolders = [workspaceRoot];
@@ -23,4 +24,4 @@ config.cacheStores = [
   new FileStore({ root: path.join(projectRoot, 'node_modules', '.cache', 'metro') }),
 ];
 
-module.exports = config;
+module.exports = withNativeWind(config, { input: './app/global.css' });

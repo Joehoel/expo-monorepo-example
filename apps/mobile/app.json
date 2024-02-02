@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "expo-monorepo",
-    "slug": "expo-monorepo",
+    "name": "Boodschappen vergelijker",
+    "slug": "boodschappen-vergelijker",
     "version": "1.0.0",
+    "scheme": "boodschappen-vergelijker",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -13,23 +14,23 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "bundleIdentifier": "com.bycedric.expomonorepo",
+      "bundleIdentifier": "nl.deindruk.vergelijker",
       "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.bycedric.expomonorepo",
+      "package": "nl.deindruk.vergelijker",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": ["expo-router"]
   }
 }
