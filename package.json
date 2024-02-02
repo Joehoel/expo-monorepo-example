@@ -1,28 +1,24 @@
 {
   "private": true,
-  "name": "@acme/monorepo",
+  "name": "boodschappen-vergelijker",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
   "scripts": {
     "dev": "turbo dev",
     "dev:mobile": "turbo dev --filter=\"{./apps/mobile}...\"",
-    "dev:web": "turbo dev --filter=\"{./apps/web}...\"",
     "lint": "turbo lint",
     "test": "turbo test",
     "build": "turbo build",
     "build:mobile": "turbo build --filter=\"...{./apps/mobile}\"",
-    "build:web": "turbo build --filter=\"...{./apps/web}\""
+    "clean": "turbo clean:modules && turbo clean:apps && pnpm install",
+    "clean:modules": "rm -rf node_modules && rm -rf apps/*/node_modules && rm -rf packages/*/node_modules",
+    "clean:apps": "rm -rf apps/*/ios && rm -rf apps/*/android && rm -rf apps/*/.expo"
   },
   "devDependencies": {
     "turbo": "^1.12.2",
     "typescript": "^5.3.3"
-  },
-  "pnpm": {
-    "peerDependencyRules": {
-      "ignoreMissing": [
-        "@babel/*",
-        "expo-modules-*",
-        "typescript"
-      ]
-    }
   },
   "resolutions": {
     "react-refresh": "~0.14.0"

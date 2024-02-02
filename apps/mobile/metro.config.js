@@ -7,7 +7,11 @@ const path = require('path');
 const projectRoot = __dirname;
 const workspaceRoot = path.resolve(projectRoot, '../..');
 
-const config = getDefaultConfig(projectRoot, { isCSSEnabled: true });
+const defaultConfig = getDefaultConfig(projectRoot, { isCSSEnabled: true });
+
+const config = withNativeWind(defaultConfig, {
+  input: './global.css',
+});
 
 // #1 - Watch all files in the monorepo
 config.watchFolders = [workspaceRoot];
@@ -24,4 +28,4 @@ config.cacheStores = [
   new FileStore({ root: path.join(projectRoot, 'node_modules', '.cache', 'metro') }),
 ];
 
-module.exports = withNativeWind(config, { input: './app/global.css' });
+module.exports = config;

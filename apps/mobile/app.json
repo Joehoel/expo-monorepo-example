@@ -6,6 +6,7 @@
     "scheme": "boodschappen-vergelijker",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -30,6 +31,10 @@
     "web": {
       "favicon": "./assets/favicon.png",
       "bundler": "metro"
+    },
+    "experiments": {
+      "tsconfigPaths": true,
+      "typedRoutes": true
     },
     "plugins": ["expo-router"]
   }

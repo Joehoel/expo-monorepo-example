@@ -10,15 +10,13 @@
     },
     "build": {
       "dependsOn": ["^build"],
-      "outputs": [
-        ".next/**",
-        "build/**",
-        "node_modules/.cache/metro/**"
-      ]
+      "outputs": [".next/**", "build/**", "node_modules/.cache/metro/**"]
     },
     "dev": {
       "cache": false,
       "persistent": true
-    }
+    },
+    "clean:modules": {},
+    "clean:apps": {}
   }
 }
