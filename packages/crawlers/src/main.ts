@@ -1,15 +1,39 @@
-// For more information, see https://crawlee.dev/
-import { PlaywrightCrawler, ProxyConfiguration } from 'crawlee';
+import { PlaywrightCrawler, Sitemap } from 'crawlee';
+import { glob } from 'glob';
 
+import { Actor } from 'apify';
+import { readFile, writeFile } from 'fs/promises';
 import { router } from './routes.js';
 
-const startUrls = ['https://crawlee.dev'];
+await Actor.init();
+
+interface Input {
+  maxRequestsPerCrawl: number;
+}
+
+const { urls } = await Sitemap.load('https://www.ah.nl/sitemaps/entities/products/detail.xml');
+
+const { maxRequestsPerCrawl } = (await Actor.getInput<Input>()) ?? {};
 
 const crawler = new PlaywrightCrawler({
-    // proxyConfiguration: new ProxyConfiguration({ proxyUrls: ['...'] }),
-    requestHandler: router,
-    // Comment this option to scrape the full website.
-    maxRequestsPerCrawl: 20,
+  requestHandler: router,
+  maxRequestsPerCrawl: maxRequestsPerCrawl ?? 50,
 });
 
-await crawler.run(startUrls);
+await crawler.run(urls);
+
+await Actor.exit();
+
+if (process.env.NODE_ENV !== 'production') {
+  const jsonFiles = await glob('storage/datasets/default/*.json', {
+    absolute: true,
+  });
+
+  const results = [];
+  for (const file of jsonFiles) {
+    const data = JSON.parse(await readFile(file, 'utf-8'));
+    results.push(data);
+  }
+
+  await writeFile('output.json', JSON.stringify(results, null, 2));
+}
