@@ -1,5 +1,4 @@
-import { createPlaywrightRouter } from 'crawlee';
-import { Page } from 'playwright';
+import { createCheerioRouter } from 'crawlee';
 
 interface Supermarket {
   url: string;
@@ -20,40 +19,37 @@ const supermarkets: Record<string, Supermarket> = {
   },
 };
 
-export const router = createPlaywrightRouter();
+export const router = createCheerioRouter();
 
-router.addDefaultHandler(async ({ request, page, pushData, log }) => {
-  const name = await page
-    .$eval('h1[class*=product-card-header_title]', ($h1) => $h1.textContent)
-    .catch(() => {
-      log.error("Couldn't find product name");
-      page.close({ reason: "Couldn't find product name" });
-    });
-  const price = await page.$eval('div[class*=price-amount_root]', ($div) => $div.textContent);
-  const unit = await page.$eval(
-    "span[data-testhook='product-unit-size']",
-    ($span) => $span.textContent
-  );
-  const unitPrice = await page
-    .$eval('span[class*=product-card-header_unitPrice]', ($span) => $span.textContent)
-    .catch(() => {
-      log.warning(`Couldn't find unit price for product: ${name}`);
-    });
+router.addDefaultHandler(async ({ $, log }) => {
+  const name = $('h1[class*=product-card-header_title]').text().trim();
+  const price = $('div[class*=price-amount_root]').text().trim();
+  const unit = $('span[data-testhook="product-unit-size"]').text().trim();
+  const unitPrice = $('span[class*=product-card-header_unitPrice]').text().trim();
+  const nutri = $('svg[class*=svg_nutriscore] title').text().trim().split(' ')[1];
 
-  const nutri = await page
-    .$eval('svg[class*=svg_nutriscore] title', ($title) => {
-      const title = $title.textContent;
-      const score = title?.split(' ')[1];
+  log.info('Pretending to insert product to database', {
+    name,
+    price,
+    unit,
+    unitPrice,
+    nutri,
+  });
 
-      return score;
-    })
-    .catch(() => {
-      log.warning(`Couldn't find nutriscore for product: ${name}`);
-    });
+  // log.info(`Found product: ${name} (${price} / ${unit})`);
+  // const response = await trpc.product.insertOne
+  //   .mutate({
+  //     name,
+  //     price,
+  //     nutri,
+  //   })
+  //   .catch((error) => {
+  //     log.error(error, { error });
+  //   });
 
-  if (name) {
-    await pushData({ name, price, unit, nutri, url: request.loadedUrl, unitPrice });
-  }
+  // log.info(`Inserted product`, { response });
+
+  // await pushData({ name, price, unit, nutriscore, url: request.loadedUrl, unitPrice });
 });
 
 // router.addHandler(supermarkets.ah.label, async ({ request, page, pushData, log }) => {

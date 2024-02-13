@@ -1,4 +1,4 @@
-import { PlaywrightCrawler, Sitemap } from 'crawlee';
+import { CheerioCrawler, Sitemap } from 'crawlee';
 import { glob } from 'glob';
 
 import { Actor } from 'apify';
@@ -15,12 +15,14 @@ const { urls } = await Sitemap.load('https://www.ah.nl/sitemaps/entities/product
 
 const { maxRequestsPerCrawl } = (await Actor.getInput<Input>()) ?? {};
 
-const crawler = new PlaywrightCrawler({
+const crawler = new CheerioCrawler({
   requestHandler: router,
   maxRequestsPerCrawl: maxRequestsPerCrawl ?? 50,
+  maxRequestsPerMinute: 60,
+  maxConcurrency: 1,
 });
 
-await crawler.run(urls);
+await crawler.run(urls.slice(0, maxRequestsPerCrawl));
 
 await Actor.exit();
 

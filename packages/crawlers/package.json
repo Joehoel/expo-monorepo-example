@@ -7,11 +7,13 @@
     "apify": "^3.1.15",
     "crawlee": "^3.0.0",
     "glob": "^10.3.10",
+    "node-fetch": "^3.3.2",
     "playwright": "*"
   },
   "devDependencies": {
     "@apify/tsconfig": "^0.1.0",
     "@types/node": "^20.0.0",
+    "apify": "^3.1.15",
     "tsx": "^4.4.0",
     "typescript": "~5.3.0"
   },
@@ -20,7 +22,7 @@
     "start:prod": "node dist/main.js",
     "start:dev": "tsx src/main.ts",
     "build": "tsc",
-    "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1",
+    "deploy": "apify push",
     "postinstall": "npx crawlee install-playwright-browsers",
     "clean": "rm -rf .turbo node_modules",
     "format": "prettier --check . --ignore-path ../../.gitignore",

@@ -1,8 +1,9 @@
 import { helloRouter } from './routes/hello';
+import { productRouter } from './routes/product';
 import { createTRPCRouter } from './trpc';
 
 export const appRouter = createTRPCRouter({
-  hello: helloRouter,
+  product: productRouter,
 });
 
 // export type definition of API

@@ -1,19 +1,18 @@
 {
   "version": "5",
   "dialect": "mysql",
-  "id": "d167b66e-897e-4cea-9a20-649e496d2662",
-  "prevId": "00000000-0000-0000-0000-000000000000",
+  "id": "4e239adc-7430-4dcf-98ab-a156f1309047",
+  "prevId": "d167b66e-897e-4cea-9a20-649e496d2662",
   "tables": {
     "product": {
       "name": "product",
       "columns": {
         "id": {
           "name": "id",
-          "type": "varchar(255)",
+          "type": "int",
           "primaryKey": false,
           "notNull": true,
-          "autoincrement": false,
-          "default": "'uuid()'"
+          "autoincrement": true
         },
         "name": {
           "name": "name",
@@ -24,7 +23,7 @@
         },
         "price": {
           "name": "price",
-          "type": "int",
+          "type": "varchar(255)",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
