@@ -11,6 +11,7 @@ export default function Layout() {
       screenOptions={{
         tabBarInactiveTintColor: 'gray',
         tabBarActiveTintColor: '#fff',
+
         tabBarStyle: {
           backgroundColor: '#000',
         },
@@ -19,6 +20,7 @@ export default function Layout() {
       <Tabs.Screen
         name="search"
         options={{
+          headerShown: false,
           title: 'Search',
           tabBarIcon: ({ color }) => <Search color={color} style={{ marginBottom: -3 }} />,
         }}
@@ -40,7 +42,7 @@ export default function Layout() {
       <Tabs.Screen
         name="savings"
         options={{
-          title: 'savings',
+          title: 'Savings',
           tabBarIcon: ({ color }) => <User color={color} style={{ marginBottom: -3 }} />,
         }}
       />

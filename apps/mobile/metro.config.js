@@ -6,11 +6,13 @@ const path = require('path');
 
 module.exports = withTurborepoManagedCache(
   withSourceExtensions(
-    withMonorepoPaths(
-      withNativeWind(getDefaultConfig(__dirname), {
-        input: './global.css',
-        configPath: './tailwind.config.js',
-      })
+    withSvgTransform(
+      withMonorepoPaths(
+        withNativeWind(getDefaultConfig(__dirname), {
+          input: './global.css',
+          configPath: './tailwind.config.js',
+        })
+      )
     ),
     ['mjs', 'cjs']
   )
@@ -66,5 +68,12 @@ function withSourceExtensions(config, sourceExts) {
   config.resolver.sourceExts = [...config.resolver.sourceExts, ...sourceExts];
   config.watcher.additionalExts = [...config.watcher.additionalExts, ...sourceExts];
 
+  return config;
+}
+
+function withSvgTransform(config) {
+  config.transformer.babelTransformerPath = require.resolve('react-native-svg-transformer');
+  config.resolver.assetExts = config.resolver.assetExts.filter((ext) => ext !== 'svg');
+  config.resolver.sourceExts = [...config.resolver.sourceExts, 'svg'];
   return config;
 }

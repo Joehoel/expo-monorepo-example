@@ -1,14 +1,10 @@
 import { Text, View } from 'react-native';
 
-import { api } from '~/lib/trpc';
-
 export default function Savings() {
-  const { data } = api.hello.world.useQuery('Joel');
-
   return (
     <View>
       <View className="bg-red-400 rounded">
-        <Text className="text-black text-4xl font-bold">{data}</Text>
+        <Text className="text-black text-4xl font-bold">Savings</Text>
       </View>
     </View>
   );

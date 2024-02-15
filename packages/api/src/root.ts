@@ -1,4 +1,3 @@
-import { helloRouter } from './routes/hello';
 import { productRouter } from './routes/product';
 import { createTRPCRouter } from './trpc';
 

@@ -4,7 +4,7 @@
   "type": "module",
   "description": "Supermarket crawers",
   "dependencies": {
-    "@trpc/client": "^10.45.1",
+    "@trpc/client": "^11.0.0-next-beta.283",
     "apify": "^3.1.15",
     "crawlee": "^3.0.0",
     "glob": "^10.3.10",

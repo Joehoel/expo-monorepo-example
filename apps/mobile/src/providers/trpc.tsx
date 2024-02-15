@@ -1,10 +1,31 @@
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import { createSyncStoragePersister } from '@tanstack/query-sync-storage-persister';
+import { QueryClient } from '@tanstack/react-query';
+import { PersistQueryClientProvider } from '@tanstack/react-query-persist-client';
 import { httpBatchLink, loggerLink } from '@trpc/client';
 import Constants from 'expo-constants';
 import { useState } from 'react';
+import { MMKV } from 'react-native-mmkv';
 import superjson from 'superjson';
 
 import { api } from '~/lib/trpc';
+
+const storage = new MMKV({
+  id: 'boodschappen-vergelijker',
+});
+
+const persister = createSyncStoragePersister({
+  storage: {
+    getItem(key) {
+      return storage.getString(key) ?? null;
+    },
+    setItem(key, value) {
+      storage.set(key, value);
+    },
+    removeItem(key) {
+      storage.delete(key);
+    },
+  },
+});
 
 /**
  * A set of typesafe hooks for consuming your API.
@@ -42,7 +63,6 @@ export function TRPCProvider(props: { children: React.ReactNode }) {
   const [queryClient] = useState(() => new QueryClient());
   const [trpcClient] = useState(() =>
     api.createClient({
-      transformer: superjson,
       links: [
         httpBatchLink({
           url: `${getBaseUrl()}/trpc`,
@@ -51,6 +71,7 @@ export function TRPCProvider(props: { children: React.ReactNode }) {
             headers.set('x-trpc-source', 'expo-react');
             return Object.fromEntries(headers);
           },
+          transformer: superjson,
         }),
         loggerLink({
           enabled: (opts) =>
@@ -64,7 +85,15 @@ export function TRPCProvider(props: { children: React.ReactNode }) {
 
   return (
     <api.Provider client={trpcClient} queryClient={queryClient}>
-      <QueryClientProvider client={queryClient}>{props.children}</QueryClientProvider>
+      <PersistQueryClientProvider
+        client={queryClient}
+        persistOptions={{
+          persister,
+          maxAge: Infinity,
+        }}
+      >
+        {props.children}
+      </PersistQueryClientProvider>
     </api.Provider>
   );
 }

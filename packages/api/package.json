@@ -23,7 +23,7 @@
     "@hono/oauth-providers": "^0.3.0",
     "@hono/trpc-server": "^0.1.0",
     "@trpc/client": "^11.0.0-next-beta.283",
-    "@trpc/server": "^10.45.0",
+    "@trpc/server": "^11.0.0-next-beta.283",
     "drizzle-orm": "^0.29.3",
     "drizzle-zod": "^0.5.1",
     "hono": "^3.12.10",
