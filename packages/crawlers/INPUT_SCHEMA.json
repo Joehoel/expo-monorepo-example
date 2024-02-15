@@ -1,0 +1,15 @@
+{
+  "title": "Input schema for Supermarket crawler",
+  "description": "The input schema for the Supermarket crawler. It defines the maximum number of requests to crawl.",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "maxRequests": {
+      "title": "Max requests",
+      "type": "integer",
+      "description": "The maxiumum of requests to crawl",
+      "minimum": 0,
+      "default": 100
+    }
+  }
+}

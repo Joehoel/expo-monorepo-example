@@ -1,0 +1,5897 @@
+[
+  {
+    "name": "AH Rabarbercompote",
+    "price": "1.85",
+    "unit": "345 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi812/ah-rabarbercompote",
+    "unitPrice": "Prijs per KG € 5,36"
+  },
+  {
+    "name": "AH Appelmoes 0% suiker toegevoegd",
+    "price": "0.991.990.897.967.16",
+    "unit": "360 g710 g710 g4 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi811/ah-appelmoes-0-suiker-toegevoegd",
+    "unitPrice": "Prijs per KG € 2,75"
+  },
+  {
+    "name": "AH Appelmoes 0% suiker toegevoegd",
+    "price": "1.990.897.967.160.99",
+    "unit": "710 g710 g4 stuks360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi810/ah-appelmoes-0-suiker-toegevoegd",
+    "unitPrice": "Prijs per KG € 2,80"
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.690.791.291.110.591.15",
+    "unit": "360 g400 g800 g800 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi805/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,92"
+  },
+  {
+    "name": "AH Wortelen",
+    "price": "0.750.690.89",
+    "unit": "340 g180 g680 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi806/ah-wortelen",
+    "unitPrice": "Prijs per KG € 3,49"
+  },
+  {
+    "name": "AH Maiskorrels fris en knapperig",
+    "price": "1.051.991.69",
+    "unit": "300 g450 g190 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi800/ah-maiskorrels-fris-en-knapperig",
+    "unitPrice": "Prijs per KG € 3,50"
+  },
+  {
+    "name": "AH Tomaten gepeld",
+    "price": "0.69",
+    "unit": "400 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi803/ah-tomaten-gepeld",
+    "unitPrice": "Prijs per KG € 1,73"
+  },
+  {
+    "name": "AH Lekkerbekjes",
+    "price": "2.992.99",
+    "unit": "3 x 100 g350 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi799/ah-lekkerbekjes",
+    "unitPrice": "Prijs per KG € 9,97"
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.791.291.110.690.591.15",
+    "unit": "400 g800 g800 g360 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi796/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Vrieslollies",
+    "price": "1.191.591.990.992.992.29",
+    "unit": "10 stuks12 stuks8 stuks8 stuks5 stuks15 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi793/ah-vrieslollies",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Kabeljauw",
+    "price": "4.495.499.99",
+    "unit": "400 g250 g675 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi792/ah-kabeljauw",
+    "unitPrice": "Prijs per KG € 11,23"
+  },
+  {
+    "name": "AH Tuinerwten fijn",
+    "price": "0.951.39",
+    "unit": "450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi788/ah-tuinerwten-fijn",
+    "unitPrice": "Prijs per KG € 2,11"
+  },
+  {
+    "name": "AH Spinazie  la creme",
+    "price": "0.751.390.950.65",
+    "unit": "450 g450 g750 g450 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi777/ah-spinazie-la-creme",
+    "unitPrice": "Prijs per KG € 1,67"
+  },
+  {
+    "name": "AH Aardappelkroketjes",
+    "price": "1.19",
+    "unit": "600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi772/ah-aardappelkroketjes",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Spinazie fijn gesneden",
+    "price": "0.650.751.390.95",
+    "unit": "450 g450 g450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi769/ah-spinazie-fijn-gesneden",
+    "unitPrice": "Prijs per KG € 1,44"
+  },
+  {
+    "name": "AH Roomijs vanille",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi759/ah-roomijs-vanille",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Aardappelschijfjes",
+    "price": "1.99",
+    "unit": "600 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi765/ah-aardappelschijfjes",
+    "unitPrice": "Prijs per KG € 3,32"
+  },
+  {
+    "name": "AH Roomijs malaga",
+    "price": "3.493.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi751/ah-roomijs-malaga",
+    "unitPrice": "Prijs per LT € 3,49"
+  },
+  {
+    "name": "AH Roomijs stracciatella",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi754/ah-roomijs-stracciatella",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Chantilly",
+    "price": "3.195.991.992.392.29",
+    "unit": "8 stuks16 stuks8 x 120 ml6 stuks6 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi745/ah-chantilly",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Pizza kaas tomaat",
+    "price": "1.392.352.392.392.392.39",
+    "unit": "300 g540 g355 g355 g330 g335 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi737/ah-pizza-kaas-tomaat",
+    "unitPrice": "Prijs per KG € 4,63"
+  },
+  {
+    "name": "AH Pizzabroodjes salami",
+    "price": "1.391.29",
+    "unit": "2 x 125 g250 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi732/ah-pizzabroodjes-salami",
+    "unitPrice": "Prijs per KG € 5,56"
+  },
+  {
+    "name": "AH Afwasmiddel citrus",
+    "price": "1.191.551.291.551.191.39",
+    "unit": "0,5 l1 l0,5 l1 l0,5 l0,5 l",
+    "url": "https://www.ah.nl/producten/product/wi651/ah-afwasmiddel-citrus",
+    "unitPrice": "Prijs per LT € 2,38"
+  },
+  {
+    "name": "AH Dikke bleek",
+    "price": "0.901.690.90",
+    "unit": "0,75 l2 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi648/ah-dikke-bleek",
+    "unitPrice": "Prijs per LT € 1,20"
+  },
+  {
+    "name": "AH Tissues zacht & sterk",
+    "price": "1.491.895.965.361.591.12",
+    "unit": "100 stuks80 stuks4 stuks150 stuks150 stuks",
+    "url": "https://www.ah.nl/producten/product/wi632/ah-tissues-zacht-en-sterk",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Servetten 2-laags 33x33 cm wit",
+    "price": "1.991.691.990.893.991.69",
+    "unit": "50 stuks20 stuks20 stuks100 stuksper stuk20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi624/ah-servetten-2-laags-33x33-cm-wit",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Vuilnisemmerzakken 35L",
+    "price": "2.194.383.941.997.967.568.768.322.19",
+    "unit": "20 stuks2 stuks20 stuks4 stuks4 stuks25 stuks",
+    "url": "https://www.ah.nl/producten/product/wi565/ah-vuilnisemmerzakken-35l",
+    "unitPrice": ""
+  },
+  {
+    "name": "Glorix Bleek original",
+    "price": "1.552.492.49",
+    "unit": "0,75 l0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi562/glorix-bleek-original",
+    "unitPrice": "Prijs per LT € 2,07"
+  },
+  {
+    "name": "Appelsientje Tomatientje",
+    "price": "2.29",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi487/appelsientje-tomatientje",
+    "unitPrice": "Prijs per LT € 2,29"
+  },
+  {
+    "name": "Grolsch Premium pilsner bier 6-pack",
+    "price": "6.2925.1622.647.99",
+    "unit": "6 x 0,33 lper pakket6 x 50 cl",
+    "url": "https://www.ah.nl/producten/product/wi446/grolsch-premium-pilsner-bier-6-pack",
+    "unitPrice": "Prijs per LT € 3,18"
+  },
+  {
+    "name": "Conqueror Tawny port",
+    "price": "7.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi435/conqueror-tawny-port",
+    "unitPrice": "Prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Blik pate rund wild",
+    "price": "0.950.995.945.354.090.454.49",
+    "unit": "400 g150 g6 stuks12 x 100 g150 g12 x 100 g",
+    "url": "https://www.ah.nl/producten/product/wi347/ah-blik-pate-rund-wild",
+    "unitPrice": "Prijs per KG € 2,38"
+  },
+  {
+    "name": "AH Pat met rund",
+    "price": "0.850.290.293.903.510.790.79",
+    "unit": "400 g100 g100 gper stuk415 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi341/ah-pat-met-rund",
+    "unitPrice": "Prijs per KG € 2,13"
+  },
+  {
+    "name": "AH Blik brokjes kip kalkoen",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi337/ah-blik-brokjes-kip-kalkoen",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes wild gevogelte",
+    "price": "0.790.290.293.903.510.850.79",
+    "unit": "415 g100 g100 gper stuk400 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi336/ah-blik-brokjes-wild-gevogelte",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes zalm forel",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi334/ah-blik-brokjes-zalm-forel",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "Greenminds Schrijfblok A4 gelinieerd",
+    "price": "2.59",
+    "unit": "per stuk",
+    "url": "https://www.ah.nl/producten/product/wi319/greenminds-schrijfblok-a4-gelinieerd",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Fruitcocktail siroop",
+    "price": "1.79",
+    "unit": "411 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi309/ah-fruitcocktail-siroop",
+    "unitPrice": "Prijs per KG € 7,16"
+  },
+  {
+    "name": "AH Amsterdamse uien",
+    "price": "0.65",
+    "unit": "320 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi317/ah-amsterdamse-uien",
+    "unitPrice": "Prijs per KG € 3,42"
+  },
+  {
+    "name": "Cave de Beblenheim Pinot blanc",
+    "price": "5.794.79",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi307/cave-de-beblenheim-pinot-blanc",
+    "unitPrice": "Normale prijs per LT € 7,72"
+  },
+  {
+    "name": "Cave de Beblenheim AOC Alsace riesling",
+    "price": "7.296.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi305/cave-de-beblenheim-aoc-alsace-riesling",
+    "unitPrice": "Normale prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Kattenbak houtkorrels",
+    "price": "6.493.79",
+    "unit": "10 l6 l",
+    "url": "https://www.ah.nl/producten/product/wi294/ah-kattenbak-houtkorrels",
+    "unitPrice": "Prijs per LT € 0,65"
+  },
+  {
+    "name": "Chiarli 1860 Lambrusco bianco",
+    "price": "2.59",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi284/chiarli-1860-lambrusco-bianco",
+    "unitPrice": "Prijs per LT € 3,45"
+  },
+  {
+    "name": "AH Ah roomkaas met kruiden",
+    "price": "0.952.892.292.292.892.89",
+    "unit": "125 g125 g125 g125 g125 g125 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi257/ah-ah-roomkaas-met-kruiden",
+    "unitPrice": "Prijs per KG € 7,60"
+  },
+  {
+    "name": "AH Smeerkaas naturel",
+    "price": "0.690.750.790.691.85",
+    "unit": "100 g100 g105 g103 g300 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi249/ah-smeerkaas-naturel",
+    "unitPrice": "Prijs per KG € 6,90"
+  },
+  {
+    "name": "AH Koffiefilters no2",
+    "price": "0.750.89",
+    "unit": "80 stuks100 stuks",
+    "url": "https://www.ah.nl/producten/product/wi159/ah-koffiefilters-no2",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Galia meloen",
+    "price": "1.995.503.982.50",
+    "unit": "per stuk2 stuks200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi141/ah-galia-meloen",
+    "unitPrice": ""
+  },
+  {
+    "name": "Campina Halfvolle yoghurt vanillesmaak",
+    "price": "1.891.49",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi123/campina-halfvolle-yoghurt-vanillesmaak",
+    "unitPrice": "Normale prijs per LT € 1,89"
+  },
+  {
+    "name": "AH Aardappelballetjes",
+    "price": "1.891.95",
+    "unit": "600 g600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi107/ah-aardappelballetjes",
+    "unitPrice": "Prijs per KG € 3,15"
+  },
+  {
+    "name": "AH Franse baguettes",
+    "price": "0.754.183.971.091.492.093.273.11",
+    "unit": "2 stuks2 stuksper stuk250 g300 g3 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi73/ah-franse-baguettes",
+    "unitPrice": ""
+  },
+  {
+    "name": "Lea & Perrins Worcestershire saus",
+    "price": "1.99",
+    "unit": "150 ml",
+    "url": "https://www.ah.nl/producten/product/wi103/lea-en-perrins-worcestershire-saus",
+    "unitPrice": "Prijs per LT € 13,27"
+  },
+  {
+    "name": "AH Appelmoes 0% suiker toegevoegd",
+    "price": "0.991.990.897.967.16",
+    "unit": "360 g710 g710 g4 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi811/ah-appelmoes-0-suiker-toegevoegd",
+    "unitPrice": "Prijs per KG € 2,75"
+  },
+  {
+    "name": "AH Rabarbercompote",
+    "price": "1.85",
+    "unit": "345 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi812/ah-rabarbercompote",
+    "unitPrice": "Prijs per KG € 5,36"
+  },
+  {
+    "name": "AH Appelmoes 0% suiker toegevoegd",
+    "price": "1.990.897.967.160.99",
+    "unit": "710 g710 g4 stuks360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi810/ah-appelmoes-0-suiker-toegevoegd",
+    "unitPrice": "Prijs per KG € 2,80"
+  },
+  {
+    "name": "AH Wortelen",
+    "price": "0.750.690.89",
+    "unit": "340 g180 g680 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi806/ah-wortelen",
+    "unitPrice": "Prijs per KG € 3,49"
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.690.791.291.110.591.15",
+    "unit": "360 g400 g800 g800 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi805/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,92"
+  },
+  {
+    "name": "AH Maiskorrels fris en knapperig",
+    "price": "1.051.991.69",
+    "unit": "300 g450 g190 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi800/ah-maiskorrels-fris-en-knapperig",
+    "unitPrice": "Prijs per KG € 3,50"
+  },
+  {
+    "name": "AH Tomaten gepeld",
+    "price": "0.69",
+    "unit": "400 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi803/ah-tomaten-gepeld",
+    "unitPrice": "Prijs per KG € 1,73"
+  },
+  {
+    "name": "AH Lekkerbekjes",
+    "price": "2.992.99",
+    "unit": "3 x 100 g350 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi799/ah-lekkerbekjes",
+    "unitPrice": "Prijs per KG € 9,97"
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.791.291.110.690.591.15",
+    "unit": "400 g800 g800 g360 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi796/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Kabeljauw",
+    "price": "4.495.499.99",
+    "unit": "400 g250 g675 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi792/ah-kabeljauw",
+    "unitPrice": "Prijs per KG € 11,23"
+  },
+  {
+    "name": "AH Vrieslollies",
+    "price": "1.191.591.990.992.992.29",
+    "unit": "10 stuks12 stuks8 stuks8 stuks5 stuks15 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi793/ah-vrieslollies",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Tuinerwten fijn",
+    "price": "0.951.39",
+    "unit": "450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi788/ah-tuinerwten-fijn",
+    "unitPrice": "Prijs per KG € 2,11"
+  },
+  {
+    "name": "AH Spinazie  la creme",
+    "price": "0.751.390.950.65",
+    "unit": "450 g450 g750 g450 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi777/ah-spinazie-la-creme",
+    "unitPrice": "Prijs per KG € 1,67"
+  },
+  {
+    "name": "AH Aardappelkroketjes",
+    "price": "1.19",
+    "unit": "600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi772/ah-aardappelkroketjes",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Spinazie fijn gesneden",
+    "price": "0.650.751.390.95",
+    "unit": "450 g450 g450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi769/ah-spinazie-fijn-gesneden",
+    "unitPrice": "Prijs per KG € 1,44"
+  },
+  {
+    "name": "AH Aardappelschijfjes",
+    "price": "1.99",
+    "unit": "600 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi765/ah-aardappelschijfjes",
+    "unitPrice": "Prijs per KG € 3,32"
+  },
+  {
+    "name": "AH Roomijs vanille",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi759/ah-roomijs-vanille",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Roomijs stracciatella",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi754/ah-roomijs-stracciatella",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Roomijs malaga",
+    "price": "3.493.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi751/ah-roomijs-malaga",
+    "unitPrice": "Prijs per LT € 3,49"
+  },
+  {
+    "name": "AH Chantilly",
+    "price": "3.195.991.992.392.29",
+    "unit": "8 stuks16 stuks8 x 120 ml6 stuks6 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi745/ah-chantilly",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Pizza kaas tomaat",
+    "price": "1.392.352.392.392.392.39",
+    "unit": "300 g540 g355 g355 g330 g335 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi737/ah-pizza-kaas-tomaat",
+    "unitPrice": "Prijs per KG € 4,63"
+  },
+  {
+    "name": "AH Pizzabroodjes salami",
+    "price": "1.391.29",
+    "unit": "2 x 125 g250 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi732/ah-pizzabroodjes-salami",
+    "unitPrice": "Prijs per KG € 5,56"
+  },
+  {
+    "name": "AH Afwasmiddel citrus",
+    "price": "1.191.551.291.551.191.39",
+    "unit": "0,5 l1 l0,5 l1 l0,5 l0,5 l",
+    "url": "https://www.ah.nl/producten/product/wi651/ah-afwasmiddel-citrus",
+    "unitPrice": "Prijs per LT € 2,38"
+  },
+  {
+    "name": "AH Dikke bleek",
+    "price": "0.901.690.90",
+    "unit": "0,75 l2 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi648/ah-dikke-bleek",
+    "unitPrice": "Prijs per LT € 1,20"
+  },
+  {
+    "name": "AH Tissues zacht & sterk",
+    "price": "1.491.895.965.361.591.12",
+    "unit": "100 stuks80 stuks4 stuks150 stuks150 stuks",
+    "url": "https://www.ah.nl/producten/product/wi632/ah-tissues-zacht-en-sterk",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Servetten 2-laags 33x33 cm wit",
+    "price": "1.991.691.990.893.991.69",
+    "unit": "50 stuks20 stuks20 stuks100 stuksper stuk20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi624/ah-servetten-2-laags-33x33-cm-wit",
+    "unitPrice": ""
+  },
+  {
+    "name": "Glorix Bleek original",
+    "price": "1.552.492.49",
+    "unit": "0,75 l0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi562/glorix-bleek-original",
+    "unitPrice": "Prijs per LT € 2,07"
+  },
+  {
+    "name": "AH Vuilnisemmerzakken 35L",
+    "price": "2.194.383.941.997.967.568.768.322.19",
+    "unit": "20 stuks2 stuks20 stuks4 stuks4 stuks25 stuks",
+    "url": "https://www.ah.nl/producten/product/wi565/ah-vuilnisemmerzakken-35l",
+    "unitPrice": ""
+  },
+  {
+    "name": "Appelsientje Tomatientje",
+    "price": "2.29",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi487/appelsientje-tomatientje",
+    "unitPrice": "Prijs per LT € 2,29"
+  },
+  {
+    "name": "Grolsch Premium pilsner bier 6-pack",
+    "price": "6.2925.1622.647.99",
+    "unit": "6 x 0,33 lper pakket6 x 50 cl",
+    "url": "https://www.ah.nl/producten/product/wi446/grolsch-premium-pilsner-bier-6-pack",
+    "unitPrice": "Prijs per LT € 3,18"
+  },
+  {
+    "name": "AH Blik pate rund wild",
+    "price": "0.950.995.945.354.090.454.49",
+    "unit": "400 g150 g6 stuks12 x 100 g150 g12 x 100 g",
+    "url": "https://www.ah.nl/producten/product/wi347/ah-blik-pate-rund-wild",
+    "unitPrice": "Prijs per KG € 2,38"
+  },
+  {
+    "name": "Conqueror Tawny port",
+    "price": "7.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi435/conqueror-tawny-port",
+    "unitPrice": "Prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Pat met rund",
+    "price": "0.850.290.293.903.510.790.79",
+    "unit": "400 g100 g100 gper stuk415 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi341/ah-pat-met-rund",
+    "unitPrice": "Prijs per KG € 2,13"
+  },
+  {
+    "name": "AH Blik brokjes kip kalkoen",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi337/ah-blik-brokjes-kip-kalkoen",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes wild gevogelte",
+    "price": "0.790.290.293.903.510.850.79",
+    "unit": "415 g100 g100 gper stuk400 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi336/ah-blik-brokjes-wild-gevogelte",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes zalm forel",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi334/ah-blik-brokjes-zalm-forel",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "Greenminds Schrijfblok A4 gelinieerd",
+    "price": "2.59",
+    "unit": "per stuk",
+    "url": "https://www.ah.nl/producten/product/wi319/greenminds-schrijfblok-a4-gelinieerd",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Amsterdamse uien",
+    "price": "0.65",
+    "unit": "320 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi317/ah-amsterdamse-uien",
+    "unitPrice": "Prijs per KG € 3,42"
+  },
+  {
+    "name": "AH Fruitcocktail siroop",
+    "price": "1.79",
+    "unit": "411 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi309/ah-fruitcocktail-siroop",
+    "unitPrice": "Prijs per KG € 7,16"
+  },
+  {
+    "name": "Cave de Beblenheim Pinot blanc",
+    "price": "5.794.79",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi307/cave-de-beblenheim-pinot-blanc",
+    "unitPrice": "Normale prijs per LT € 7,72"
+  },
+  {
+    "name": "Cave de Beblenheim AOC Alsace riesling",
+    "price": "7.296.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi305/cave-de-beblenheim-aoc-alsace-riesling",
+    "unitPrice": "Normale prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Kattenbak houtkorrels",
+    "price": "6.493.79",
+    "unit": "10 l6 l",
+    "url": "https://www.ah.nl/producten/product/wi294/ah-kattenbak-houtkorrels",
+    "unitPrice": "Prijs per LT € 0,65"
+  },
+  {
+    "name": "Chiarli 1860 Lambrusco bianco",
+    "price": "2.59",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi284/chiarli-1860-lambrusco-bianco",
+    "unitPrice": "Prijs per LT € 3,45"
+  },
+  {
+    "name": "AH Ah roomkaas met kruiden",
+    "price": "0.952.892.292.292.892.89",
+    "unit": "125 g125 g125 g125 g125 g125 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi257/ah-ah-roomkaas-met-kruiden",
+    "unitPrice": "Prijs per KG € 7,60"
+  },
+  {
+    "name": "AH Smeerkaas naturel",
+    "price": "0.690.750.790.691.85",
+    "unit": "100 g100 g105 g103 g300 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi249/ah-smeerkaas-naturel",
+    "unitPrice": "Prijs per KG € 6,90"
+  },
+  {
+    "name": "AH Koffiefilters no2",
+    "price": "0.750.89",
+    "unit": "80 stuks100 stuks",
+    "url": "https://www.ah.nl/producten/product/wi159/ah-koffiefilters-no2",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Galia meloen",
+    "price": "1.995.503.982.50",
+    "unit": "per stuk2 stuks200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi141/ah-galia-meloen",
+    "unitPrice": ""
+  },
+  {
+    "name": "Campina Halfvolle yoghurt vanillesmaak",
+    "price": "1.891.49",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi123/campina-halfvolle-yoghurt-vanillesmaak",
+    "unitPrice": "Normale prijs per LT € 1,89"
+  },
+  {
+    "name": "AH Aardappelballetjes",
+    "price": "1.891.95",
+    "unit": "600 g600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi107/ah-aardappelballetjes",
+    "unitPrice": "Prijs per KG € 3,15"
+  },
+  {
+    "name": "AH Franse baguettes",
+    "price": "0.754.183.971.091.492.093.273.11",
+    "unit": "2 stuks2 stuksper stuk250 g300 g3 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi73/ah-franse-baguettes",
+    "unitPrice": ""
+  },
+  {
+    "name": "Lea & Perrins Worcestershire saus",
+    "price": "1.99",
+    "unit": "150 ml",
+    "url": "https://www.ah.nl/producten/product/wi103/lea-en-perrins-worcestershire-saus",
+    "unitPrice": "Prijs per LT € 13,27"
+  },
+  {
+    "name": "AH Aardappelkroketjes",
+    "price": "1.19",
+    "unit": "600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi772/ah-aardappelkroketjes",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Spinazie fijn gesneden",
+    "price": "0.650.751.390.95",
+    "unit": "450 g450 g450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi769/ah-spinazie-fijn-gesneden",
+    "unitPrice": "Prijs per KG € 1,44"
+  },
+  {
+    "name": "AH Aardappelschijfjes",
+    "price": "1.99",
+    "unit": "600 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi765/ah-aardappelschijfjes",
+    "unitPrice": "Prijs per KG € 3,32"
+  },
+  {
+    "name": "AH Roomijs vanille",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi759/ah-roomijs-vanille",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Roomijs stracciatella",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi754/ah-roomijs-stracciatella",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Roomijs malaga",
+    "price": "3.493.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi751/ah-roomijs-malaga",
+    "unitPrice": "Prijs per LT € 3,49"
+  },
+  {
+    "name": "AH Chantilly",
+    "price": "3.195.991.992.392.29",
+    "unit": "8 stuks16 stuks8 x 120 ml6 stuks6 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi745/ah-chantilly",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Pizza kaas tomaat",
+    "price": "1.392.352.392.392.392.39",
+    "unit": "300 g540 g355 g355 g330 g335 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi737/ah-pizza-kaas-tomaat",
+    "unitPrice": "Prijs per KG € 4,63"
+  },
+  {
+    "name": "AH Pizzabroodjes salami",
+    "price": "1.391.29",
+    "unit": "2 x 125 g250 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi732/ah-pizzabroodjes-salami",
+    "unitPrice": "Prijs per KG € 5,56"
+  },
+  {
+    "name": "AH Afwasmiddel citrus",
+    "price": "1.191.551.291.551.191.39",
+    "unit": "0,5 l1 l0,5 l1 l0,5 l0,5 l",
+    "url": "https://www.ah.nl/producten/product/wi651/ah-afwasmiddel-citrus",
+    "unitPrice": "Prijs per LT € 2,38"
+  },
+  {
+    "name": "AH Dikke bleek",
+    "price": "0.901.690.90",
+    "unit": "0,75 l2 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi648/ah-dikke-bleek",
+    "unitPrice": "Prijs per LT € 1,20"
+  },
+  {
+    "name": "AH Tissues zacht & sterk",
+    "price": "1.491.895.965.361.591.12",
+    "unit": "100 stuks80 stuks4 stuks150 stuks150 stuks",
+    "url": "https://www.ah.nl/producten/product/wi632/ah-tissues-zacht-en-sterk",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Servetten 2-laags 33x33 cm wit",
+    "price": "1.991.691.990.893.991.69",
+    "unit": "50 stuks20 stuks20 stuks100 stuksper stuk20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi624/ah-servetten-2-laags-33x33-cm-wit",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Vuilnisemmerzakken 35L",
+    "price": "2.194.383.941.997.967.568.768.322.19",
+    "unit": "20 stuks2 stuks20 stuks4 stuks4 stuks25 stuks",
+    "url": "https://www.ah.nl/producten/product/wi565/ah-vuilnisemmerzakken-35l",
+    "unitPrice": ""
+  },
+  {
+    "name": "Glorix Bleek original",
+    "price": "1.552.492.49",
+    "unit": "0,75 l0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi562/glorix-bleek-original",
+    "unitPrice": "Prijs per LT € 2,07"
+  },
+  {
+    "name": "Appelsientje Tomatientje",
+    "price": "2.29",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi487/appelsientje-tomatientje",
+    "unitPrice": "Prijs per LT € 2,29"
+  },
+  {
+    "name": "Grolsch Premium pilsner bier 6-pack",
+    "price": "6.2925.1622.647.99",
+    "unit": "6 x 0,33 lper pakket6 x 50 cl",
+    "url": "https://www.ah.nl/producten/product/wi446/grolsch-premium-pilsner-bier-6-pack",
+    "unitPrice": "Prijs per LT € 3,18"
+  },
+  {
+    "name": "Conqueror Tawny port",
+    "price": "7.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi435/conqueror-tawny-port",
+    "unitPrice": "Prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Blik pate rund wild",
+    "price": "0.950.995.945.354.090.454.49",
+    "unit": "400 g150 g6 stuks12 x 100 g150 g12 x 100 g",
+    "url": "https://www.ah.nl/producten/product/wi347/ah-blik-pate-rund-wild",
+    "unitPrice": "Prijs per KG € 2,38"
+  },
+  {
+    "name": "AH Pat met rund",
+    "price": "0.850.290.293.903.510.790.79",
+    "unit": "400 g100 g100 gper stuk415 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi341/ah-pat-met-rund",
+    "unitPrice": "Prijs per KG € 2,13"
+  },
+  {
+    "name": "AH Blik brokjes kip kalkoen",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi337/ah-blik-brokjes-kip-kalkoen",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes wild gevogelte",
+    "price": "0.790.290.293.903.510.850.79",
+    "unit": "415 g100 g100 gper stuk400 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi336/ah-blik-brokjes-wild-gevogelte",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes zalm forel",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi334/ah-blik-brokjes-zalm-forel",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "Greenminds Schrijfblok A4 gelinieerd",
+    "price": "2.59",
+    "unit": "per stuk",
+    "url": "https://www.ah.nl/producten/product/wi319/greenminds-schrijfblok-a4-gelinieerd",
+    "unitPrice": ""
+  },
+  {
+    "name": "Cave de Beblenheim Pinot blanc",
+    "price": "5.794.79",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi307/cave-de-beblenheim-pinot-blanc",
+    "unitPrice": "Normale prijs per LT € 7,72"
+  },
+  {
+    "name": "AH Amsterdamse uien",
+    "price": "0.65",
+    "unit": "320 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi317/ah-amsterdamse-uien",
+    "unitPrice": "Prijs per KG € 3,42"
+  },
+  {
+    "name": "AH Fruitcocktail siroop",
+    "price": "1.79",
+    "unit": "411 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi309/ah-fruitcocktail-siroop",
+    "unitPrice": "Prijs per KG € 7,16"
+  },
+  {
+    "name": "AH Kattenbak houtkorrels",
+    "price": "6.493.79",
+    "unit": "10 l6 l",
+    "url": "https://www.ah.nl/producten/product/wi294/ah-kattenbak-houtkorrels",
+    "unitPrice": "Prijs per LT € 0,65"
+  },
+  {
+    "name": "Cave de Beblenheim AOC Alsace riesling",
+    "price": "7.296.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi305/cave-de-beblenheim-aoc-alsace-riesling",
+    "unitPrice": "Normale prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Ah roomkaas met kruiden",
+    "price": "0.952.892.292.292.892.89",
+    "unit": "125 g125 g125 g125 g125 g125 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi257/ah-ah-roomkaas-met-kruiden",
+    "unitPrice": "Prijs per KG € 7,60"
+  },
+  {
+    "name": "Chiarli 1860 Lambrusco bianco",
+    "price": "2.59",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi284/chiarli-1860-lambrusco-bianco",
+    "unitPrice": "Prijs per LT € 3,45"
+  },
+  {
+    "name": "AH Smeerkaas naturel",
+    "price": "0.690.750.790.691.85",
+    "unit": "100 g100 g105 g103 g300 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi249/ah-smeerkaas-naturel",
+    "unitPrice": "Prijs per KG € 6,90"
+  },
+  {
+    "name": "AH Galia meloen",
+    "price": "1.995.503.982.50",
+    "unit": "per stuk2 stuks200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi141/ah-galia-meloen",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Koffiefilters no2",
+    "price": "0.750.89",
+    "unit": "80 stuks100 stuks",
+    "url": "https://www.ah.nl/producten/product/wi159/ah-koffiefilters-no2",
+    "unitPrice": ""
+  },
+  {
+    "name": "Campina Halfvolle yoghurt vanillesmaak",
+    "price": "1.891.49",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi123/campina-halfvolle-yoghurt-vanillesmaak",
+    "unitPrice": "Normale prijs per LT € 1,89"
+  },
+  {
+    "name": "AH Aardappelballetjes",
+    "price": "1.891.95",
+    "unit": "600 g600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi107/ah-aardappelballetjes",
+    "unitPrice": "Prijs per KG € 3,15"
+  },
+  {
+    "name": "AH Franse baguettes",
+    "price": "0.754.183.971.091.492.093.273.11",
+    "unit": "2 stuks2 stuksper stuk250 g300 g3 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi73/ah-franse-baguettes",
+    "unitPrice": ""
+  },
+  {
+    "name": "Lea & Perrins Worcestershire saus",
+    "price": "1.99",
+    "unit": "150 ml",
+    "url": "https://www.ah.nl/producten/product/wi103/lea-en-perrins-worcestershire-saus",
+    "unitPrice": "Prijs per LT € 13,27"
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.690.791.291.110.591.15",
+    "unit": "360 g400 g800 g800 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi805/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,92"
+  },
+  {
+    "name": "AH Wortelen",
+    "price": "0.750.690.89",
+    "unit": "340 g180 g680 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi806/ah-wortelen",
+    "unitPrice": "Prijs per KG € 3,49"
+  },
+  {
+    "name": "AH Maiskorrels fris en knapperig",
+    "price": "1.051.991.69",
+    "unit": "300 g450 g190 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi800/ah-maiskorrels-fris-en-knapperig",
+    "unitPrice": "Prijs per KG € 3,50"
+  },
+  {
+    "name": "AH Tomaten gepeld",
+    "price": "0.69",
+    "unit": "400 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi803/ah-tomaten-gepeld",
+    "unitPrice": "Prijs per KG € 1,73"
+  },
+  {
+    "name": "AH Lekkerbekjes",
+    "price": "2.992.99",
+    "unit": "3 x 100 g350 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi799/ah-lekkerbekjes",
+    "unitPrice": "Prijs per KG € 9,97"
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.791.291.110.690.591.15",
+    "unit": "400 g800 g800 g360 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi796/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Vrieslollies",
+    "price": "1.191.591.990.992.992.29",
+    "unit": "10 stuks12 stuks8 stuks8 stuks5 stuks15 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi793/ah-vrieslollies",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Kabeljauw",
+    "price": "4.495.499.99",
+    "unit": "400 g250 g675 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi792/ah-kabeljauw",
+    "unitPrice": "Prijs per KG € 11,23"
+  },
+  {
+    "name": "AH Spinazie  la creme",
+    "price": "0.751.390.950.65",
+    "unit": "450 g450 g750 g450 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi777/ah-spinazie-la-creme",
+    "unitPrice": "Prijs per KG € 1,67"
+  },
+  {
+    "name": "AH Tuinerwten fijn",
+    "price": "0.951.39",
+    "unit": "450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi788/ah-tuinerwten-fijn",
+    "unitPrice": "Prijs per KG € 2,11"
+  },
+  {
+    "name": "AH Aardappelkroketjes",
+    "price": "1.19",
+    "unit": "600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi772/ah-aardappelkroketjes",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Spinazie fijn gesneden",
+    "price": "0.650.751.390.95",
+    "unit": "450 g450 g450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi769/ah-spinazie-fijn-gesneden",
+    "unitPrice": "Prijs per KG € 1,44"
+  },
+  {
+    "name": "AH Roomijs vanille",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi759/ah-roomijs-vanille",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Aardappelschijfjes",
+    "price": "1.99",
+    "unit": "600 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi765/ah-aardappelschijfjes",
+    "unitPrice": "Prijs per KG € 3,32"
+  },
+  {
+    "name": "AH Roomijs stracciatella",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi754/ah-roomijs-stracciatella",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Roomijs malaga",
+    "price": "3.493.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi751/ah-roomijs-malaga",
+    "unitPrice": "Prijs per LT € 3,49"
+  },
+  {
+    "name": "AH Chantilly",
+    "price": "3.195.991.992.392.29",
+    "unit": "8 stuks16 stuks8 x 120 ml6 stuks6 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi745/ah-chantilly",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Pizza kaas tomaat",
+    "price": "1.392.352.392.392.392.39",
+    "unit": "300 g540 g355 g355 g330 g335 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi737/ah-pizza-kaas-tomaat",
+    "unitPrice": "Prijs per KG € 4,63"
+  },
+  {
+    "name": "AH Pizzabroodjes salami",
+    "price": "1.391.29",
+    "unit": "2 x 125 g250 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi732/ah-pizzabroodjes-salami",
+    "unitPrice": "Prijs per KG € 5,56"
+  },
+  {
+    "name": "AH Afwasmiddel citrus",
+    "price": "1.191.551.291.551.191.39",
+    "unit": "0,5 l1 l0,5 l1 l0,5 l0,5 l",
+    "url": "https://www.ah.nl/producten/product/wi651/ah-afwasmiddel-citrus",
+    "unitPrice": "Prijs per LT € 2,38"
+  },
+  {
+    "name": "AH Dikke bleek",
+    "price": "0.901.690.90",
+    "unit": "0,75 l2 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi648/ah-dikke-bleek",
+    "unitPrice": "Prijs per LT € 1,20"
+  },
+  {
+    "name": "AH Tissues zacht & sterk",
+    "price": "1.491.895.965.361.591.12",
+    "unit": "100 stuks80 stuks4 stuks150 stuks150 stuks",
+    "url": "https://www.ah.nl/producten/product/wi632/ah-tissues-zacht-en-sterk",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Servetten 2-laags 33x33 cm wit",
+    "price": "1.991.691.990.893.991.69",
+    "unit": "50 stuks20 stuks20 stuks100 stuksper stuk20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi624/ah-servetten-2-laags-33x33-cm-wit",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Vuilnisemmerzakken 35L",
+    "price": "2.194.383.941.997.967.568.768.322.19",
+    "unit": "20 stuks2 stuks20 stuks4 stuks4 stuks25 stuks",
+    "url": "https://www.ah.nl/producten/product/wi565/ah-vuilnisemmerzakken-35l",
+    "unitPrice": ""
+  },
+  {
+    "name": "Glorix Bleek original",
+    "price": "1.552.492.49",
+    "unit": "0,75 l0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi562/glorix-bleek-original",
+    "unitPrice": "Prijs per LT € 2,07"
+  },
+  {
+    "name": "Grolsch Premium pilsner bier 6-pack",
+    "price": "6.2925.1622.647.99",
+    "unit": "6 x 0,33 lper pakket6 x 50 cl",
+    "url": "https://www.ah.nl/producten/product/wi446/grolsch-premium-pilsner-bier-6-pack",
+    "unitPrice": "Prijs per LT € 3,18"
+  },
+  {
+    "name": "Appelsientje Tomatientje",
+    "price": "2.29",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi487/appelsientje-tomatientje",
+    "unitPrice": "Prijs per LT € 2,29"
+  },
+  {
+    "name": "Conqueror Tawny port",
+    "price": "7.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi435/conqueror-tawny-port",
+    "unitPrice": "Prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Blik pate rund wild",
+    "price": "0.950.995.945.354.090.454.49",
+    "unit": "400 g150 g6 stuks12 x 100 g150 g12 x 100 g",
+    "url": "https://www.ah.nl/producten/product/wi347/ah-blik-pate-rund-wild",
+    "unitPrice": "Prijs per KG € 2,38"
+  },
+  {
+    "name": "AH Pat met rund",
+    "price": "0.850.290.293.903.510.790.79",
+    "unit": "400 g100 g100 gper stuk415 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi341/ah-pat-met-rund",
+    "unitPrice": "Prijs per KG € 2,13"
+  },
+  {
+    "name": "AH Blik brokjes kip kalkoen",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi337/ah-blik-brokjes-kip-kalkoen",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes wild gevogelte",
+    "price": "0.790.290.293.903.510.850.79",
+    "unit": "415 g100 g100 gper stuk400 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi336/ah-blik-brokjes-wild-gevogelte",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes zalm forel",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi334/ah-blik-brokjes-zalm-forel",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "Greenminds Schrijfblok A4 gelinieerd",
+    "price": "2.59",
+    "unit": "per stuk",
+    "url": "https://www.ah.nl/producten/product/wi319/greenminds-schrijfblok-a4-gelinieerd",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Fruitcocktail siroop",
+    "price": "1.79",
+    "unit": "411 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi309/ah-fruitcocktail-siroop",
+    "unitPrice": "Prijs per KG € 7,16"
+  },
+  {
+    "name": "AH Amsterdamse uien",
+    "price": "0.65",
+    "unit": "320 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi317/ah-amsterdamse-uien",
+    "unitPrice": "Prijs per KG € 3,42"
+  },
+  {
+    "name": "Cave de Beblenheim Pinot blanc",
+    "price": "5.794.79",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi307/cave-de-beblenheim-pinot-blanc",
+    "unitPrice": "Normale prijs per LT € 7,72"
+  },
+  {
+    "name": "Cave de Beblenheim AOC Alsace riesling",
+    "price": "7.296.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi305/cave-de-beblenheim-aoc-alsace-riesling",
+    "unitPrice": "Normale prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Kattenbak houtkorrels",
+    "price": "6.493.79",
+    "unit": "10 l6 l",
+    "url": "https://www.ah.nl/producten/product/wi294/ah-kattenbak-houtkorrels",
+    "unitPrice": "Prijs per LT € 0,65"
+  },
+  {
+    "name": "Chiarli 1860 Lambrusco bianco",
+    "price": "2.59",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi284/chiarli-1860-lambrusco-bianco",
+    "unitPrice": "Prijs per LT € 3,45"
+  },
+  {
+    "name": "AH Ah roomkaas met kruiden",
+    "price": "0.952.892.292.292.892.89",
+    "unit": "125 g125 g125 g125 g125 g125 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi257/ah-ah-roomkaas-met-kruiden",
+    "unitPrice": "Prijs per KG € 7,60"
+  },
+  {
+    "name": "AH Smeerkaas naturel",
+    "price": "0.690.750.790.691.85",
+    "unit": "100 g100 g105 g103 g300 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi249/ah-smeerkaas-naturel",
+    "unitPrice": "Prijs per KG € 6,90"
+  },
+  {
+    "name": "AH Koffiefilters no2",
+    "price": "0.750.89",
+    "unit": "80 stuks100 stuks",
+    "url": "https://www.ah.nl/producten/product/wi159/ah-koffiefilters-no2",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Galia meloen",
+    "price": "1.995.503.982.50",
+    "unit": "per stuk2 stuks200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi141/ah-galia-meloen",
+    "unitPrice": ""
+  },
+  {
+    "name": "Campina Halfvolle yoghurt vanillesmaak",
+    "price": "1.891.49",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi123/campina-halfvolle-yoghurt-vanillesmaak",
+    "unitPrice": "Normale prijs per LT € 1,89"
+  },
+  {
+    "name": "AH Aardappelballetjes",
+    "price": "1.891.95",
+    "unit": "600 g600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi107/ah-aardappelballetjes",
+    "unitPrice": "Prijs per KG € 3,15"
+  },
+  {
+    "name": "AH Franse baguettes",
+    "price": "0.754.183.971.091.492.093.273.11",
+    "unit": "2 stuks2 stuksper stuk250 g300 g3 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi73/ah-franse-baguettes",
+    "unitPrice": ""
+  },
+  {
+    "name": "Lea & Perrins Worcestershire saus",
+    "price": "1.99",
+    "unit": "150 ml",
+    "url": "https://www.ah.nl/producten/product/wi103/lea-en-perrins-worcestershire-saus",
+    "unitPrice": "Prijs per LT € 13,27"
+  },
+  {
+    "name": "Soubry Chinese mie",
+    "price": "0.790.99",
+    "unit": "250 g250 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi36767/soubry-chinese-mie",
+    "unitPrice": "Prijs per KG € 3,16"
+  },
+  {
+    "name": "Soubry Chinese eiermie",
+    "price": "0.990.79",
+    "unit": "250 g250 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi36766/soubry-chinese-eiermie",
+    "unitPrice": "Prijs per KG € 3,96"
+  },
+  {
+    "name": "Lassie Dessertrijst",
+    "price": "1.79",
+    "unit": "400 g",
+    "url": "https://www.ah.nl/producten/product/wi36710/lassie-dessertrijst",
+    "unitPrice": "Prijs per KG € 4,48"
+  },
+  {
+    "name": "Koopmans Mix voor poffertjes origineel",
+    "price": "1.89",
+    "unit": "400 g",
+    "url": "https://www.ah.nl/producten/product/wi36703/koopmans-mix-voor-poffertjes-origineel",
+    "unitPrice": "Prijs per KG € 4,73"
+  },
+  {
+    "name": "Grand' Italia Pesto rosso",
+    "price": "2.593.693.693.693.392.99",
+    "unit": "90 g185 g185 g185 g185 g185 g",
+    "url": "https://www.ah.nl/producten/product/wi36585/grand-italia-pesto-rosso",
+    "unitPrice": "Prijs per KG € 28,78"
+  },
+  {
+    "name": "AH Zilvervliesrijst",
+    "price": "1.191.991.79",
+    "unit": "400 g300 g1 kg",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi36488/ah-zilvervliesrijst",
+    "unitPrice": "Prijs per KG € 2,98"
+  },
+  {
+    "name": "AH Mix voor pannenkoeken meergranen",
+    "price": "0.791.291.430.75",
+    "unit": "400 g400 g200 g400 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi36478/ah-mix-voor-pannenkoeken-meergranen",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "Natrena Classic zoetjes navul",
+    "price": "3.893.891.592.79",
+    "unit": "800 stuks125 ml100 stuks400 stuks",
+    "url": "https://www.ah.nl/producten/product/wi36414/natrena-classic-zoetjes-navul",
+    "unitPrice": ""
+  },
+  {
+    "name": "Natrena Zoetjes",
+    "price": "1.593.893.892.79",
+    "unit": "100 stuks800 stuks125 ml400 stuks",
+    "url": "https://www.ah.nl/producten/product/wi36412/natrena-zoetjes",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Extra lang lekker tijger wit half",
+    "price": "0.750.901.491.39",
+    "unit": "per stukper stukper stukper stuk",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi36136/ah-extra-lang-lekker-tijger-wit-half",
+    "unitPrice": ""
+  },
+  {
+    "name": "Van Gilse Geleisuiker speciaal",
+    "price": "2.19",
+    "unit": "500 g",
+    "url": "https://www.ah.nl/producten/product/wi36392/van-gilse-geleisuiker-speciaal",
+    "unitPrice": "Prijs per KG € 4,38"
+  },
+  {
+    "name": "Jersey Chocolate eclairs",
+    "price": "1.49",
+    "unit": "150 g",
+    "url": "https://www.ah.nl/producten/product/wi35718/jersey-chocolate-eclairs",
+    "unitPrice": "Prijs per KG € 9,93"
+  },
+  {
+    "name": "Dextro Energy citroen",
+    "price": "2.092.452.49",
+    "unit": "3 stuks94 g45 g",
+    "url": "https://www.ah.nl/producten/product/wi35686/dextro-energy-citroen",
+    "unitPrice": "Prijs per KG € 14,82"
+  },
+  {
+    "name": "AH Droppastilles suikervrij",
+    "price": "1.291.081.991.59",
+    "unit": "100 g220 g300 g100 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi35627/ah-droppastilles-suikervrij",
+    "unitPrice": "Prijs per KG € 12,90"
+  },
+  {
+    "name": "Toffifee Toffifee",
+    "price": "1.89",
+    "unit": "125 g",
+    "url": "https://www.ah.nl/producten/product/wi35539/toffifee-toffifee",
+    "unitPrice": "Prijs per KG € 15,12"
+  },
+  {
+    "name": "Merci Finest Selection melk",
+    "price": "3.652.693.992.696.994.19",
+    "unit": "250 g125 g250 g125 g400 g250 g",
+    "url": "https://www.ah.nl/producten/product/wi35485/merci-finest-selection-melk",
+    "unitPrice": "Prijs per KG € 14,60"
+  },
+  {
+    "name": "Delicata Wit crisp",
+    "price": "1.552.69",
+    "unit": "100 g150 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi35406/delicata-wit-crisp",
+    "unitPrice": "Prijs per KG € 15,50"
+  },
+  {
+    "name": "Delicata Melk 36% cacao",
+    "price": "1.394.392.199.568.602.395.565.28",
+    "unit": "100 g400 g100 g4 stuks200 g4 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi35398/delicata-melk-36-cacao",
+    "unitPrice": "Prijs per KG € 13,90"
+  },
+  {
+    "name": "Delicata Reep puur",
+    "price": "1.394.954.701.651.651.651.65",
+    "unit": "100 g3-pack100 g100 g100 g100 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi35401/delicata-reep-puur",
+    "unitPrice": "Prijs per KG € 13,90"
+  },
+  {
+    "name": "Delicata Melk hazelnoot",
+    "price": "1.492.692.75",
+    "unit": "100 g150 g200 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi35396/delicata-melk-hazelnoot",
+    "unitPrice": "Prijs per KG € 14,90"
+  },
+  {
+    "name": "Delicata Puur hazelnoot",
+    "price": "1.492.75",
+    "unit": "100 g200 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi35395/delicata-puur-hazelnoot",
+    "unitPrice": "Prijs per KG € 14,90"
+  },
+  {
+    "name": "Delicata Melk butterscotch",
+    "price": "1.492.692.692.751.55",
+    "unit": "100 g150 g150 g200 g100 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi35392/delicata-melk-butterscotch",
+    "unitPrice": "Prijs per KG € 14,90"
+  },
+  {
+    "name": "AH Tablet melk",
+    "price": "0.651.951.852.091.39",
+    "unit": "100 g3 stuks200 g200 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi35362/ah-tablet-melk",
+    "unitPrice": "Prijs per KG € 6,50"
+  },
+  {
+    "name": "AH Bakkersmakronen kokoskoek",
+    "price": "3.591.041.851.852.252.29",
+    "unit": "6 stuks210 g360 g300 g8 stuks300 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi35284/ah-bakkersmakronen-kokoskoek",
+    "unitPrice": "Prijs per KG € 9,97"
+  },
+  {
+    "name": "AH Tarwe biscuit",
+    "price": "0.950.821.090.883.273.11",
+    "unit": "450 g300 g400 g400 g3 stuks",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi35191/ah-tarwe-biscuit",
+    "unitPrice": "Prijs per KG € 2,11"
+  },
+  {
+    "name": "LU Tuc bacon",
+    "price": "1.192.390.993.580.891.79",
+    "unit": "100 g300 g100 gper stuk100 g100 g",
+    "url": "https://www.ah.nl/producten/product/wi35001/lu-tuc-bacon",
+    "unitPrice": "Prijs per KG € 11,90"
+  },
+  {
+    "name": "AH Roomboter hazelnootzandjes",
+    "price": "2.791.851.852.351.851.19",
+    "unit": "200 g240 g200 g200 g230 g260 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi35056/ah-roomboter-hazelnootzandjes",
+    "unitPrice": "Prijs per KG € 13,95"
+  },
+  {
+    "name": "Bavaria 0.0% Bier",
+    "price": "0.794.696.254.39",
+    "unit": "0,33 l6 x 0,33 l6 x 0,33 l6 x 0,3 l",
+    "url": "https://www.ah.nl/producten/product/wi34667/bavaria-0-0-bier",
+    "unitPrice": "Prijs per LT € 2,39"
+  },
+  {
+    "name": "AH Slagroom houdbaar",
+    "price": "0.994.474.251.351.591.494.784.54",
+    "unit": "200 ml3 stuks250 g250 g250 g2 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi34471/ah-slagroom-houdbaar",
+    "unitPrice": "Prijs per LT € 4,95"
+  },
+  {
+    "name": "AH Volle koffiemelk",
+    "price": "0.991.851.561.480.394.364.140.99",
+    "unit": "188 ml460 ml4 stuks71 ml4 stuks465 ml",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi34388/ah-volle-koffiemelk",
+    "unitPrice": "Prijs per LT € 5,27"
+  },
+  {
+    "name": "AH Biologisch Volle koffiemelk",
+    "price": "1.251.15",
+    "unit": "188 ml186 ml",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi34419/ah-biologisch-volle-koffiemelk",
+    "unitPrice": "Prijs per LT € 6,65"
+  },
+  {
+    "name": "Spaanse wijn vino tinto dulce",
+    "price": "4.294.29",
+    "unit": "0,75 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi34376/spaanse-wijn-vino-tinto-dulce",
+    "unitPrice": "Prijs per LT € 5,72"
+  },
+  {
+    "name": "Undurraga Merlot",
+    "price": "5.293.97",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi34361/undurraga-merlot",
+    "unitPrice": "Normale prijs per LT € 7,05"
+  },
+  {
+    "name": "Jerez Sherry medium",
+    "price": "4.557.29",
+    "unit": "0,75 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi34347/jerez-sherry-medium",
+    "unitPrice": "Prijs per LT € 6,07"
+  },
+  {
+    "name": "Moselland Piesporter Michelsberg",
+    "price": "4.195.29",
+    "unit": "0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi34296/moselland-piesporter-michelsberg",
+    "unitPrice": "Prijs per LT € 5,59"
+  },
+  {
+    "name": "Sélection Clémence Moelleux",
+    "price": "3.09",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi34340/selection-clemence-moelleux",
+    "unitPrice": "Prijs per LT € 4,12"
+  },
+  {
+    "name": "Jerez Sherry 887 Fino",
+    "price": "7.294.55",
+    "unit": "1 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi34290/jerez-sherry-887-fino",
+    "unitPrice": "Prijs per LT € 7,29"
+  },
+  {
+    "name": "Vruchtenwijn frambozen-bessen",
+    "price": "4.294.29",
+    "unit": "1 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi34091/vruchtenwijn-frambozen-bessen",
+    "unitPrice": "Prijs per LT € 4,29"
+  },
+  {
+    "name": "Perla Huisblends Aroma grove maling snelfiltermaling",
+    "price": "3.5913.293.993.5926.5825.256.69",
+    "unit": "250 g2 x 500 g250 g250 gper pakket500 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi33967/perla-huisblends-aroma-grove-maling-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 14,36"
+  },
+  {
+    "name": "Droste Cacao",
+    "price": "3.19",
+    "unit": "250 g",
+    "url": "https://www.ah.nl/producten/product/wi34023/droste-cacao",
+    "unitPrice": "Prijs per KG € 12,76"
+  },
+  {
+    "name": "Perla Huisblends Decaf snelfiltermaling",
+    "price": "6.993.79",
+    "unit": "500 g250 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi33963/perla-huisblends-decaf-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 13,98"
+  },
+  {
+    "name": "Douwe Egberts Aroma rood grove maling filterkoffie",
+    "price": "7.4914.494.194.698.993.99",
+    "unit": "500 g2 x 500 g250 g250 g500 g250 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi33918/douwe-egberts-aroma-rood-grove-maling-filterkoffie",
+    "unitPrice": "Prijs per KG € 14,98"
+  },
+  {
+    "name": "Perla Huisblends Mild snelfiltermaling",
+    "price": "3.793.5913.293.993.5926.5825.25",
+    "unit": "250 g250 g2 x 500 g250 g250 gper pakket",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi33956/perla-huisblends-mild-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 15,16"
+  },
+  {
+    "name": "Douwe Egberts Aroma rood oploskoffie",
+    "price": "6.491.798.092.79",
+    "unit": "200 g10 stuks200 g25 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi33910/douwe-egberts-aroma-rood-oploskoffie",
+    "unitPrice": "Prijs per KG € 32,45"
+  },
+  {
+    "name": "Campina Biologisch volle melk",
+    "price": "1.79",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi33867/campina-biologisch-volle-melk",
+    "unitPrice": "Prijs per LT € 1,79"
+  },
+  {
+    "name": "Almhof Volle kwark vanille",
+    "price": "2.992.992.99",
+    "unit": "500 g500 g500 g",
+    "url": "https://www.ah.nl/producten/product/wi33721/almhof-volle-kwark-vanille",
+    "unitPrice": "Prijs per KG € 5,98"
+  },
+  {
+    "name": "Almhof Volle kwark citroen",
+    "price": "2.992.992.99",
+    "unit": "500 g500 g500 g",
+    "url": "https://www.ah.nl/producten/product/wi33720/almhof-volle-kwark-citroen",
+    "unitPrice": "Prijs per KG € 5,98"
+  },
+  {
+    "name": "AH Volle yoghurt",
+    "price": "0.991.45",
+    "unit": "0,5 l1 l",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi33712/ah-volle-yoghurt",
+    "unitPrice": "Prijs per LT € 1,98"
+  },
+  {
+    "name": "AH Volle melk",
+    "price": "0.951.29",
+    "unit": "0,5 l1 l",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi33710/ah-volle-melk",
+    "unitPrice": "Prijs per LT € 1,90"
+  },
+  {
+    "name": "AH Magere yoghurt",
+    "price": "0.851.791.293.873.68",
+    "unit": "0,5 l1,5 l1 l3 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi33703/ah-magere-yoghurt",
+    "unitPrice": "Prijs per LT € 1,70"
+  },
+  {
+    "name": "AH Vanillevla",
+    "price": "0.891.39",
+    "unit": "0,5 l1 l",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi33708/ah-vanillevla",
+    "unitPrice": "Prijs per LT € 1,78"
+  },
+  {
+    "name": "AH Halfvolle melk",
+    "price": "1.696.766.420.892.672.541.191.49",
+    "unit": "1,5 l4 stuks0,5 l3x 0.5L1 l1 l",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi33693/ah-halfvolle-melk",
+    "unitPrice": "Prijs per LT € 1,13"
+  },
+  {
+    "name": "AH Halfvolle melk",
+    "price": "0.896.766.421.692.672.541.191.49",
+    "unit": "0,5 l4 stuks1,5 l3x 0.5L1 l1 l",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi33691/ah-halfvolle-melk",
+    "unitPrice": "Prijs per LT € 1,78"
+  },
+  {
+    "name": "Campina Dubbelvla aardbei vanille smaak",
+    "price": "2.251.492.191.49",
+    "unit": "1 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi33682/campina-dubbelvla-aardbei-vanille-smaak",
+    "unitPrice": "Normale prijs per LT € 2,25"
+  },
+  {
+    "name": "AH Chocoladevla",
+    "price": "0.991.59",
+    "unit": "0,5 l1 l",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi33681/ah-chocoladevla",
+    "unitPrice": "Prijs per LT € 1,98"
+  },
+  {
+    "name": "Natuurfarm de Boed Mais-scharreleieren M",
+    "price": "2.593.89",
+    "unit": "6 stuks10 stuks",
+    "url": "https://www.ah.nl/producten/product/wi33665/natuurfarm-de-boed-mais-scharreleieren-m",
+    "unitPrice": ""
+  },
+  {
+    "name": "Natuurfarm de Boed Mais-scharreleieren L",
+    "price": "3.892.59",
+    "unit": "10 stuks6 stuks",
+    "url": "https://www.ah.nl/producten/product/wi33664/natuurfarm-de-boed-mais-scharreleieren-l",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Verse scharreleieren M",
+    "price": "3.9912.8711.582.596.494.2911.9711.37",
+    "unit": "10 stuks3 stuks6 stuks20 stuks10 stuks3 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi33658/ah-verse-scharreleieren-m",
+    "unitPrice": ""
+  },
+  {
+    "name": "Parrano Orginale rasp",
+    "price": "2.491.854.584.353.992.394.784.54",
+    "unit": "100 g60 gper pakket140 g135 g2 stuks",
+    "url": "https://www.ah.nl/producten/product/wi33648/parrano-orginale-rasp",
+    "unitPrice": "Prijs per KG € 24,90"
+  },
+  {
+    "name": "AH Eendenborstfilet scharrel",
+    "price": "7.994.49",
+    "unit": "ca. 280 gca. 100 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi33636/ah-eendenborstfilet-scharrel",
+    "unitPrice": "Prijs per KG € 28,54"
+  },
+  {
+    "name": "AH Smeerkaas sambal",
+    "price": "0.750.790.691.850.69",
+    "unit": "100 g105 g103 g300 g100 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi33597/ah-smeerkaas-sambal",
+    "unitPrice": "Prijs per KG € 7,50"
+  },
+  {
+    "name": "Unox Smac XXL de enige echte",
+    "price": "3.253.692.391.893.593.19",
+    "unit": "340 g250 g250 g3 x 56 g6 x 56 g3 x 56 g",
+    "url": "https://www.ah.nl/producten/product/wi33355/unox-smac-xxl-de-enige-echte",
+    "unitPrice": "Prijs per KG € 9,56"
+  },
+  {
+    "name": "Unox Schouderhammix",
+    "price": "5.25",
+    "unit": "200 g",
+    "url": "https://www.ah.nl/producten/product/wi33352/unox-schouderhammix",
+    "unitPrice": "Prijs per KG € 26,25"
+  },
+  {
+    "name": "AH Duitse knakworst",
+    "price": "2.497.967.162.083.393.391.49",
+    "unit": "6 x 30 g4 stuks4 stuks260 g560 g400 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi33277/ah-duitse-knakworst",
+    "unitPrice": "Prijs per KG € 6,55"
+  },
+  {
+    "name": "AH Luncheon meat",
+    "price": "1.991.15",
+    "unit": "340 g3 x 56 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi33287/ah-luncheon-meat",
+    "unitPrice": "Prijs per KG € 5,85"
+  },
+  {
+    "name": "AH Excellent Champignonragout",
+    "price": "1.591.591.59",
+    "unit": "400 g400 g400 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi33269/ah-excellent-champignonragout",
+    "unitPrice": "Prijs per KG € 3,98"
+  },
+  {
+    "name": "AH Pain d'ardenne",
+    "price": "2.69",
+    "unit": "ca. 100 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi33145/ah-pain-d-ardenne",
+    "unitPrice": "Prijs per KG € 26,90"
+  },
+  {
+    "name": "AH Goudsalami",
+    "price": "2.495.975.502.79",
+    "unit": "250 gper stuk70 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi33068/ah-goudsalami",
+    "unitPrice": "Prijs per KG € 9,96"
+  },
+  {
+    "name": "AH Saksische leverworst",
+    "price": "0.891.990.991.691.291.89",
+    "unit": "120 g250 g2 x 150 g150 g150 g125 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi33123/ah-saksische-leverworst",
+    "unitPrice": "Prijs per KG € 7,42"
+  },
+  {
+    "name": "AH Duitse theeworst",
+    "price": "1.891.990.991.691.290.89",
+    "unit": "125 g250 g2 x 150 g150 g150 g120 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi33046/ah-duitse-theeworst",
+    "unitPrice": "Prijs per KG € 15,12"
+  },
+  {
+    "name": "AH Fijne cervelaat",
+    "price": "2.49",
+    "unit": "250 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi33050/ah-fijne-cervelaat",
+    "unitPrice": "Prijs per KG € 9,96"
+  },
+  {
+    "name": "AH Boerenleverworst",
+    "price": "1.990.991.691.291.890.89",
+    "unit": "250 g2 x 150 g150 g150 g125 g120 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi33027/ah-boerenleverworst",
+    "unitPrice": "Prijs per KG € 7,96"
+  },
+  {
+    "name": "AH Bakbloedworst dikke plak",
+    "price": "1.247.176.452.992.492.891.59",
+    "unit": "ca. 125 g3 stuks500 g300 g200 g150 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi32980/ah-bakbloedworst-dikke-plak",
+    "unitPrice": "Prijs per KG € 9,92"
+  },
+  {
+    "name": "AH Bapao kip",
+    "price": "1.191.191.290.854.764.524.764.52",
+    "unit": "115 g115 g115 g2 stuks4 stuks4-pack",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi33018/ah-bapao-kip",
+    "unitPrice": "Prijs per KG € 10,35"
+  },
+  {
+    "name": "Timson Rinse appelstroop",
+    "price": "2.65",
+    "unit": "450 g",
+    "url": "https://www.ah.nl/producten/product/wi32958/timson-rinse-appelstroop",
+    "unitPrice": "Prijs per KG € 5,89"
+  },
+  {
+    "name": "De Ruijter Anijshagel",
+    "price": "2.492.592.59",
+    "unit": "300 g400 g300 g",
+    "url": "https://www.ah.nl/producten/product/wi32937/de-ruijter-anijshagel",
+    "unitPrice": "Prijs per KG € 8,30"
+  },
+  {
+    "name": "Calvé Pindakaas stukjes pinda",
+    "price": "3.394.654.195.994.396.75",
+    "unit": "350 g650 g350 g350 g650 g1000 g",
+    "url": "https://www.ah.nl/producten/product/wi32847/calve-pindakaas-stukjes-pinda",
+    "unitPrice": "Prijs per KG € 9,69"
+  },
+  {
+    "name": "Nutella Hazelnootpasta",
+    "price": "2.992.656.895.393.79",
+    "unit": "200 g6 x 15 g825 g600 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi32918/nutella-hazelnootpasta",
+    "unitPrice": "Prijs per KG € 14,95"
+  },
+  {
+    "name": "Bonne Maman Sinaasappel marmelade",
+    "price": "3.29",
+    "unit": "370 g",
+    "url": "https://www.ah.nl/producten/product/wi32841/bonne-maman-sinaasappel-marmelade",
+    "unitPrice": "Prijs per KG € 8,89"
+  },
+  {
+    "name": "Bonne Maman Viervruchten confiture",
+    "price": "3.19",
+    "unit": "370 g",
+    "url": "https://www.ah.nl/producten/product/wi32843/bonne-maman-viervruchten-confiture",
+    "unitPrice": "Prijs per KG € 8,62"
+  },
+  {
+    "name": "AH Hagelslag puur",
+    "price": "1.892.392.391.895.985.685.985.68",
+    "unit": "250 g400 g400 g250 g2 stuks2 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi32786/ah-hagelslag-puur",
+    "unitPrice": "Prijs per KG € 7,56"
+  },
+  {
+    "name": "AH Hagelslag melk",
+    "price": "1.892.392.391.895.985.685.985.68",
+    "unit": "250 g400 g400 g250 g2 stuks2 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi32784/ah-hagelslag-melk",
+    "unitPrice": "Prijs per KG € 7,56"
+  },
+  {
+    "name": "Hollandia Matzecrackers naturel",
+    "price": "1.652.991.85",
+    "unit": "100 g200 g100 g",
+    "url": "https://www.ah.nl/producten/product/wi32677/hollandia-matzecrackers-naturel",
+    "unitPrice": "Prijs per KG € 16,50"
+  },
+  {
+    "name": "Liga Evergreen bosvruchten",
+    "price": "2.695.982.993.392.992.89",
+    "unit": "250 gper pakket225 g337.5 g245 g245 g",
+    "url": "https://www.ah.nl/producten/product/wi32658/liga-evergreen-bosvruchten",
+    "unitPrice": "Prijs per KG € 10,76"
+  },
+  {
+    "name": "AH Mini crackers naturel",
+    "price": "1.531.531.531.19",
+    "unit": "250 g250 g250 g150 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi32655/ah-mini-crackers-naturel",
+    "unitPrice": "Prijs per KG € 6,12"
+  },
+  {
+    "name": "AH Stokbrood wit",
+    "price": "1.391.890.99",
+    "unit": "per stukper stuk",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi32543/ah-ah-stokbrood-wit",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Extra lang lekker witte bollen",
+    "price": "1.991.991.590.991.091.891.79",
+    "unit": "10 stuks10 stuks6 stuks4 stuks6 stuks4 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi32494/ah-extra-lang-lekker-witte-bollen",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Ciabatta afbakbrood",
+    "price": "0.95",
+    "unit": "250 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi31584/ah-ciabatta-afbakbrood",
+    "unitPrice": "Prijs per KG € 3,80"
+  },
+  {
+    "name": "Mr Muscle Ovenreiniger spray",
+    "price": "3.4911.873.39",
+    "unit": "300 mlper pakket0,5 l",
+    "url": "https://www.ah.nl/producten/product/wi31496/mr-muscle-ovenreiniger-spray",
+    "unitPrice": "Prijs per LT € 11,63"
+  },
+  {
+    "name": "AH Paté met rund en hart",
+    "price": "0.450.995.945.354.090.450.95",
+    "unit": "150 g150 g6 stuks12 x 100 g150 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi31491/ah-pate-met-rund-en-hart",
+    "unitPrice": "Prijs per KG € 3,00"
+  },
+  {
+    "name": "Blue Band Voor koken, bakken en braden voordeelpak",
+    "price": "2.851.99",
+    "unit": "500 g250 g",
+    "url": "https://www.ah.nl/producten/product/wi31482/blue-band-voor-koken-bakken-en-braden-voordeelpak",
+    "unitPrice": "Prijs per KG € 5,70"
+  },
+  {
+    "name": "AH Salsa Hot",
+    "price": "1.191.19",
+    "unit": "300 g300 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi31474/ah-salsa-hot",
+    "unitPrice": "Prijs per KG € 3,97"
+  },
+  {
+    "name": "AH Salsa Mild",
+    "price": "1.191.19",
+    "unit": "300 g300 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi31473/ah-salsa-mild",
+    "unitPrice": "Prijs per KG € 3,97"
+  },
+  {
+    "name": "Château Lavergne Lavergne",
+    "price": "4.59",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi31457/chateau-lavergne-lavergne",
+    "unitPrice": "Prijs per LT € 6,12"
+  },
+  {
+    "name": "Jerez Sherry fino",
+    "price": "4.557.29",
+    "unit": "0,75 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi31401/jerez-sherry-fino",
+    "unitPrice": "Prijs per LT € 6,07"
+  },
+  {
+    "name": "AH Bapao rundvlees",
+    "price": "1.191.290.854.764.524.764.521.19",
+    "unit": "115 g115 g2 stuks4 stuks4-pack115 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi31392/ah-bapao-rundvlees",
+    "unitPrice": "Prijs per KG € 10,35"
+  },
+  {
+    "name": "Koopmans Mix voor pannenkoeken compleet",
+    "price": "1.691.791.351.955.034.521.75",
+    "unit": "400 g400 g400 g210 gper pakket400 g",
+    "url": "https://www.ah.nl/producten/product/wi31284/koopmans-mix-voor-pannenkoeken-compleet",
+    "unitPrice": "Prijs per KG € 4,23"
+  },
+  {
+    "name": "Gillette Series gevoelige huid scheergel",
+    "price": "5.298.997.597.593.554.99",
+    "unit": "200 ml198 ml200 ml200 ml200 ml200 ml",
+    "url": "https://www.ah.nl/producten/product/wi31178/gillette-series-gevoelige-huid-scheergel",
+    "unitPrice": "Prijs per LT € 26,45"
+  },
+  {
+    "name": "AH Chilibonen",
+    "price": "1.851.15",
+    "unit": "400 g200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi31265/ah-chilibonen",
+    "unitPrice": "Prijs per KG € 4,63"
+  },
+  {
+    "name": "Liga Evergreen appel",
+    "price": "2.595.982.993.392.692.99",
+    "unit": "250 gper pakket225 g337.5 g250 g245 g",
+    "url": "https://www.ah.nl/producten/product/wi31145/liga-evergreen-appel",
+    "unitPrice": "Prijs per KG € 10,36"
+  },
+  {
+    "name": "Langnese Bijenhoning goudhelder",
+    "price": "3.691.755.594.193.995.99",
+    "unit": "250 g5 x 20 g500 g250 g250 g500 g",
+    "url": "https://www.ah.nl/producten/product/wi30968/langnese-bijenhoning-goudhelder",
+    "unitPrice": "Prijs per KG € 14,76"
+  },
+  {
+    "name": "Daro Thijmsiroop",
+    "price": "8.99",
+    "unit": "200 ml",
+    "url": "https://www.ah.nl/producten/product/wi31049/daro-thijmsiroop",
+    "unitPrice": "Prijs per LT € 44,95"
+  },
+  {
+    "name": "AH Excellent Rundvleesragout",
+    "price": "1.591.591.59",
+    "unit": "400 g400 g400 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi30929/ah-excellent-rundvleesragout",
+    "unitPrice": "Prijs per KG € 3,98"
+  },
+  {
+    "name": "Milka Chocoladereep gebroken hazelnoten",
+    "price": "1.090.791.490.797.303.653.993.69",
+    "unit": "100 g100 gper pakket270 g270 g276 g",
+    "url": "https://www.ah.nl/producten/product/wi30899/milka-chocoladereep-gebroken-hazelnoten",
+    "unitPrice": "Normale prijs per KG € 10,90"
+  },
+  {
+    "name": "Libresse Ultra night wing maandverband",
+    "price": "2.795.392.79",
+    "unit": "10 stuks2 x 10 stuks10 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30874/libresse-ultra-night-wing-maandverband",
+    "unitPrice": ""
+  },
+  {
+    "name": "Aquarius Lemon",
+    "price": "1.741.7410.441.7410.4439.18",
+    "unit": "0,5 l0,5 l6x 0,5 l0,5 l6x 0,5 lper stuk",
+    "url": "https://www.ah.nl/producten/product/wi30823/aquarius-lemon",
+    "unitPrice": "Prijs per LT € 3,48"
+  },
+  {
+    "name": "AH Tomatenblokjes",
+    "price": "0.69",
+    "unit": "400 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi30851/ah-tomatenblokjes",
+    "unitPrice": "Prijs per KG € 2,30"
+  },
+  {
+    "name": "Conimex Pinda satésaus",
+    "price": "1.09",
+    "unit": "68 g",
+    "url": "https://www.ah.nl/producten/product/wi30848/conimex-pinda-satesaus",
+    "unitPrice": "Prijs per KG € 16,03"
+  },
+  {
+    "name": "Go-Tan Gebakken uitjes",
+    "price": "1.353.99",
+    "unit": "100 g500 g",
+    "url": "https://www.ah.nl/producten/product/wi30799/go-tan-gebakken-uitjes",
+    "unitPrice": "Prijs per KG € 13,50"
+  },
+  {
+    "name": "Aspirine Acetylsaliczuur 500mg",
+    "price": "5.29",
+    "unit": "20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30691/aspirine-acetylsaliczuur-500mg",
+    "unitPrice": ""
+  },
+  {
+    "name": "Saridon Bij pijn en bij koorts tabletten",
+    "price": "3.99",
+    "unit": "20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30689/saridon-bij-pijn-en-bij-koorts-tabletten",
+    "unitPrice": ""
+  },
+  {
+    "name": "Panadol Plus gladde tablet",
+    "price": "3.992.596.79",
+    "unit": "24 stuks20 stuks48 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30688/panadol-plus-gladde-tablet",
+    "unitPrice": ""
+  },
+  {
+    "name": "Panadol Filmomhulde tabletten",
+    "price": "2.596.79",
+    "unit": "20 stuks48 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30687/panadol-filmomhulde-tabletten",
+    "unitPrice": ""
+  },
+  {
+    "name": "Roter Paracetamol 500 mg tabletten",
+    "price": "1.657.993.696.495.59",
+    "unit": "20 stuks10 stuks50 stuks20 stuks20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30686/roter-paracetamol-500-mg-tabletten",
+    "unitPrice": ""
+  },
+  {
+    "name": "Sperti Aambeienzalf",
+    "price": "11.39",
+    "unit": "25 g",
+    "url": "https://www.ah.nl/producten/product/wi30674/sperti-aambeienzalf",
+    "unitPrice": "Prijs per KG € 455,60"
+  },
+  {
+    "name": "Betadine Oplossing voor cutaan gebruik",
+    "price": "5.999.996.95",
+    "unit": "30 ml120 ml30 g",
+    "url": "https://www.ah.nl/producten/product/wi30677/betadine-oplossing-voor-cutaan-gebruik",
+    "unitPrice": "Prijs per LT € 199,67"
+  },
+  {
+    "name": "Azaron Stick",
+    "price": "7.997.99",
+    "unit": "per stuk10 g",
+    "url": "https://www.ah.nl/producten/product/wi30666/azaron-stick",
+    "unitPrice": ""
+  },
+  {
+    "name": "Nestosyl Zalf",
+    "price": "7.99",
+    "unit": "15 g",
+    "url": "https://www.ah.nl/producten/product/wi30667/nestosyl-zalf",
+    "unitPrice": "Prijs per KG € 532,67"
+  },
+  {
+    "name": "Rennie Pepermunt kauwgom tabletten",
+    "price": "3.793.7911.89",
+    "unit": "24 stuks10 stuks96 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30664/rennie-pepermunt-kauwgom-tabletten",
+    "unitPrice": ""
+  },
+  {
+    "name": "VSM Derma calendulan zalf",
+    "price": "7.39",
+    "unit": "25 g",
+    "url": "https://www.ah.nl/producten/product/wi30665/vsm-derma-calendulan-zalf",
+    "unitPrice": "Prijs per KG € 295,60"
+  },
+  {
+    "name": "Dulcolax Maagsapresistente tabletten",
+    "price": "5.19",
+    "unit": "30 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30661/dulcolax-maagsapresistente-tabletten",
+    "unitPrice": ""
+  },
+  {
+    "name": "Norit Tabletten 125 mg",
+    "price": "9.999.99",
+    "unit": "50 stuks30 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30660/norit-tabletten-125-mg",
+    "unitPrice": ""
+  },
+  {
+    "name": "Dagravit Totaal 30 100 dragees",
+    "price": "11.9919.9931.9918.99",
+    "unit": "100 stuks200 stuks350 ST60 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30651/dagravit-totaal-30-100-dragees",
+    "unitPrice": ""
+  },
+  {
+    "name": "Primatour Reistabletten",
+    "price": "5.99",
+    "unit": "10 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30649/primatour-reistabletten",
+    "unitPrice": ""
+  },
+  {
+    "name": "A.Vogel Molkosan drank lactosevrij en caloriearm",
+    "price": "7.59",
+    "unit": "200 ml",
+    "url": "https://www.ah.nl/producten/product/wi30645/a-vogel-molkosan-drank-lactosevrij-en-caloriearm",
+    "unitPrice": "Prijs per LT € 37,95"
+  },
+  {
+    "name": "Vicks VapoRub zalf voor inhalatiedamp",
+    "price": "8.5913.49",
+    "unit": "50 g100 g",
+    "url": "https://www.ah.nl/producten/product/wi30633/vicks-vaporub-zalf-voor-inhalatiedamp",
+    "unitPrice": "Prijs per KG € 171,80"
+  },
+  {
+    "name": "Otrivin Zoutoplossing baby neusspray",
+    "price": "6.9912.696.598.69",
+    "unit": "15 mlper stuk10 ml90 ml",
+    "url": "https://www.ah.nl/producten/product/wi30638/otrivin-zoutoplossing-baby-neusspray",
+    "unitPrice": "Prijs per LT € 466,00"
+  },
+  {
+    "name": "A.Vogel Echinaforce druppels bij griep",
+    "price": "10.4918.9910.99",
+    "unit": "50 ml100 ml100 ml",
+    "url": "https://www.ah.nl/producten/product/wi30622/a-vogel-echinaforce-druppels-bij-griep",
+    "unitPrice": "Prijs per LT € 209,80"
+  },
+  {
+    "name": "Strepsils Keeltabletten citroen & honing",
+    "price": "7.497.497.497.499.99",
+    "unit": "24 stuks24 stuks24 stuks24 stuks36 stuks",
+    "url": "https://www.ah.nl/producten/product/wi30631/strepsils-keeltabletten-citroen-en-honing",
+    "unitPrice": ""
+  },
+  {
+    "name": "Nivea Dry comfort anti-transpirant roller",
+    "price": "4.894.993.995.994.995.99",
+    "unit": "50 ml50 ml50 ml50 ml50 ml50 ml",
+    "url": "https://www.ah.nl/producten/product/wi30554/nivea-dry-comfort-anti-transpirant-roller",
+    "unitPrice": "Normale prijs per LT € 97,80"
+  },
+  {
+    "name": "Undurraga Sauvignon blanc",
+    "price": "5.293.97",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi30539/undurraga-sauvignon-blanc",
+    "unitPrice": "Normale prijs per LT € 7,05"
+  },
+  {
+    "name": "Undurraga Cabernet sauvignon",
+    "price": "5.293.975.494.12",
+    "unit": "0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi30538/undurraga-cabernet-sauvignon",
+    "unitPrice": "Normale prijs per LT € 7,05"
+  },
+  {
+    "name": "AH Suikervrij knoopjesdrop",
+    "price": "1.391.491.491.591.49",
+    "unit": "120 g120 g120 g120 g120 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi30507/ah-suikervrij-knoopjesdrop",
+    "unitPrice": "Prijs per KG € 11,58"
+  },
+  {
+    "name": "Toblerone Melk honing amandelnougat",
+    "price": "1.097.29",
+    "unit": "100 g360 g",
+    "url": "https://www.ah.nl/producten/product/wi30500/toblerone-melk-honing-amandelnougat",
+    "unitPrice": "Prijs per KG € 10,90"
+  },
+  {
+    "name": "Delicata Pure chocolade hazelnoot",
+    "price": "2.751.49",
+    "unit": "200 g100 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi30496/delicata-pure-chocolade-hazelnoot",
+    "unitPrice": "Prijs per KG € 13,75"
+  },
+  {
+    "name": "Hoegaarden Witbier 6-fles",
+    "price": "6.494.877.395.54",
+    "unit": "6 x 30 cl6 x 33 cl",
+    "url": "https://www.ah.nl/producten/product/wi30291/hoegaarden-witbier-6-fles",
+    "unitPrice": "Normale prijs per LT € 3,61"
+  },
+  {
+    "name": "AH Kidneybonen",
+    "price": "0.580.551.550.79",
+    "unit": "400 g200 g180 g200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi30428/ah-kidneybonen",
+    "unitPrice": "Prijs per KG € 2,32"
+  },
+  {
+    "name": "AH Witte puntjes",
+    "price": "1.591.991.590.991.091.891.79",
+    "unit": "6 stuks10 stuks6 stuks4 stuks6 stuks4 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi30249/ah-witte-puntjes",
+    "unitPrice": ""
+  },
+  {
+    "name": "Zwitsal Baby badolie",
+    "price": "10.29",
+    "unit": "200 ml",
+    "url": "https://www.ah.nl/producten/product/wi30275/zwitsal-baby-badolie",
+    "unitPrice": "Prijs per LT € 51,45"
+  },
+  {
+    "name": "AH Rozijnen krentenbollen",
+    "price": "1.690.992.291.795.374.83",
+    "unit": "6 stuks4 stuks9 stuks3-pack",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi30248/ah-rozijnen-krentenbollen",
+    "unitPrice": ""
+  },
+  {
+    "name": "Dr. Oetker Gist levure",
+    "price": "0.85",
+    "unit": "3 x 7 g",
+    "url": "https://www.ah.nl/producten/product/wi30228/dr-oetker-gist-levure",
+    "unitPrice": "Prijs per KG € 40,48"
+  },
+  {
+    "name": "AH Gevogelte fond",
+    "price": "2.792.792.792.792.79",
+    "unit": "380 ml380 ml380 ml380 ml380 ml",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi30226/ah-gevogelte-fond",
+    "unitPrice": "Prijs per LT € 7,34"
+  },
+  {
+    "name": "AH Vis fond",
+    "price": "2.792.792.792.792.79",
+    "unit": "380 ml380 ml380 ml380 ml380 ml",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi30227/ah-vis-fond",
+    "unitPrice": "Prijs per LT € 7,34"
+  },
+  {
+    "name": "AH Vlees fond",
+    "price": "2.792.792.792.792.79",
+    "unit": "380 ml380 ml380 ml380 ml380 ml",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi30225/ah-vlees-fond",
+    "unitPrice": "Prijs per LT € 7,34"
+  },
+  {
+    "name": "AH Haverkoekjes naturel",
+    "price": "1.121.19",
+    "unit": "300 g400 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi30182/ah-haverkoekjes-naturel",
+    "unitPrice": "Prijs per KG € 3,73"
+  },
+  {
+    "name": "AH Goudse belegen 48+ geraspt",
+    "price": "3.792.753.294.992.692.85",
+    "unit": "175 g90 g175 g300 g120 g90 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi30140/ah-goudse-belegen-48-geraspt",
+    "unitPrice": "Normale prijs per KG € 21,66"
+  },
+  {
+    "name": "AH Frankfurters",
+    "price": "2.992.497.967.162.083.393.39",
+    "unit": "560 g6 x 30 g4 stuks4 stuks260 g560 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi30133/ah-frankfurters",
+    "unitPrice": "Prijs per KG € 9,97"
+  },
+  {
+    "name": "Grand' Italia Fusilli tricolori",
+    "price": "2.492.092.291.992.19",
+    "unit": "500 g350 g500 g500 g500 g",
+    "url": "https://www.ah.nl/producten/product/wi30037/grand-italia-fusilli-tricolori",
+    "unitPrice": "Prijs per KG € 4,98"
+  },
+  {
+    "name": "Grand' Italia Besciamella sausmix",
+    "price": "2.09",
+    "unit": "100 g",
+    "url": "https://www.ah.nl/producten/product/wi30099/grand-italia-besciamella-sausmix",
+    "unitPrice": "Prijs per KG € 20,90"
+  },
+  {
+    "name": "AH Vrije uitloop eieren L",
+    "price": "2.894.293.383.045.991.691.89",
+    "unit": "6 stuks10 stuks2 stuks15 stuks6 stuks4 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi30030/ah-vrije-uitloop-eieren-l",
+    "unitPrice": ""
+  },
+  {
+    "name": "Koopmans Oliebollen origineel",
+    "price": "1.79",
+    "unit": "500 g",
+    "url": "https://www.ah.nl/producten/product/wi4342/koopmans-oliebollen-origineel",
+    "unitPrice": "Prijs per KG € 3,58"
+  },
+  {
+    "name": "AH Andijvie",
+    "price": "2.901.291.792.49",
+    "unit": "1 kilogram250 g400 g500 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4190/ah-andijvie",
+    "unitPrice": "Prijs per KG € 2,90"
+  },
+  {
+    "name": "AH Bloemkool",
+    "price": "2.991.992.792.792.791.99",
+    "unit": "per stuk200 g400 g400 gper stuk200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4183/ah-bloemkool",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Aubergine",
+    "price": "1.053.152.64",
+    "unit": "per stuk3 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4180/ah-aubergine",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Bleekselderij",
+    "price": "1.69",
+    "unit": "per stuk",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4178/ah-bleekselderij",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Broccoli",
+    "price": "1.292.992.79",
+    "unit": "500 g200 g400 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4177/ah-broccoli",
+    "unitPrice": "Normale prijs per KG € 3,70"
+  },
+  {
+    "name": "Danerolles Croissants extra large",
+    "price": "3.299.472.592.89",
+    "unit": "340 gper pakket240 g240 g",
+    "url": "https://www.ah.nl/producten/product/wi4172/danerolles-croissants-extra-large",
+    "unitPrice": "Prijs per KG € 9,68"
+  },
+  {
+    "name": "AH Witte champignons",
+    "price": "1.452.192.991.992.291.89",
+    "unit": "250 g350 g400 g125 g400 g250 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4169/ah-witte-champignons",
+    "unitPrice": "Prijs per KG € 5,80"
+  },
+  {
+    "name": "AH Courgette",
+    "price": "1.05",
+    "unit": "per stuk",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4164/ah-courgette",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Knoflook",
+    "price": "1.291.99",
+    "unit": "2 stuks250 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4160/ah-knoflook",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Maiskolven",
+    "price": "2.69",
+    "unit": "2 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4162/ah-maiskolven",
+    "unitPrice": ""
+  },
+  {
+    "name": "Chiquita Banaan los",
+    "price": "2.197.667.976.572.194.38",
+    "unit": "1 kgper pakketper pakket3 stuks1 kg2 stuks",
+    "url": "https://www.ah.nl/producten/product/wi4139/chiquita-banaan-los",
+    "unitPrice": "Prijs per KG € 2,19"
+  },
+  {
+    "name": "Iglo Rode kool met appeltjes",
+    "price": "1.993.09",
+    "unit": "450 g750 g",
+    "url": "https://www.ah.nl/producten/product/wi4153/iglo-rode-kool-met-appeltjes",
+    "unitPrice": "Prijs per KG € 4,42"
+  },
+  {
+    "name": "AH Cherrytomaten",
+    "price": "1.353.991.797.176.818.678.242.89",
+    "unit": "250 g400 g500 g3 stuks3 stuks450 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4137/ah-cherrytomaten",
+    "unitPrice": "Prijs per KG € 5,40"
+  },
+  {
+    "name": "AH Paprika rood",
+    "price": "0.955.074.821.691.992.991.39",
+    "unit": "per stuk3 stuks2 stuks3 stuks4 stuksper stuk",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4117/ah-paprika-rood",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH IJsbergsla",
+    "price": "1.251.391.092.692.991.29",
+    "unit": "per stuk75 g200 g150 g200 g100 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4099/ah-ijsbergsla",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Sperziebonen",
+    "price": "2.793.391.996.876.182.29",
+    "unit": "500 g600 g200 gper stuk400 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4102/ah-sperziebonen",
+    "unitPrice": "Prijs per KG € 5,58"
+  },
+  {
+    "name": "AH Spruitjes",
+    "price": "1.492.191.751.99",
+    "unit": "500 g350 g500 g200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4095/ah-spruitjes",
+    "unitPrice": "Prijs per KG € 2,98"
+  },
+  {
+    "name": "AH Vleestomaten",
+    "price": "1.891.353.991.797.176.818.678.24",
+    "unit": "los per 500 g250 g400 g500 g3 stuks3 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4090/ah-vleestomaten",
+    "unitPrice": "Prijs per KG € 3,78"
+  },
+  {
+    "name": "AH Tomaten",
+    "price": "1.791.353.997.176.818.678.242.89",
+    "unit": "500 g250 g400 g3 stuks3 stuks450 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4088/ah-tomaten",
+    "unitPrice": "Prijs per KG € 3,58"
+  },
+  {
+    "name": "AH Gele uien",
+    "price": "1.652.991.552.991.294.954.70",
+    "unit": "1 kg2 kg3 stuks450 g3 stuksper stuk",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4083/ah-gele-uien",
+    "unitPrice": "Prijs per KG € 1,65"
+  },
+  {
+    "name": "AH Winterpeen",
+    "price": "1.755.254.721.491.751.993.49",
+    "unit": "1 kg3-pack150 gper bos300 g600 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4076/ah-winterpeen",
+    "unitPrice": "Prijs per KG € 1,75"
+  },
+  {
+    "name": "AH Andijvie gesneden",
+    "price": "1.791.292.49",
+    "unit": "400 g250 g500 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4074/ah-andijvie-gesneden",
+    "unitPrice": "Prijs per KG € 4,48"
+  },
+  {
+    "name": "AH Zuurkool naturel",
+    "price": "0.691.390.990.791.29",
+    "unit": "520 g500 g520 g260 g520 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4071/ah-zuurkool-naturel",
+    "unitPrice": "Prijs per KG € 1,38"
+  },
+  {
+    "name": "AH Rode grapefruits",
+    "price": "3.29",
+    "unit": "4 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4066/ah-rode-grapefruits",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Filetlap 2 stuks",
+    "price": "3.993.753.69",
+    "unit": "2 stuks5 stuks5 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4046/ah-filetlap-2-stuks",
+    "unitPrice": "Prijs per KG € 15,35"
+  },
+  {
+    "name": "AH Varkenshaas",
+    "price": "3.725.984.486.116.117.44",
+    "unit": "per stukca. 350 gca. 325 gca. 325 g2 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4044/ah-varkenshaas",
+    "unitPrice": "Prijs per KG € 15,50"
+  },
+  {
+    "name": "AH BBQ Schouderkarbonade met kruiden",
+    "price": "3.254.862.523.79",
+    "unit": "ca. 415 g3 stuks2 stuks2 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi4041/ah-bbq-schouderkarbonade-met-kruiden",
+    "unitPrice": "Prijs per KG € 7,84"
+  },
+  {
+    "name": "AH Ribkarbonade",
+    "price": "2.523.254.863.79",
+    "unit": "2 stuksca. 415 g3 stuks2 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi4033/ah-ribkarbonade",
+    "unitPrice": "Prijs per KG € 8,39"
+  },
+  {
+    "name": "AH Rundergehakt",
+    "price": "4.2910.479.9511.0710.522.694.99",
+    "unit": "500 g3 stuks3 stuks300 g700 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi4011/ah-rundergehakt",
+    "unitPrice": "Prijs per KG € 8,58"
+  },
+  {
+    "name": "AH Half-om-half gehakt",
+    "price": "4.192.992.696.997.991.89",
+    "unit": "500 g300 g300 g1 kg1 kg175 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi4007/ah-half-om-half-gehakt",
+    "unitPrice": "Normale prijs per KG € 8,38"
+  },
+  {
+    "name": "AH Greenfields Magere runderlappen",
+    "price": "10.7911.197.5011.329.74",
+    "unit": "ca. 720 gca. 700 gca. 500 gca. 755 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi4002/ah-greenfields-magere-runderlappen",
+    "unitPrice": "Prijs per KG € 14,99"
+  },
+  {
+    "name": "AH Rundergehakt",
+    "price": "3.4910.479.9511.0710.522.694.99",
+    "unit": "300 g3 stuks3 stuks300 g700 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi4004/ah-rundergehakt",
+    "unitPrice": "Prijs per KG € 11,63"
+  },
+  {
+    "name": "AH Greenfields Runder sukadelappen",
+    "price": "11.197.5011.329.7410.79",
+    "unit": "ca. 700 gca. 500 gca. 755 gca. 720 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3996/ah-greenfields-runder-sukadelappen",
+    "unitPrice": "Prijs per KG € 15,99"
+  },
+  {
+    "name": "AH Greenfields Runder riblappen",
+    "price": "11.329.7411.197.5010.79",
+    "unit": "ca. 755 gca. 700 gca. 500 gca. 720 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi3994/ah-greenfields-runder-riblappen",
+    "unitPrice": "Normale prijs per KG € 14,99"
+  },
+  {
+    "name": "AH Speklap",
+    "price": "3.492.774.393.964.592.694.494.29",
+    "unit": "ca. 250 gca. 375 g5 stuks3 stuks5 stuks5 stuks",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi3986/ah-speklap",
+    "unitPrice": "Normale prijs per KG € 12,46"
+  },
+  {
+    "name": "AH Greenfields Kogelbiefstuk",
+    "price": "6.2210.4924.8822.39",
+    "unit": "per stuk2 stuks4 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi3975/ah-greenfields-kogelbiefstuk",
+    "unitPrice": "Prijs per KG € 36,60"
+  },
+  {
+    "name": "Garden Gourmet Hamburger",
+    "price": "3.294.193.794.193.993.85",
+    "unit": "2 x 75 gram2 x 113 gram200 g200 g2 x 90 gram2 x 90 gram",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi3948/garden-gourmet-hamburger",
+    "unitPrice": "Prijs per KG € 21,93"
+  },
+  {
+    "name": "AH Rundergehakt",
+    "price": "8.2910.479.9511.0710.522.694.99",
+    "unit": "1000 g3 stuks3 stuks300 g700 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi3954/ah-rundergehakt",
+    "unitPrice": "Prijs per KG € 8,29"
+  },
+  {
+    "name": "AH Schenkel met been",
+    "price": "2.696.005.815.232.792.79",
+    "unit": "ca. 270 gca. 400 gca. 350 gca. 315 gca. 250 gca. 300 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi3929/ah-schenkel-met-been",
+    "unitPrice": "Prijs per KG € 9,97"
+  },
+  {
+    "name": "Unox Leverpastei",
+    "price": "1.893.692.393.593.193.25",
+    "unit": "3 x 56 g250 g250 g6 x 56 g3 x 56 g340 g",
+    "url": "https://www.ah.nl/producten/product/wi3902/unox-leverpastei",
+    "unitPrice": "Prijs per KG € 11,25"
+  },
+  {
+    "name": "AH Creme fraiche 30% vet",
+    "price": "1.394.053.853.383.211.694.173.961.35",
+    "unit": "125 g3-pack2 stuks200 g3 stuks125 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi3868/ah-creme-fraiche-30-vet",
+    "unitPrice": "Prijs per KG € 11,12"
+  },
+  {
+    "name": "AH Sour cream",
+    "price": "1.153.453.10",
+    "unit": "125 g3 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi3869/ah-sour-cream",
+    "unitPrice": "Prijs per KG € 9,20"
+  },
+  {
+    "name": "AH Boeren soepgroente",
+    "price": "1.792.191.451.991.29",
+    "unit": "350 g500 g250 g400 g400 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi3861/ah-boeren-soepgroente",
+    "unitPrice": "Prijs per KG € 5,11"
+  },
+  {
+    "name": "Mona Chipolatapudding met tropisch fruit",
+    "price": "2.392.092.492.091.891.89",
+    "unit": "450 ml450 ml450 ml450 ml2 x 135 ml2 x 135 ml",
+    "url": "https://www.ah.nl/producten/product/wi3859/mona-chipolatapudding-met-tropisch-fruit",
+    "unitPrice": "Prijs per LT € 5,31"
+  },
+  {
+    "name": "Eru Goudkuipje naturel",
+    "price": "1.391.391.391.992.651.39",
+    "unit": "100 g100 g100 g100 g200 g100 g",
+    "url": "https://www.ah.nl/producten/product/wi3856/eru-goudkuipje-naturel",
+    "unitPrice": "Prijs per KG € 13,90"
+  },
+  {
+    "name": "Mona Griesmeelpudding met rode bessensaus",
+    "price": "2.092.492.091.891.892.39",
+    "unit": "450 ml450 ml450 ml2 x 135 ml2 x 135 ml450 ml",
+    "url": "https://www.ah.nl/producten/product/wi3858/mona-griesmeelpudding-met-rode-bessensaus",
+    "unitPrice": "Prijs per LT € 4,64"
+  },
+  {
+    "name": "AH Goudse oud 48+ geraspt",
+    "price": "4.152.753.294.992.692.85",
+    "unit": "175 g90 g175 g300 g120 g90 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi3853/ah-goudse-oud-48-geraspt",
+    "unitPrice": "Normale prijs per KG € 23,71"
+  },
+  {
+    "name": "AH IJsbergsla melange",
+    "price": "1.391.251.391.092.692.99",
+    "unit": "200 gper stuk75 g200 g150 g200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi3840/ah-ijsbergsla-melange",
+    "unitPrice": "Normale prijs per KG € 6,95"
+  },
+  {
+    "name": "Blue Band Voor koken, bakken en braden",
+    "price": "1.992.85",
+    "unit": "250 g500 g",
+    "url": "https://www.ah.nl/producten/product/wi3834/blue-band-voor-koken-bakken-en-braden",
+    "unitPrice": "Prijs per KG € 7,96"
+  },
+  {
+    "name": "Bona 100% Plantaardig",
+    "price": "3.19",
+    "unit": "500 g",
+    "url": "https://www.ah.nl/producten/product/wi3830/bona-100-plantaardig",
+    "unitPrice": "Prijs per KG € 6,38"
+  },
+  {
+    "name": "Blue Band Halvarine",
+    "price": "1.992.591.39",
+    "unit": "500 g375 g225 g",
+    "url": "https://www.ah.nl/producten/product/wi3826/blue-band-halvarine",
+    "unitPrice": "Prijs per KG € 3,98"
+  },
+  {
+    "name": "Danerolles Croissants classic",
+    "price": "2.599.472.893.29",
+    "unit": "240 gper pakket240 g340 g",
+    "url": "https://www.ah.nl/producten/product/wi3791/danerolles-croissants-classic",
+    "unitPrice": "Prijs per KG € 10,79"
+  },
+  {
+    "name": "Liga Evergreen krenten",
+    "price": "2.695.982.993.392.692.99",
+    "unit": "225 gper pakket225 g337.5 g250 g245 g",
+    "url": "https://www.ah.nl/producten/product/wi3771/liga-evergreen-krenten",
+    "unitPrice": "Prijs per KG € 11,96"
+  },
+  {
+    "name": "Liga Vitalu volkoren crackers",
+    "price": "2.552.554.782.392.19",
+    "unit": "200 g200 g2 stuks250 g250 g",
+    "url": "https://www.ah.nl/producten/product/wi3762/liga-vitalu-volkoren-crackers",
+    "unitPrice": "Prijs per KG € 12,75"
+  },
+  {
+    "name": "Wieger Ketellapper Ware wieger kruidkoek",
+    "price": "1.99",
+    "unit": "425 g",
+    "url": "https://www.ah.nl/producten/product/wi3761/wieger-ketellapper-ware-wieger-kruidkoek",
+    "unitPrice": "Prijs per KG € 4,68"
+  },
+  {
+    "name": "Kanis & Gunnink Koffie snelfiltermaling",
+    "price": "5.49",
+    "unit": "500 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3746/kanis-en-gunnink-koffie-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 10,98"
+  },
+  {
+    "name": "Douwe Egberts Aroma rood grove maling filterkoffie",
+    "price": "3.9914.494.194.697.498.99",
+    "unit": "250 g2 x 500 g250 g250 g500 g500 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3739/douwe-egberts-aroma-rood-grove-maling-filterkoffie",
+    "unitPrice": "Prijs per KG € 15,96"
+  },
+  {
+    "name": "Douwe Egberts Aroma rood snelfiltermaling",
+    "price": "3.9914.494.194.697.498.99",
+    "unit": "250 g2 x 500 g250 g250 g500 g500 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3738/douwe-egberts-aroma-rood-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 15,96"
+  },
+  {
+    "name": "Douwe Egberts Aroma rood snelfiltermaling",
+    "price": "7.4914.494.194.697.498.99",
+    "unit": "500 g2 x 500 g250 g250 g500 g500 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3737/douwe-egberts-aroma-rood-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 14,98"
+  },
+  {
+    "name": "Douwe Egberts Decafe cafeinevrij snelfiltermaling",
+    "price": "4.194.197.89",
+    "unit": "250 gper pakket250 g500 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3735/douwe-egberts-decafe-cafeinevrij-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 16,76"
+  },
+  {
+    "name": "Nescafé Original oploskoffie",
+    "price": "6.593.193.298.993.895.25",
+    "unit": "200 g20 stuks50 g200 g10 stuks100 g",
+    "url": "https://www.ah.nl/producten/product/wi3728/nescafe-original-oploskoffie",
+    "unitPrice": "Prijs per KG € 32,95"
+  },
+  {
+    "name": "Pickwick English tea",
+    "price": "1.793.493.493.49",
+    "unit": "100 g50 g50 g50 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3714/pickwick-english-tea",
+    "unitPrice": "Prijs per KG € 17,90"
+  },
+  {
+    "name": "Pickwick Ceylon zwarte thee",
+    "price": "1.390.991.990.991.990.997.863.961.890.991.190.99",
+    "unit": "20 stuks20 stuks20 stuks4 stuks20 stuks20 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3713/pickwick-ceylon-zwarte-thee",
+    "unitPrice": ""
+  },
+  {
+    "name": "Pickwick English blend 1 kop thee",
+    "price": "1.190.991.390.991.990.991.990.997.863.961.890.99",
+    "unit": "20 stuks20 stuks20 stuks20 stuks4 stuks20 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3708/pickwick-english-blend-1-kop-thee",
+    "unitPrice": ""
+  },
+  {
+    "name": "Pickwick English tea zwarte thee meerkops",
+    "price": "1.492.691.991.95",
+    "unit": "20 stuks40 stuks20 stuks20 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3712/pickwick-english-tea-zwarte-thee-meerkops",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Suikerklontjes",
+    "price": "1.6924.991.09",
+    "unit": "1 kg1500 stuks50 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi3706/ah-suikerklontjes",
+    "unitPrice": "Prijs per KG € 1,69"
+  },
+  {
+    "name": "Pickwick Earl grey zwarte thee",
+    "price": "1.390.991.390.991.990.991.990.997.863.961.890.99",
+    "unit": "20 stuks20 stuks20 stuks20 stuks4 stuks20 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3704/pickwick-earl-grey-zwarte-thee",
+    "unitPrice": ""
+  },
+  {
+    "name": "Friesche Vlag Goudband",
+    "price": "0.790.990.891.751.791.59",
+    "unit": "10 x 7 ml140 ml140 ml300 ml466 ml300 ml",
+    "url": "https://www.ah.nl/producten/product/wi3675/friesche-vlag-goudband",
+    "unitPrice": "Prijs per LT € 11,29"
+  },
+  {
+    "name": "Van Gilse Kristalsuiker",
+    "price": "1.391.650.99",
+    "unit": "1 kg750 g200 g",
+    "url": "https://www.ah.nl/producten/product/wi3697/van-gilse-kristalsuiker",
+    "unitPrice": "Prijs per KG € 1,39"
+  },
+  {
+    "name": "Becel Cups voor in de koffie met omega 3",
+    "price": "1.151.751.49",
+    "unit": "10 x 8 ml467 ml200 ml",
+    "url": "https://www.ah.nl/producten/product/wi3673/becel-cups-voor-in-de-koffie-met-omega-3",
+    "unitPrice": "Prijs per LT € 14,56"
+  },
+  {
+    "name": "Douwe Egberts Decafe cafeinevrij snelfiltermaling",
+    "price": "7.894.194.19",
+    "unit": "500 g250 g250 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi3663/douwe-egberts-decafe-cafeinevrij-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 15,78"
+  },
+  {
+    "name": "Verkade Frou frou vanille",
+    "price": "1.75",
+    "unit": "150 g",
+    "url": "https://www.ah.nl/producten/product/wi3647/verkade-frou-frou-vanille",
+    "unitPrice": "Normale prijs per KG € 11,67"
+  },
+  {
+    "name": "LU Bastogne original",
+    "price": "1.651.852.095.502.493.30",
+    "unit": "260 g260 g160 gper pakket150 g2 stuks",
+    "url": "https://www.ah.nl/producten/product/wi3640/lu-bastogne-original",
+    "unitPrice": "Prijs per KG € 6,35"
+  },
+  {
+    "name": "LU Scholiertje puur",
+    "price": "2.752.751.992.491.992.49",
+    "unit": "150 g150 g184 g150 g70 g140 g",
+    "url": "https://www.ah.nl/producten/product/wi3632/lu-scholiertje-puur",
+    "unitPrice": "Prijs per KG € 18,33"
+  },
+  {
+    "name": "Liga Cracotte crackers naturel",
+    "price": "2.192.554.782.392.55",
+    "unit": "250 g200 g2 stuks250 g200 g",
+    "url": "https://www.ah.nl/producten/product/wi3631/liga-cracotte-crackers-naturel",
+    "unitPrice": "Prijs per KG € 8,76"
+  },
+  {
+    "name": "Calvé Pindakaas pot",
+    "price": "2.894.654.193.395.994.39",
+    "unit": "350 g650 g350 g350 g350 g650 g",
+    "url": "https://www.ah.nl/producten/product/wi3579/calve-pindakaas-pot",
+    "unitPrice": "Prijs per KG € 8,26"
+  },
+  {
+    "name": "Langnese Bijenhoning goudhelder",
+    "price": "5.991.755.594.193.693.99",
+    "unit": "500 g5 x 20 g500 g250 g250 g250 g",
+    "url": "https://www.ah.nl/producten/product/wi3573/langnese-bijenhoning-goudhelder",
+    "unitPrice": "Prijs per KG € 11,98"
+  },
+  {
+    "name": "AH Tomatenpuree",
+    "price": "0.601.961.861.801.712.190.49",
+    "unit": "140 g4 stuks3 stuks4 x 140 g70 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi3527/ah-tomatenpuree",
+    "unitPrice": "Prijs per KG € 4,29"
+  },
+  {
+    "name": "Bonduelle Crispy maïs",
+    "price": "1.492.991.992.194.251.79",
+    "unit": "150 g300 g150 g150 g3 stuks150 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi3537/bonduelle-crispy-mais",
+    "unitPrice": "Prijs per KG € 10,64"
+  },
+  {
+    "name": "AH Krokante zalm in bladerdeeg spinazie",
+    "price": "3.498.993.3910.894.99",
+    "unit": "2 x 150 g675 g250 g500 g250 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi3515/ah-krokante-zalm-in-bladerdeeg-spinazie",
+    "unitPrice": "Prijs per KG € 11,63"
+  },
+  {
+    "name": "Lassie Zilvervliesrijst kortkokend",
+    "price": "1.292.292.151.951.991.79",
+    "unit": "400 g750 g275 g300 g250 g250 g",
+    "url": "https://www.ah.nl/producten/product/wi3512/lassie-zilvervliesrijst-kortkokend",
+    "unitPrice": "Prijs per KG € 3,23"
+  },
+  {
+    "name": "Lassie Toverrijst",
+    "price": "1.391.991.851.751.992.25",
+    "unit": "400 g375 g400 g300 g250 g750 g",
+    "url": "https://www.ah.nl/producten/product/wi3509/lassie-toverrijst",
+    "unitPrice": "Prijs per KG € 3,48"
+  },
+  {
+    "name": "Honig Basis voor bami speciaal",
+    "price": "1.991.991.991.99",
+    "unit": "36 g36 g38 g36 g",
+    "url": "https://www.ah.nl/producten/product/wi3495/honig-basis-voor-bami-speciaal",
+    "unitPrice": "Normale prijs per KG € 55,28"
+  },
+  {
+    "name": "Conimex Mix voor nasi speciaal",
+    "price": "1.451.351.691.590.951.29",
+    "unit": "40 g73 g64 g53 g37 g37 g",
+    "url": "https://www.ah.nl/producten/product/wi3486/conimex-mix-voor-nasi-speciaal",
+    "unitPrice": "Prijs per KG € 36,25"
+  },
+  {
+    "name": "Conimex Mix voor bami speciaal",
+    "price": "1.291.451.351.691.590.95",
+    "unit": "37 g40 g73 g64 g53 g37 g",
+    "url": "https://www.ah.nl/producten/product/wi3485/conimex-mix-voor-bami-speciaal",
+    "unitPrice": "Prijs per KG € 34,86"
+  },
+  {
+    "name": "Honig Basis voor macaroni en spaghetti",
+    "price": "1.991.991.993.591.991.99",
+    "unit": "41 g69 g68 g82 g125 g41 g",
+    "url": "https://www.ah.nl/producten/product/wi3472/honig-basis-voor-macaroni-en-spaghetti",
+    "unitPrice": "Normale prijs per KG € 48,54"
+  },
+  {
+    "name": "Becel Olie blend classic",
+    "price": "4.99",
+    "unit": "0,5 l",
+    "url": "https://www.ah.nl/producten/product/wi3481/becel-olie-blend-classic",
+    "unitPrice": "Prijs per LT € 9,98"
+  },
+  {
+    "name": "Koopmans Mix voor pannenkoeken origineel",
+    "price": "1.351.791.955.034.521.751.69",
+    "unit": "400 g400 g210 gper pakket400 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi3453/koopmans-mix-voor-pannenkoeken-origineel",
+    "unitPrice": "Prijs per KG € 3,38"
+  },
+  {
+    "name": "Maggi Jus rundvlees voordeel",
+    "price": "2.292.990.650.75",
+    "unit": "125 g160 g18 g18 g",
+    "url": "https://www.ah.nl/producten/product/wi3427/maggi-jus-rundvlees-voordeel",
+    "unitPrice": "Prijs per KG € 18,32"
+  },
+  {
+    "name": "Heinz Tomaten ketchup",
+    "price": "1.854.292.592.995.444.353.39",
+    "unit": "220 ml0,57 l300 ml0,57 lper pakket400 ml",
+    "url": "https://www.ah.nl/producten/product/wi3401/heinz-tomaten-ketchup",
+    "unitPrice": "Prijs per LT € 8,41"
+  },
+  {
+    "name": "Tabasco Red peppersauce",
+    "price": "2.953.992.95",
+    "unit": "60 ml256 ml60 ml",
+    "url": "https://www.ah.nl/producten/product/wi3393/tabasco-red-peppersauce",
+    "unitPrice": "Prijs per LT € 49,17"
+  },
+  {
+    "name": "AH Keukenzout met jodium",
+    "price": "0.650.650.39",
+    "unit": "1 kg500 g125 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi3372/ah-keukenzout-met-jodium",
+    "unitPrice": "Prijs per KG € 0,65"
+  },
+  {
+    "name": "Honig Basis voor chinese tomatensoep",
+    "price": "1.991.551.991.99",
+    "unit": "112 g87 g112 g101 g",
+    "url": "https://www.ah.nl/producten/product/wi3350/honig-basis-voor-chinese-tomatensoep",
+    "unitPrice": "Normale prijs per KG € 17,77"
+  },
+  {
+    "name": "Honig Basis voor tomatensoep",
+    "price": "1.551.991.991.99",
+    "unit": "87 g112 g112 g101 g",
+    "url": "https://www.ah.nl/producten/product/wi3344/honig-basis-voor-tomatensoep",
+    "unitPrice": "Normale prijs per KG € 17,82"
+  },
+  {
+    "name": "Honig Basis voor groentesoep",
+    "price": "1.691.991.891.99",
+    "unit": "50 g57 g79 g60 g",
+    "url": "https://www.ah.nl/producten/product/wi3348/honig-basis-voor-groentesoep",
+    "unitPrice": "Normale prijs per KG € 33,80"
+  },
+  {
+    "name": "Maggi Smaakverfijner",
+    "price": "2.291.891.19",
+    "unit": "250 g100 ml125 g",
+    "url": "https://www.ah.nl/producten/product/wi3330/maggi-smaakverfijner",
+    "unitPrice": "Prijs per KG € 9,16"
+  },
+  {
+    "name": "Honig Krulvermicelli middel",
+    "price": "1.292.65",
+    "unit": "250 g275 g",
+    "url": "https://www.ah.nl/producten/product/wi3325/honig-krulvermicelli-middel",
+    "unitPrice": "Prijs per KG € 5,16"
+  },
+  {
+    "name": "Honig Kruidenbuiltje vlees",
+    "price": "1.39",
+    "unit": "per stuk",
+    "url": "https://www.ah.nl/producten/product/wi3324/honig-kruidenbuiltje-vlees",
+    "unitPrice": ""
+  },
+  {
+    "name": "Grand' Italia Grissini tradizionali soepstengels",
+    "price": "1.691.95",
+    "unit": "125 g100 g",
+    "url": "https://www.ah.nl/producten/product/wi3322/grand-italia-grissini-tradizionali-soepstengels",
+    "unitPrice": "Prijs per KG € 13,52"
+  },
+  {
+    "name": "LU Tuc original",
+    "price": "0.892.390.993.581.191.79",
+    "unit": "100 g300 g100 gper stuk100 g100 g",
+    "url": "https://www.ah.nl/producten/product/wi3256/lu-tuc-original",
+    "unitPrice": "Prijs per KG € 8,90"
+  },
+  {
+    "name": "M&M'S Pinda",
+    "price": "2.9910.992.993.792.99",
+    "unit": "250 g1000 g213 g200 g176 g",
+    "url": "https://www.ah.nl/producten/product/wi3202/m-en-m-s-pinda",
+    "unitPrice": "Prijs per KG € 11,96"
+  },
+  {
+    "name": "Merci Finest selection",
+    "price": "3.653.652.693.992.696.99",
+    "unit": "250 g250 g125 g250 g125 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi3200/merci-finest-selection",
+    "unitPrice": "Prijs per KG € 14,60"
+  },
+  {
+    "name": "Werther's Original Klassieke roomsnoepjes",
+    "price": "1.951.991.991.891.99",
+    "unit": "175 g150 g150 g70 g150 g",
+    "url": "https://www.ah.nl/producten/product/wi3184/werther-s-original-klassieke-roomsnoepjes",
+    "unitPrice": "Prijs per KG € 11,14"
+  },
+  {
+    "name": "Zwitsal Baby crème zeep",
+    "price": "2.49",
+    "unit": "2 x 90 g",
+    "url": "https://www.ah.nl/producten/product/wi3058/zwitsal-baby-creme-zeep",
+    "unitPrice": "Prijs per KG € 13,83"
+  },
+  {
+    "name": "Glade Langdurig lavender gel",
+    "price": "1.591.991.591.597.391.99",
+    "unit": "150 g300 mlper stuk150 g18 ml300 ml",
+    "url": "https://www.ah.nl/producten/product/wi3021/glade-langdurig-lavender-gel",
+    "unitPrice": "Prijs per KG € 10,60"
+  },
+  {
+    "name": "Kips Leverworst",
+    "price": "2.152.292.19",
+    "unit": "230 g120 g230 g",
+    "url": "https://www.ah.nl/producten/product/wi3051/kips-leverworst",
+    "unitPrice": "Prijs per KG € 9,35"
+  },
+  {
+    "name": "Kotex Maxi normal",
+    "price": "2.19",
+    "unit": "18 stuks",
+    "url": "https://www.ah.nl/producten/product/wi3035/kotex-maxi-normal",
+    "unitPrice": ""
+  },
+  {
+    "name": "Fristi Rood fruit",
+    "price": "1.791.99",
+    "unit": "1 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi3017/fristi-rood-fruit",
+    "unitPrice": "Prijs per LT € 1,79"
+  },
+  {
+    "name": "WC-Eend Nr. 1 ontkalker",
+    "price": "2.39",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi3013/wc-eend-nr-1-ontkalker",
+    "unitPrice": "Prijs per LT € 3,19"
+  },
+  {
+    "name": "Fa Caribbean wave deodorant spray",
+    "price": "3.493.993.993.993.993.99",
+    "unit": "150 ml150 ml150 ml150 ml150 ml150 ml",
+    "url": "https://www.ah.nl/producten/product/wi3005/fa-caribbean-wave-deodorant-spray",
+    "unitPrice": "Prijs per LT € 23,27"
+  },
+  {
+    "name": "Robijn Morgenfris droogtrommeldoekjes",
+    "price": "3.69",
+    "unit": "20 wasbeurten",
+    "url": "https://www.ah.nl/producten/product/wi2902/robijn-morgenfris-droogtrommeldoekjes",
+    "unitPrice": ""
+  },
+  {
+    "name": "Driehoek Zachte Zeep",
+    "price": "3.892.292.59",
+    "unit": "900 g0,73 l0,73 l",
+    "url": "https://www.ah.nl/producten/product/wi2886/driehoek-zachte-zeep",
+    "unitPrice": "Prijs per KG € 4,32"
+  },
+  {
+    "name": "Driehoek Vloeibare zeep",
+    "price": "2.293.892.59",
+    "unit": "0,73 l900 g0,73 l",
+    "url": "https://www.ah.nl/producten/product/wi2884/driehoek-vloeibare-zeep",
+    "unitPrice": "Prijs per LT € 3,16"
+  },
+  {
+    "name": "Komo Huisvuilzakken 60 l",
+    "price": "1.95",
+    "unit": "20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi2870/komo-huisvuilzakken-60-l",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Haardblok",
+    "price": "2.299.1622.9021.75",
+    "unit": "per stuk4 stuks10 stuks",
+    "url": "https://www.ah.nl/producten/product/wi2856/ah-haardblok",
+    "unitPrice": ""
+  },
+  {
+    "name": "Fanta Orange",
+    "price": "2.592.250.792.5910.3610.36",
+    "unit": "1,5 l1 l250 ml1,5 l4x 1.5 l4x 1.5 l",
+    "url": "https://www.ah.nl/producten/product/wi2803/fanta-orange",
+    "unitPrice": "Prijs per LT € 1,73"
+  },
+  {
+    "name": "Coca-Cola Original taste",
+    "price": "2.599.162.2910.36",
+    "unit": "1,5 l4x 1 l1 l4 x 1,5 l",
+    "url": "https://www.ah.nl/producten/product/wi2800/coca-cola-original-taste",
+    "unitPrice": "Prijs per LT € 1,73"
+  },
+  {
+    "name": "Coca-Cola Light",
+    "price": "2.5913.749.162.592.2915.54",
+    "unit": "1,5 l6x 1 l4x 1 l1,5 l1 l6x 1,5 l",
+    "url": "https://www.ah.nl/producten/product/wi2799/coca-cola-light",
+    "unitPrice": "Prijs per LT € 1,73"
+  },
+  {
+    "name": "7up Free lemon lime",
+    "price": "2.452.552.151.184.292.15",
+    "unit": "1,5 l1,5 l1 l0,5 l6 x 0,33 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi2798/7up-free-lemon-lime",
+    "unitPrice": "Prijs per LT € 1,63"
+  },
+  {
+    "name": "Appelsientje Sinaasappel",
+    "price": "2.792.992.592.392.994.09",
+    "unit": "1 l6 x 200 ml1 l0,75 l1 l1,5 l",
+    "url": "https://www.ah.nl/producten/product/wi2751/appelsientje-sinaasappel",
+    "unitPrice": "Prijs per LT € 2,79"
+  },
+  {
+    "name": "Appelsientje Zontomaatje",
+    "price": "2.09",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi2743/appelsientje-zontomaatje",
+    "unitPrice": "Prijs per LT € 2,09"
+  },
+  {
+    "name": "Appelsientje Goudappeltje",
+    "price": "2.792.792.592.993.292.59",
+    "unit": "1 l1 l1 l6 x 200 ml1,5 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi2742/appelsientje-goudappeltje",
+    "unitPrice": "Prijs per LT € 2,79"
+  },
+  {
+    "name": "Grolsch Premium pilsner beugel krat",
+    "price": "18.8823.3721.0318.88",
+    "unit": "16 x 0,45 lper pakket24 x 0,3 l",
+    "url": "https://www.ah.nl/producten/product/wi2724/grolsch-premium-pilsner-beugel-krat",
+    "unitPrice": "Prijs per LT € 2,62"
+  },
+  {
+    "name": "DubbelDrank Sinaasappel & perzik",
+    "price": "2.192.192.192.192.19",
+    "unit": "1 l1 l1 l1 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi2739/dubbeldrank-sinaasappel-en-perzik",
+    "unitPrice": "Prijs per LT € 2,19"
+  },
+  {
+    "name": "Hertog Jan Natuurzuiver bier krat",
+    "price": "19.9914.9926.0419.53",
+    "unit": "24 x 30 clper pakket",
+    "url": "https://www.ah.nl/producten/product/wi2708/hertog-jan-natuurzuiver-bier-krat",
+    "unitPrice": "Normale prijs per LT € 2,78"
+  },
+  {
+    "name": "Amstel Pilsener bier krat",
+    "price": "16.65",
+    "unit": "24 x 0,3 l",
+    "url": "https://www.ah.nl/producten/product/wi2722/amstel-pilsener-bier-krat",
+    "unitPrice": "Prijs per LT € 2,31"
+  },
+  {
+    "name": "Domecq Sherry medium dry",
+    "price": "6.49",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi2701/domecq-sherry-medium-dry",
+    "unitPrice": "Prijs per LT € 8,65"
+  },
+  {
+    "name": "Sandeman Sherry Fino",
+    "price": "6.95",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi2696/sandeman-sherry-fino",
+    "unitPrice": "Prijs per LT € 9,27"
+  },
+  {
+    "name": "Domecq Sherry fino",
+    "price": "6.49",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi2692/domecq-sherry-fino",
+    "unitPrice": "Prijs per LT € 8,65"
+  },
+  {
+    "name": "Martini Rosso",
+    "price": "8.498.498.498.49",
+    "unit": "0,75 l0,75 l0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi2689/martini-rosso",
+    "unitPrice": "Prijs per LT € 11,32"
+  },
+  {
+    "name": "Martini Extra dry",
+    "price": "8.498.498.498.49",
+    "unit": "0,75 l0,75 l0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi2688/martini-extra-dry",
+    "unitPrice": "Prijs per LT € 11,32"
+  },
+  {
+    "name": "Martini Bianco",
+    "price": "8.498.498.498.49",
+    "unit": "0,75 l0,75 l0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi2687/martini-bianco",
+    "unitPrice": "Prijs per LT € 11,32"
+  },
+  {
+    "name": "AH Goudse jong belegen 48+ plakken",
+    "price": "3.0923.1620.845.794.514.215.79",
+    "unit": "190 g4 stuks400 gca. 235 gca. 245 g400 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi2601/ah-goudse-jong-belegen-48-plakken",
+    "unitPrice": "Normale prijs per KG € 16,26"
+  },
+  {
+    "name": "AH Goudse oud 48+ plakken",
+    "price": "4.1516.609.907.245.50",
+    "unit": "190 g4 stuksper stuk",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi2606/ah-goudse-oud-48-plakken",
+    "unitPrice": "Normale prijs per KG € 21,84"
+  },
+  {
+    "name": "AH Goudse jong 48+ plakken",
+    "price": "2.955.554.024.03",
+    "unit": "190 g400 gca. 245 gca. 245 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi2600/ah-goudse-jong-48-plakken",
+    "unitPrice": "Normale prijs per KG € 15,53"
+  },
+  {
+    "name": "AH Goudse jong komijn 48+ plakken",
+    "price": "3.152.994.842.402.493.65",
+    "unit": "190 g150 gca. 220 gca. 150 g150 g190 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi2597/ah-goudse-jong-komijn-48-plakken",
+    "unitPrice": "Normale prijs per KG € 16,58"
+  },
+  {
+    "name": "AH Goudse belegen 48+ plakken",
+    "price": "3.392.304.394.993.394.58",
+    "unit": "190 gca. 100 gca. 230 gca. 220 g190 gca. 245 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi2594/ah-goudse-belegen-48-plakken",
+    "unitPrice": "Normale prijs per KG € 17,84"
+  },
+  {
+    "name": "AH Goudse extra belegen 48+ plakken",
+    "price": "3.752.694.84",
+    "unit": "190 gca. 100 gca. 235 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi2595/ah-goudse-extra-belegen-48-plakken",
+    "unitPrice": "Normale prijs per KG € 19,74"
+  },
+  {
+    "name": "Chiarli 1860 Lambrusco rosso",
+    "price": "2.39",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi2524/chiarli-1860-lambrusco-rosso",
+    "unitPrice": "Prijs per LT € 3,19"
+  },
+  {
+    "name": "Chocomel De enige echte halfvol",
+    "price": "2.492.292.892.492.592.79",
+    "unit": "1 l1 l1 l1 l1,5 l1,5 l",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi2466/chocomel-de-enige-echte-halfvol",
+    "unitPrice": "Prijs per LT € 2,49"
+  },
+  {
+    "name": "Chocomel De enige echte vol",
+    "price": "2.292.892.492.592.792.29",
+    "unit": "1 l1 l1 l1,5 l1,5 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi2465/chocomel-de-enige-echte-vol",
+    "unitPrice": "Prijs per LT € 2,29"
+  },
+  {
+    "name": "AH Roomboter gezouten",
+    "price": "2.991.99",
+    "unit": "250 g125 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi2456/ah-roomboter-gezouten",
+    "unitPrice": "Normale prijs per KG € 11,96"
+  },
+  {
+    "name": "Campina Echte slagroom",
+    "price": "1.992.29",
+    "unit": "250 g225 g",
+    "url": "https://www.ah.nl/producten/product/wi2455/campina-echte-slagroom",
+    "unitPrice": "Prijs per KG € 7,96"
+  },
+  {
+    "name": "LU Mini crackers olijfolie & oregano",
+    "price": "1.991.991.991.993.981.99",
+    "unit": "250 g250 g250 g150 g2 stuks150 g",
+    "url": "https://www.ah.nl/producten/product/wi2432/lu-mini-crackers-olijfolie-en-oregano",
+    "unitPrice": "Prijs per KG € 7,96"
+  },
+  {
+    "name": "Nutella Hazelnootpasta",
+    "price": "3.792.656.892.995.39",
+    "unit": "400 g6 x 15 g825 g200 g600 g",
+    "url": "https://www.ah.nl/producten/product/wi2406/nutella-hazelnootpasta",
+    "unitPrice": "Prijs per KG € 9,48"
+  },
+  {
+    "name": "Bonne Maman Kersen confiture",
+    "price": "3.593.793.59",
+    "unit": "370 g335 g345 g",
+    "url": "https://www.ah.nl/producten/product/wi2391/bonne-maman-kersen-confiture",
+    "unitPrice": "Prijs per KG € 9,70"
+  },
+  {
+    "name": "Bonne Maman Aardbeien confiture",
+    "price": "3.393.793.495.99",
+    "unit": "370 g335 g345 g750 g",
+    "url": "https://www.ah.nl/producten/product/wi2390/bonne-maman-aardbeien-confiture",
+    "unitPrice": "Prijs per KG € 9,16"
+  },
+  {
+    "name": "Bonne Maman Abrikozen confiture",
+    "price": "3.293.793.495.99",
+    "unit": "370 g335 g345 g750 g",
+    "url": "https://www.ah.nl/producten/product/wi2382/bonne-maman-abrikozen-confiture",
+    "unitPrice": "Prijs per KG € 8,89"
+  },
+  {
+    "name": "Bonne Maman Pruimen confiture",
+    "price": "3.19",
+    "unit": "370 g",
+    "url": "https://www.ah.nl/producten/product/wi2383/bonne-maman-pruimen-confiture",
+    "unitPrice": "Prijs per KG € 8,62"
+  },
+  {
+    "name": "Melitta Filterzakjes original 1x4 bruin",
+    "price": "2.751.452.2516.042.99",
+    "unit": "80 stuks40 stuks80 stuksper pakket80 stuks",
+    "url": "https://www.ah.nl/producten/product/wi2375/melitta-filterzakjes-original-1x4-bruin",
+    "unitPrice": ""
+  },
+  {
+    "name": "Pickwick Ceylon zwarte thee meerkops",
+    "price": "1.992.691.491.95",
+    "unit": "20 stuks40 stuks20 stuks20 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi2379/pickwick-ceylon-zwarte-thee-meerkops",
+    "unitPrice": ""
+  },
+  {
+    "name": "Van Gilse Mini suikerklontjes",
+    "price": "1.492.49",
+    "unit": "500 g1 kg",
+    "url": "https://www.ah.nl/producten/product/wi2348/van-gilse-mini-suikerklontjes",
+    "unitPrice": "Prijs per KG € 2,98"
+  },
+  {
+    "name": "Knorr Croutons peterselie",
+    "price": "1.091.09",
+    "unit": "75 g100 g",
+    "url": "https://www.ah.nl/producten/product/wi2251/knorr-croutons-peterselie",
+    "unitPrice": "Prijs per KG € 14,53"
+  },
+  {
+    "name": "AH Tomatenpuree",
+    "price": "0.491.961.861.801.710.602.19",
+    "unit": "70 g4 stuks3 stuks140 g4 x 140 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi2226/ah-tomatenpuree",
+    "unitPrice": "Prijs per KG € 7,00"
+  },
+  {
+    "name": "Grand' Italia Lasagne tradizionali",
+    "price": "2.553.092.59",
+    "unit": "250 g250 g250 g",
+    "url": "https://www.ah.nl/producten/product/wi2207/grand-italia-lasagne-tradizionali",
+    "unitPrice": "Prijs per KG € 10,20"
+  },
+  {
+    "name": "Conimex Mix voor nasi",
+    "price": "0.890.89",
+    "unit": "20 g19 g",
+    "url": "https://www.ah.nl/producten/product/wi2199/conimex-mix-voor-nasi",
+    "unitPrice": "Prijs per KG € 44,50"
+  },
+  {
+    "name": "Zonnatura Wortelsap",
+    "price": "2.49",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi2194/zonnatura-wortelsap",
+    "unitPrice": "Prijs per LT € 3,32"
+  },
+  {
+    "name": "Honig Basis voor nasi speciaal",
+    "price": "1.991.991.991.99",
+    "unit": "38 g36 g36 g36 g",
+    "url": "https://www.ah.nl/producten/product/wi2128/honig-basis-voor-nasi-speciaal",
+    "unitPrice": "Normale prijs per KG € 52,37"
+  },
+  {
+    "name": "Honig Basis voor lasagnesaus",
+    "price": "1.991.991.993.591.991.99",
+    "unit": "125 g69 g68 g82 g125 g41 g",
+    "url": "https://www.ah.nl/producten/product/wi2110/honig-basis-voor-lasagnesaus",
+    "unitPrice": "Normale prijs per KG € 15,92"
+  },
+  {
+    "name": "Grand' Italia Tagliatelle all'uovo",
+    "price": "3.592.59",
+    "unit": "500 g250 g",
+    "url": "https://www.ah.nl/producten/product/wi2091/grand-italia-tagliatelle-all-uovo",
+    "unitPrice": "Prijs per KG € 7,18"
+  },
+  {
+    "name": "Grand' Italia Spaghetti tradizionali",
+    "price": "1.992.092.192.59",
+    "unit": "500 g500 g500 g500 g",
+    "url": "https://www.ah.nl/producten/product/wi2090/grand-italia-spaghetti-tradizionali",
+    "unitPrice": "Prijs per KG € 3,98"
+  },
+  {
+    "name": "Grand' Italia Fusilli tradizionali",
+    "price": "1.992.092.292.492.19",
+    "unit": "500 g350 g500 g500 g500 g",
+    "url": "https://www.ah.nl/producten/product/wi2073/grand-italia-fusilli-tradizionali",
+    "unitPrice": "Prijs per KG € 3,98"
+  },
+  {
+    "name": "Grand' Italia Pipe rigate tradizionali",
+    "price": "1.992.09",
+    "unit": "500 g350 g",
+    "url": "https://www.ah.nl/producten/product/wi2072/grand-italia-pipe-rigate-tradizionali",
+    "unitPrice": "Prijs per KG € 3,98"
+  },
+  {
+    "name": "Grand' Italia Penne tradizionali",
+    "price": "1.992.092.192.692.39",
+    "unit": "500 g350 g500 g500 g350 g",
+    "url": "https://www.ah.nl/producten/product/wi2065/grand-italia-penne-tradizionali",
+    "unitPrice": "Prijs per KG € 3,98"
+  },
+  {
+    "name": "Grand' Italia Sugocasa tradizionale pastasaus",
+    "price": "2.994.295.154.253.493.39",
+    "unit": "690 g400 g600 g400 g690 g185 g",
+    "url": "https://www.ah.nl/producten/product/wi2063/grand-italia-sugocasa-tradizionale-pastasaus",
+    "unitPrice": "Prijs per KG € 4,33"
+  },
+  {
+    "name": "Grand' Italia Farfalle tradizionali",
+    "price": "1.99",
+    "unit": "500 g",
+    "url": "https://www.ah.nl/producten/product/wi2064/grand-italia-farfalle-tradizionali",
+    "unitPrice": "Prijs per KG € 3,98"
+  },
+  {
+    "name": "Calvé Mayonaise",
+    "price": "2.691.952.99",
+    "unit": "450 ml225 ml650 ml",
+    "url": "https://www.ah.nl/producten/product/wi2037/calve-mayonaise",
+    "unitPrice": "Prijs per LT € 5,98"
+  },
+  {
+    "name": "Grand' Italia Sugocasa erbe pastasaus",
+    "price": "2.994.295.154.253.493.39",
+    "unit": "690 g400 g600 g400 g690 g185 g",
+    "url": "https://www.ah.nl/producten/product/wi2054/grand-italia-sugocasa-erbe-pastasaus",
+    "unitPrice": "Prijs per KG € 4,33"
+  },
+  {
+    "name": "Président Le brie",
+    "price": "3.094.582.152.59",
+    "unit": "200 gca. 220 g125 g125 g",
+    "url": "https://www.ah.nl/producten/product/wi2002/president-le-brie",
+    "unitPrice": "Prijs per KG € 15,45"
+  },
+  {
+    "name": "De Huisman Zaanse mosterd grof gemalen",
+    "price": "1.35",
+    "unit": "335 g",
+    "url": "https://www.ah.nl/producten/product/wi2008/de-huisman-zaanse-mosterd-grof-gemalen",
+    "unitPrice": "Prijs per KG € 4,03"
+  },
+  {
+    "name": "Boursin Knoflook & fijne kruiden",
+    "price": "3.251.993.493.29",
+    "unit": "150 g80 g150 g125 g",
+    "url": "https://www.ah.nl/producten/product/wi1983/boursin-knoflook-en-fijne-kruiden",
+    "unitPrice": "Prijs per KG € 21,67"
+  },
+  {
+    "name": "Boursin Knoflook & fijne kruiden",
+    "price": "1.993.493.293.25",
+    "unit": "80 g150 g125 g150 g",
+    "url": "https://www.ah.nl/producten/product/wi1982/boursin-knoflook-en-fijne-kruiden",
+    "unitPrice": "Prijs per KG € 24,88"
+  },
+  {
+    "name": "Paturain knoflook",
+    "price": "1.993.45",
+    "unit": "90 g150 g",
+    "url": "https://www.ah.nl/producten/product/wi1969/paturain-paturain-knoflook",
+    "unitPrice": "Prijs per KG € 22,11"
+  },
+  {
+    "name": "Danio Luchtige kwark bosbes",
+    "price": "1.791.791.79",
+    "unit": "2 x 125 g2 x 125 g2 x 125 g",
+    "url": "https://www.ah.nl/producten/product/wi1943/danio-luchtige-kwark-bosbes",
+    "unitPrice": "Prijs per KG € 7,16"
+  },
+  {
+    "name": "Port Salut 50+",
+    "price": "3.89",
+    "unit": "185 g",
+    "url": "https://www.ah.nl/producten/product/wi1950/port-salut-50",
+    "unitPrice": "Prijs per KG € 21,03"
+  },
+  {
+    "name": "Danio Luchtige kwark aardbei",
+    "price": "1.791.791.79",
+    "unit": "2 x 125 g2 x 125 g2 x 125 g",
+    "url": "https://www.ah.nl/producten/product/wi1942/danio-luchtige-kwark-aardbei",
+    "unitPrice": "Prijs per KG € 7,16"
+  },
+  {
+    "name": "Danone Hüttenkäse original",
+    "price": "1.893.29",
+    "unit": "200 g400 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1932/danone-huttenkase-original",
+    "unitPrice": "Prijs per KG € 9,45"
+  },
+  {
+    "name": "Douwe Egberts Mildcafe snelfiltermaling",
+    "price": "4.1914.494.697.498.993.99",
+    "unit": "250 g2 x 500 g250 g500 g500 g250 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1909/douwe-egberts-mildcafe-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 16,76"
+  },
+  {
+    "name": "Friesche Vlag Balance",
+    "price": "1.790.790.990.891.751.59",
+    "unit": "466 ml10 x 7 ml140 ml140 ml300 ml300 ml",
+    "url": "https://www.ah.nl/producten/product/wi1893/friesche-vlag-balance",
+    "unitPrice": "Prijs per LT € 3,84"
+  },
+  {
+    "name": "Heinz Tomaten ketchup",
+    "price": "2.594.292.995.444.353.391.85",
+    "unit": "300 ml0,57 l0,57 lper pakket400 ml220 ml",
+    "url": "https://www.ah.nl/producten/product/wi1887/heinz-tomaten-ketchup",
+    "unitPrice": "Prijs per LT € 8,63"
+  },
+  {
+    "name": "Ola Raket",
+    "price": "3.053.593.594.194.65",
+    "unit": "9 stuks8 stuks12 stuks8 stuks8 stuks",
+    "url": "https://www.ah.nl/producten/product/wi1884/ola-raket",
+    "unitPrice": ""
+  },
+  {
+    "name": "Libresse Maxi normal wing maandverband",
+    "price": "2.792.792.792.794.7910.969.31",
+    "unit": "14 stuks14 stuks14 stuks16 stuks30 stuksper pakket",
+    "url": "https://www.ah.nl/producten/product/wi1825/libresse-maxi-normal-wing-maandverband",
+    "unitPrice": ""
+  },
+  {
+    "name": "Libresse Ultra long+ wing maandverband",
+    "price": "2.792.792.792.794.7910.969.31",
+    "unit": "12 stuks14 stuks14 stuks16 stuks30 stuksper pakket",
+    "url": "https://www.ah.nl/producten/product/wi1826/libresse-ultra-long-wing-maandverband",
+    "unitPrice": ""
+  },
+  {
+    "name": "Libresse Ultra regular+ wing maandverband",
+    "price": "2.792.792.794.7910.969.3111.169.48",
+    "unit": "14 stuks14 stuks16 stuks30 stuksper pakketper pakket",
+    "url": "https://www.ah.nl/producten/product/wi1814/libresse-ultra-regular-wing-maandverband",
+    "unitPrice": ""
+  },
+  {
+    "name": "John West Wilde roze zalm",
+    "price": "4.156.656.796.794.193.15",
+    "unit": "213 g170 g213 g418 g105 g125 g",
+    "url": "https://www.ah.nl/producten/product/wi1765/john-west-wilde-roze-zalm",
+    "unitPrice": "Normale prijs per KG € 19,48"
+  },
+  {
+    "name": "John West Wilde rode zalm",
+    "price": "4.194.156.656.796.793.15",
+    "unit": "105 g213 g170 g213 g418 g125 g",
+    "url": "https://www.ah.nl/producten/product/wi1793/john-west-wilde-rode-zalm",
+    "unitPrice": "Normale prijs per KG € 39,90"
+  },
+  {
+    "name": "Nescafé Espresso original oploskoffie",
+    "price": "2.993.193.298.993.895.25",
+    "unit": "25 stuks20 stuks50 g200 g10 stuks100 g",
+    "url": "https://www.ah.nl/producten/product/wi1706/nescafe-espresso-original-oploskoffie",
+    "unitPrice": ""
+  },
+  {
+    "name": "Canei Bianco",
+    "price": "4.194.19",
+    "unit": "0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi1753/canei-bianco",
+    "unitPrice": "Prijs per LT € 5,59"
+  },
+  {
+    "name": "Crodino Biondo 6-pack",
+    "price": "9.99",
+    "unit": "6 x 175 ml",
+    "url": "https://www.ah.nl/producten/product/wi1638/crodino-biondo-6-pack",
+    "unitPrice": "Prijs per LT € 9,51"
+  },
+  {
+    "name": "Pickwick Earl grey zwarte thee meerkops",
+    "price": "1.952.691.491.99",
+    "unit": "20 stuks40 stuks20 stuks20 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1639/pickwick-earl-grey-zwarte-thee-meerkops",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Volkoren beschuit",
+    "price": "0.590.591.692.192.19",
+    "unit": "140 g130 g4 stuks230 g230 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi1625/ah-volkoren-beschuit",
+    "unitPrice": "Prijs per KG € 4,21"
+  },
+  {
+    "name": "AH Roomboter croissants",
+    "price": "1.291.091.75",
+    "unit": "4 stuks4 stuks8 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1628/ah-roomboter-croissants",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Beschuit naturel",
+    "price": "0.591.690.592.192.19",
+    "unit": "130 g4 stuks140 g230 g230 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1624/ah-beschuit-naturel",
+    "unitPrice": "Prijs per KG € 4,54"
+  },
+  {
+    "name": "AH Partymix",
+    "price": "1.993.09",
+    "unit": "12 stuks8 stuks",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1623/ah-partymix",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Frans stokbrood",
+    "price": "1.094.183.970.751.492.093.273.11",
+    "unit": "per stuk2 stuks2 stuks250 g300 g3 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi1622/ah-frans-stokbrood",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Hagelslag puur",
+    "price": "2.392.392.391.891.895.985.68",
+    "unit": "400 g400 g400 g250 g250 g2 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1608/ah-hagelslag-puur",
+    "unitPrice": "Prijs per KG € 5,98"
+  },
+  {
+    "name": "AH Hagelslag melk",
+    "price": "2.392.391.891.895.985.685.985.68",
+    "unit": "400 g400 g250 g250 g2 stuks2 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1607/ah-hagelslag-melk",
+    "unitPrice": "Prijs per KG € 5,98"
+  },
+  {
+    "name": "AH Hagelslag mix",
+    "price": "2.392.391.891.895.985.685.985.68",
+    "unit": "400 g400 g250 g250 g2 stuks2 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1606/ah-hagelslag-mix",
+    "unitPrice": "Prijs per KG € 5,98"
+  },
+  {
+    "name": "AH Rinse appelstroop",
+    "price": "0.992.991.591.59",
+    "unit": "450 g330 g110 g450 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi1593/ah-rinse-appelstroop",
+    "unitPrice": "Prijs per KG € 2,20"
+  },
+  {
+    "name": "AH Smeuïge pindakaas met stukjes pinda",
+    "price": "2.592.492.393.997.587.202.59",
+    "unit": "350 g350 g600 g600 g2 stuks350 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1581/ah-smeuige-pindakaas-met-stukjes-pinda",
+    "unitPrice": "Prijs per KG € 7,40"
+  },
+  {
+    "name": "AH Smeuïge pindakaas",
+    "price": "2.492.492.393.997.587.202.59",
+    "unit": "350 g350 g600 g600 g2 stuks350 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1589/ah-smeuige-pindakaas",
+    "unitPrice": "Prijs per KG € 7,11"
+  },
+  {
+    "name": "AH Ontbijtspek",
+    "price": "3.252.291.992.291.893.183.02",
+    "unit": "150 g100 g50 g150 g150 g2 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1565/ah-ontbijtspek",
+    "unitPrice": "Prijs per KG € 21,67"
+  },
+  {
+    "name": "Campina Biologisch volle boeren yoghurt",
+    "price": "1.891.491.891.49",
+    "unit": "1 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi1557/campina-biologisch-volle-boeren-yoghurt",
+    "unitPrice": "Normale prijs per LT € 1,89"
+  },
+  {
+    "name": "AH Kippenragout",
+    "price": "1.59",
+    "unit": "400 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi1545/ah-kippenragout",
+    "unitPrice": "Prijs per KG € 3,98"
+  },
+  {
+    "name": "AH Varkens knakworst",
+    "price": "1.492.497.967.162.083.393.39",
+    "unit": "400 g6 x 30 g4 stuks4 stuks260 g560 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1539/ah-varkens-knakworst",
+    "unitPrice": "Prijs per KG € 7,45"
+  },
+  {
+    "name": "AH Excellent Kalfsragout",
+    "price": "1.591.591.59",
+    "unit": "400 g400 g400 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi1542/ah-excellent-kalfsragout",
+    "unitPrice": "Prijs per KG € 3,98"
+  },
+  {
+    "name": "AH Cocktailworstjes",
+    "price": "2.29",
+    "unit": "400 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1538/ah-cocktailworstjes",
+    "unitPrice": "Prijs per KG € 11,45"
+  },
+  {
+    "name": "AH Soepballetjes",
+    "price": "0.75",
+    "unit": "200 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1536/ah-soepballetjes",
+    "unitPrice": "Prijs per KG € 3,75"
+  },
+  {
+    "name": "AH Leverpastei",
+    "price": "1.151.99",
+    "unit": "3 x 56 g340 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1537/ah-leverpastei",
+    "unitPrice": "Prijs per KG € 6,85"
+  },
+  {
+    "name": "AH Roomboter ongezouten",
+    "price": "1.792.95",
+    "unit": "125 g250 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1531/ah-roomboter-ongezouten",
+    "unitPrice": "Prijs per KG € 14,32"
+  },
+  {
+    "name": "AH Verse scharreleieren L",
+    "price": "4.1912.8711.582.596.494.2911.9711.37",
+    "unit": "10 stuks3 stuks6 stuks20 stuks10 stuks3 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi1530/ah-verse-scharreleieren-l",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Frituurvet",
+    "price": "4.798.996.9910.596.59",
+    "unit": "4 x 250 g3 l3 l2 l2 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1526/ah-frituurvet",
+    "unitPrice": "Prijs per KG € 4,79"
+  },
+  {
+    "name": "AH Halfvolle melk",
+    "price": "1.196.766.420.891.692.672.541.49",
+    "unit": "1 l4 stuks0,5 l1,5 l3x 0.5L1 l",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1525/ah-halfvolle-melk",
+    "unitPrice": "Prijs per LT € 1,19"
+  },
+  {
+    "name": "AH Volle melk",
+    "price": "1.290.95",
+    "unit": "1 l0,5 l",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi1524/ah-volle-melk",
+    "unitPrice": "Prijs per LT € 1,29"
+  },
+  {
+    "name": "AH Scharreleieren M",
+    "price": "2.7912.8711.582.596.494.2911.9711.37",
+    "unit": "6 stuks3 stuks6 stuks20 stuks10 stuks3 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi1521/ah-scharreleieren-m",
+    "unitPrice": ""
+  },
+  {
+    "name": "De Zaanse Hoeve Magere yoghurt",
+    "price": "1.090.79",
+    "unit": "1 l500 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi1519/de-zaanse-hoeve-magere-yoghurt",
+    "unitPrice": "Prijs per LT € 1,09"
+  },
+  {
+    "name": "AH Volle yoghurt",
+    "price": "1.450.99",
+    "unit": "1 l0,5 l",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1518/ah-volle-yoghurt",
+    "unitPrice": "Prijs per LT € 1,45"
+  },
+  {
+    "name": "AH Biogarde magere kwark",
+    "price": "1.752.397.176.814.053.857.006.301.35",
+    "unit": "500 g1 kg3 stuks3 stuksper stuk500 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi1508/ah-biogarde-magere-kwark",
+    "unitPrice": "Prijs per KG € 3,50"
+  },
+  {
+    "name": "AH Magere melk",
+    "price": "1.090.99",
+    "unit": "1 l1 l",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1516/ah-magere-melk",
+    "unitPrice": "Prijs per LT € 1,09"
+  },
+  {
+    "name": "De Zaanse Hoeve Vanille vla",
+    "price": "0.95",
+    "unit": "1 l",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1510/de-zaanse-hoeve-vanille-vla",
+    "unitPrice": "Prijs per LT € 0,95"
+  },
+  {
+    "name": "AH Blanke vla",
+    "price": "1.39",
+    "unit": "1 l",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1509/ah-blanke-vla",
+    "unitPrice": "Prijs per LT € 1,39"
+  },
+  {
+    "name": "AH Volle biogarde roer",
+    "price": "1.395.375.105.565.005.565.001.791.39",
+    "unit": "500 g3-pack4 stuks4 stuks1 l500 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1507/ah-volle-biogarde-roer",
+    "unitPrice": "Prijs per KG € 2,78"
+  },
+  {
+    "name": "AH Verse slagroom",
+    "price": "0.994.474.250.991.351.591.49",
+    "unit": "125 ml3 stuks200 ml250 g250 g250 g",
+    "url": "https://www.ah.nl/producten/product/wi1505/ah-verse-slagroom",
+    "unitPrice": "Prijs per LT € 7,92"
+  },
+  {
+    "name": "AH Halfvolle biogarde stand",
+    "price": "1.395.375.105.565.005.565.001.791.39",
+    "unit": "500 g3-pack4 stuks4 stuks1 l500 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi1506/ah-halfvolle-biogarde-stand",
+    "unitPrice": "Prijs per KG € 2,78"
+  },
+  {
+    "name": "De Zaanse Hoeve Karnemelk",
+    "price": "0.950.75",
+    "unit": "1 l500 ml",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi1503/de-zaanse-hoeve-karnemelk",
+    "unitPrice": "Prijs per LT € 0,95"
+  },
+  {
+    "name": "Campina Dubbelvla chocolade vanille",
+    "price": "2.191.492.251.49",
+    "unit": "1 l1 l",
+    "url": "https://www.ah.nl/producten/product/wi1502/campina-dubbelvla-chocolade-vanille",
+    "unitPrice": "Normale prijs per LT € 2,19"
+  },
+  {
+    "name": "AH Slagroom",
+    "price": "1.594.474.250.991.351.591.49",
+    "unit": "250 g3 stuks200 ml250 g250 g250 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1498/ah-slagroom",
+    "unitPrice": "Prijs per KG € 6,36"
+  },
+  {
+    "name": "AH Chocoladevla",
+    "price": "1.590.99",
+    "unit": "1 l0,5 l",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi1501/ah-chocoladevla",
+    "unitPrice": "Prijs per LT € 1,59"
+  },
+  {
+    "name": "Perla Huisblends Aroma Snelfiltermaling",
+    "price": "6.693.5913.293.993.5926.5825.25",
+    "unit": "500 g250 g2 x 500 g250 g250 gper pakket",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1487/perla-huisblends-aroma-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 13,38"
+  },
+  {
+    "name": "Perla Huisblends Aroma snelfiltermaling",
+    "price": "3.593.5913.293.9926.5825.256.69",
+    "unit": "250 g250 g2 x 500 g250 gper pakket500 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1494/perla-huisblends-aroma-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 14,36"
+  },
+  {
+    "name": "Perla Huisblends Decaf snelfiltermaling",
+    "price": "3.796.99",
+    "unit": "250 g500 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1486/perla-huisblends-decaf-snelfiltermaling",
+    "unitPrice": "Prijs per KG € 15,16"
+  },
+  {
+    "name": "AH Earl grey thee meerkops",
+    "price": "0.590.490.95",
+    "unit": "20 stuks20 stuks40 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1479/ah-earl-grey-thee-meerkops",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Engelse melange meerkops",
+    "price": "0.950.490.59",
+    "unit": "40 stuks20 stuks20 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1478/ah-engelse-melange-meerkops",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Engelse melange meerkops",
+    "price": "0.490.590.95",
+    "unit": "20 stuks20 stuks40 stuks",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi1477/ah-engelse-melange-meerkops",
+    "unitPrice": ""
+  },
+  {
+    "name": "Conqueror Ruby port",
+    "price": "7.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi1460/conqueror-ruby-port",
+    "unitPrice": "Prijs per LT € 9,72"
+  },
+  {
+    "name": "Conqueror Port white",
+    "price": "7.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi1453/conqueror-port-white",
+    "unitPrice": "Prijs per LT € 9,72"
+  },
+  {
+    "name": "Jerez Sherry 887 medium",
+    "price": "7.294.55",
+    "unit": "1 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi1446/jerez-sherry-887-medium",
+    "unitPrice": "Prijs per LT € 7,29"
+  },
+  {
+    "name": "Côte d'Or Chokotoff",
+    "price": "3.396.49",
+    "unit": "250 g500 g",
+    "url": "https://www.ah.nl/producten/product/wi1390/cote-d-or-chokotoff",
+    "unitPrice": "Prijs per KG € 13,56"
+  },
+  {
+    "name": "Milka Chocoladereep alpenmelk",
+    "price": "0.850.791.390.791.490.792.891.790.791.490.79",
+    "unit": "100 g100 g100 g270 g100 g85 g",
+    "url": "https://www.ah.nl/producten/product/wi1408/milka-chocoladereep-alpenmelk",
+    "unitPrice": "Normale prijs per KG € 8,50"
+  },
+  {
+    "name": "Unicura Ultra anti bacterieel handzeep",
+    "price": "2.992.242.992.242.692.022.992.242.992.243.49",
+    "unit": "250 ml250 ml250 ml250 ml250 ml250 ml",
+    "url": "https://www.ah.nl/producten/product/wi1265/unicura-ultra-anti-bacterieel-handzeep",
+    "unitPrice": "Normale prijs per LT € 11,96"
+  },
+  {
+    "name": "Vicks Blue menthol keelpastilles suikervrij",
+    "price": "2.151.891.69",
+    "unit": "72 g40 g40 g",
+    "url": "https://www.ah.nl/producten/product/wi1376/vicks-blue-menthol-keelpastilles-suikervrij",
+    "unitPrice": "Prijs per KG € 29,86"
+  },
+  {
+    "name": "Koopmans Bladerdeeg roomboter",
+    "price": "2.492.091.352.59",
+    "unit": "10 plakjes10 plakjes450 g450 g",
+    "url": "https://www.ah.nl/producten/product/wi1243/koopmans-bladerdeeg-roomboter",
+    "unitPrice": "Prijs per KG € 5,53"
+  },
+  {
+    "name": "AH Rundvlees bitterballen",
+    "price": "1.69",
+    "unit": "240 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi1250/ah-rundvlees-bitterballen",
+    "unitPrice": "Prijs per KG € 7,04"
+  },
+  {
+    "name": "AH Bladerdeeg",
+    "price": "0.991.99",
+    "unit": "10 plakjes450 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1241/ah-bladerdeeg",
+    "unitPrice": "Prijs per KG € 2,20"
+  },
+  {
+    "name": "AH Volle koffiemelk",
+    "price": "1.091.851.561.480.990.394.364.14",
+    "unit": "463 ml460 ml4 stuks188 ml71 ml4 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1109/ah-volle-koffiemelk",
+    "unitPrice": "Prijs per LT € 2,35"
+  },
+  {
+    "name": "AH Halfvolle koffiemelk",
+    "price": "1.851.561.480.990.394.364.140.99",
+    "unit": "460 ml4 stuks188 ml71 ml4 stuks465 ml",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1107/ah-halfvolle-koffiemelk",
+    "unitPrice": "Prijs per LT € 4,02"
+  },
+  {
+    "name": "AH Halfvolle koffiemelk",
+    "price": "0.991.851.561.480.990.394.364.14",
+    "unit": "465 ml460 ml4 stuks188 ml71 ml4 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1108/ah-halfvolle-koffiemelk",
+    "unitPrice": "Prijs per LT € 2,13"
+  },
+  {
+    "name": "AH Koffieroom",
+    "price": "1.090.69",
+    "unit": "185 ml20 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1102/ah-koffieroom",
+    "unitPrice": "Prijs per LT € 5,89"
+  },
+  {
+    "name": "AH Koffiecreamer",
+    "price": "1.7929.992.091.55",
+    "unit": "400 g1500 stuks50 stuks350 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1103/ah-koffiecreamer",
+    "unitPrice": "Prijs per KG € 4,48"
+  },
+  {
+    "name": "AH Halfvolle koffiemelk",
+    "price": "0.951.851.561.480.990.394.364.14",
+    "unit": "186 ml460 ml4 stuks188 ml71 ml4 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1101/ah-halfvolle-koffiemelk",
+    "unitPrice": "Prijs per LT € 5,11"
+  },
+  {
+    "name": "AH Trio zoutjes sesam- & maanzaad",
+    "price": "0.992.192.192.991.992.19",
+    "unit": "125 g100 g90 g220 g125 g100 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1077/ah-trio-zoutjes-sesam-en-maanzaad",
+    "unitPrice": "Prijs per KG € 7,92"
+  },
+  {
+    "name": "AH Amandelspeculaas",
+    "price": "1.994.474.251.491.291.95",
+    "unit": "400 g3 stuks600 g375 g350 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1055/ah-amandelspeculaas",
+    "unitPrice": "Prijs per KG € 4,98"
+  },
+  {
+    "name": "AH Roomboter kletsmajoors",
+    "price": "2.391.851.852.351.851.19",
+    "unit": "185 g240 g200 g200 g230 g260 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1057/ah-roomboter-kletsmajoors",
+    "unitPrice": "Prijs per KG € 12,92"
+  },
+  {
+    "name": "AH Kletskoppen met stukjes pinda",
+    "price": "1.181.851.852.351.851.19",
+    "unit": "175 g240 g200 g200 g230 g260 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1051/ah-kletskoppen-met-stukjes-pinda",
+    "unitPrice": "Prijs per KG € 6,74"
+  },
+  {
+    "name": "AH Biscuits volkoren met tarwebloem",
+    "price": "0.820.951.090.883.273.11",
+    "unit": "300 g450 g400 g400 g3 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi1041/ah-biscuits-volkoren-met-tarwebloem",
+    "unitPrice": "Prijs per KG € 2,73"
+  },
+  {
+    "name": "AH Roomboter karamel stroopwafels",
+    "price": "2.392.452.792.457.356.982.45",
+    "unit": "10 stuks12 stuks10 stuks230 g3 stuks200 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1030/ah-roomboter-karamel-stroopwafels",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Lange vingers",
+    "price": "1.253.753.56",
+    "unit": "200 g3 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1035/ah-lange-vingers",
+    "unitPrice": "Prijs per KG € 6,25"
+  },
+  {
+    "name": "Delicata Reep extra puur 70%",
+    "price": "2.594.954.701.651.651.651.65",
+    "unit": "200 g3-pack100 g100 g100 g100 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi1018/delicata-reep-extra-puur-70",
+    "unitPrice": "Prijs per KG € 12,95"
+  },
+  {
+    "name": "Delicata Reep melk-hazelnoot",
+    "price": "2.751.492.69",
+    "unit": "200 g100 g150 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1019/delicata-reep-melk-hazelnoot",
+    "unitPrice": "Prijs per KG € 13,75"
+  },
+  {
+    "name": "Delicata Reep puur 58%",
+    "price": "2.394.954.701.651.651.651.65",
+    "unit": "200 g3-pack100 g100 g100 g100 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1017/delicata-reep-puur-58",
+    "unitPrice": "Prijs per KG € 11,95"
+  },
+  {
+    "name": "Delicata Reep melk",
+    "price": "2.391.394.392.199.568.605.565.28",
+    "unit": "200 g100 g400 g100 g4 stuks4 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1016/delicata-reep-melk",
+    "unitPrice": "Prijs per KG € 11,95"
+  },
+  {
+    "name": "Delicata Reep wit",
+    "price": "1.392.295.565.00",
+    "unit": "100 g200 g4 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi1015/delicata-reep-wit",
+    "unitPrice": "Prijs per KG € 13,90"
+  },
+  {
+    "name": "Olay Dagcreme double action",
+    "price": "8.398.99",
+    "unit": "50 ml100 ml",
+    "url": "https://www.ah.nl/producten/product/wi992/olay-dagcreme-double-action",
+    "unitPrice": "Prijs per LT € 167,80"
+  },
+  {
+    "name": "AH Pepermunt",
+    "price": "1.452.152.09",
+    "unit": "250 g360 g400 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi962/ah-pepermunt",
+    "unitPrice": "Prijs per KG € 5,80"
+  },
+  {
+    "name": "AH Paneermeel naturel beschuit",
+    "price": "0.590.75",
+    "unit": "150 g400 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi954/ah-paneermeel-naturel-beschuit",
+    "unitPrice": "Prijs per KG € 3,93"
+  },
+  {
+    "name": "AH Zelfrijzend bakmeel",
+    "price": "0.790.890.99",
+    "unit": "500 g1 kg1 kg",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi953/ah-zelfrijzend-bakmeel",
+    "unitPrice": "Prijs per KG € 1,58"
+  },
+  {
+    "name": "AH Patent tarwebloem",
+    "price": "0.690.89",
+    "unit": "500 g1 kg",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi952/ah-patent-tarwebloem",
+    "unitPrice": "Prijs per KG € 1,38"
+  },
+  {
+    "name": "AH Patentbloem",
+    "price": "0.990.690.89",
+    "unit": "1 kg500 g1 kg",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi951/ah-patentbloem",
+    "unitPrice": "Prijs per KG € 0,99"
+  },
+  {
+    "name": "AH Witte snelkook rijst",
+    "price": "1.252.502.371.451.992.19",
+    "unit": "400 g2 stuks2 x 150 g1 kg1 kg",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi948/ah-witte-snelkook-rijst",
+    "unitPrice": "Prijs per KG € 3,13"
+  },
+  {
+    "name": "AH Mienestjes",
+    "price": "1.19",
+    "unit": "500 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi944/ah-mienestjes",
+    "unitPrice": "Prijs per KG € 2,38"
+  },
+  {
+    "name": "Vaseline Lotion essential repair",
+    "price": "7.157.7510.897.1511.5511.55",
+    "unit": "200 ml200 ml190 ml200 ml400 ml400 ml",
+    "url": "https://www.ah.nl/producten/product/wi937/vaseline-lotion-essential-repair",
+    "unitPrice": "Prijs per LT € 35,75"
+  },
+  {
+    "name": "AH Pannenkoekmix",
+    "price": "0.751.291.430.79",
+    "unit": "400 g400 g200 g400 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi935/ah-pannenkoekmix",
+    "unitPrice": "Prijs per KG € 1,88"
+  },
+  {
+    "name": "AH Erwtensoep",
+    "price": "1.990.99",
+    "unit": "800 ml300 ml",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi934/ah-erwtensoep",
+    "unitPrice": "Prijs per LT € 2,49"
+  },
+  {
+    "name": "AH Rijkgevulde bruine bonensoep",
+    "price": "1.991.19",
+    "unit": "800 ml300 ml",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi922/ah-rijkgevulde-bruine-bonensoep",
+    "unitPrice": "Prijs per LT € 2,49"
+  },
+  {
+    "name": "AH Rijkgevulde tomatensoep",
+    "price": "1.993.983.780.99",
+    "unit": "800 ml2 stuks300 ml",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi920/ah-rijkgevulde-tomatensoep",
+    "unitPrice": "Prijs per LT € 2,49"
+  },
+  {
+    "name": "AH Rijkgevulde kippensoep",
+    "price": "1.990.99",
+    "unit": "800 ml300 ml",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi921/ah-rijkgevulde-kippensoep",
+    "unitPrice": "Prijs per LT € 2,49"
+  },
+  {
+    "name": "AH Augurken klein zoetzuur",
+    "price": "1.291.191.291.291.291.09",
+    "unit": "330 g530 g670 g330 g670 g670 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi917/ah-augurken-klein-zoetzuur",
+    "unitPrice": "Prijs per KG € 6,79"
+  },
+  {
+    "name": "AH Augurken partysticks zoetzuur",
+    "price": "1.091.191.291.291.291.29",
+    "unit": "670 g530 g330 g670 g330 g670 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi914/ah-augurken-partysticks-zoetzuur",
+    "unitPrice": "Prijs per KG € 3,03"
+  },
+  {
+    "name": "AH Augurken zoetzuur",
+    "price": "0.991.191.291.291.291.29",
+    "unit": "670 g530 g330 g670 g330 g670 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi910/ah-augurken-zoetzuur",
+    "unitPrice": "Prijs per KG € 2,75"
+  },
+  {
+    "name": "AH Zilveruitjes zoetzuur",
+    "price": "0.75",
+    "unit": "320 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi913/ah-zilveruitjes-zoetzuur",
+    "unitPrice": "Prijs per KG € 3,95"
+  },
+  {
+    "name": "AH Zonnebloemolie",
+    "price": "1.99",
+    "unit": "1 l",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi906/ah-zonnebloemolie",
+    "unitPrice": "Prijs per LT € 1,99"
+  },
+  {
+    "name": "AH Mayonaise zacht en romig",
+    "price": "1.592.492.750.791.39",
+    "unit": "0,65 l0,65 l0,75 l170 ml350 ml",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi904/ah-mayonaise-zacht-en-romig",
+    "unitPrice": "Prijs per LT € 2,45"
+  },
+  {
+    "name": "AH Mayonaise zacht en romig",
+    "price": "1.392.492.750.791.59",
+    "unit": "350 ml0,65 l0,75 l170 ml0,65 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi903/ah-mayonaise-zacht-en-romig",
+    "unitPrice": "Prijs per LT € 3,97"
+  },
+  {
+    "name": "AH Aardappel salade",
+    "price": "1.952.092.69",
+    "unit": "600 g1 kg400 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi893/ah-aardappel-salade",
+    "unitPrice": "Prijs per KG € 3,25"
+  },
+  {
+    "name": "AH Ananasschijven op sap",
+    "price": "1.201.202.08",
+    "unit": "227 g227 g567 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi857/ah-ananasschijven-op-sap",
+    "unitPrice": "Prijs per KG € 8,57"
+  },
+  {
+    "name": "AH Partjes mandarijn op sap",
+    "price": "1.29",
+    "unit": "300 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi852/ah-partjes-mandarijn-op-sap",
+    "unitPrice": "Prijs per KG € 7,37"
+  },
+  {
+    "name": "AH Hollandse bruine bonen",
+    "price": "0.791.291.191.09",
+    "unit": "360 g800 g400 g680 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi849/ah-hollandse-bruine-bonen",
+    "unitPrice": "Prijs per KG € 2,19"
+  },
+  {
+    "name": "AH Hollandse bruine bonen",
+    "price": "1.091.291.190.79",
+    "unit": "680 g800 g400 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi841/ah-hollandse-bruine-bonen",
+    "unitPrice": "Prijs per KG € 2,34"
+  },
+  {
+    "name": "AH Hollandse bruine bonen",
+    "price": "1.291.191.090.79",
+    "unit": "800 g400 g680 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi840/ah-hollandse-bruine-bonen",
+    "unitPrice": "Prijs per KG € 1,61"
+  },
+  {
+    "name": "AH Doperwten",
+    "price": "1.451.191.690.99",
+    "unit": "400 g350 g680 g190 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi839/ah-doperwten",
+    "unitPrice": "Prijs per KG € 3,63"
+  },
+  {
+    "name": "AH Doperwten",
+    "price": "1.191.690.991.45",
+    "unit": "350 g680 g190 g400 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi838/ah-doperwten",
+    "unitPrice": "Prijs per KG € 5,17"
+  },
+  {
+    "name": "AH Doperwten wortelen",
+    "price": "1.090.951.10",
+    "unit": "330 g180 g680 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi833/ah-doperwten-wortelen",
+    "unitPrice": "Prijs per KG € 5,07"
+  },
+  {
+    "name": "AH Kapucijners",
+    "price": "2.151.19",
+    "unit": "800 g330 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi825/ah-kapucijners",
+    "unitPrice": "Prijs per KG € 2,69"
+  },
+  {
+    "name": "AH Tuinbonen",
+    "price": "1.251.49",
+    "unit": "340 g660 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi824/ah-tuinbonen",
+    "unitPrice": "Prijs per KG € 3,68"
+  },
+  {
+    "name": "AH Gebroken sperziebonen",
+    "price": "0.956.565.901.641.19",
+    "unit": "340 g4 stuks800 g660 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi823/ah-gebroken-sperziebonen",
+    "unitPrice": "Prijs per KG € 5,14"
+  },
+  {
+    "name": "AH Appelcompote",
+    "price": "0.891.29",
+    "unit": "345 g350 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi818/ah-appelcompote",
+    "unitPrice": "Prijs per KG € 2,58"
+  },
+  {
+    "name": "AH Gebroken sperziebonen",
+    "price": "1.196.565.900.951.64",
+    "unit": "660 g4 stuks340 g800 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi822/ah-gebroken-sperziebonen",
+    "unitPrice": "Prijs per KG € 3,31"
+  },
+  {
+    "name": "AH Appel-abrikozen compote",
+    "price": "1.290.89",
+    "unit": "350 g345 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi816/ah-appel-abrikozen-compote",
+    "unitPrice": "Prijs per KG € 3,69"
+  },
+  {
+    "name": "AH Witte bonen",
+    "price": "1.150.791.291.110.690.59",
+    "unit": "360 g400 g800 g800 g360 g180 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi814/ah-witte-bonen",
+    "unitPrice": "Prijs per KG € 3,19"
+  },
+  {
+    "name": "AH Rabarbercompote",
+    "price": "1.85",
+    "unit": "345 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi812/ah-rabarbercompote",
+    "unitPrice": "Prijs per KG € 5,36"
+  },
+  {
+    "name": "AH Appelmoes 0% suiker toegevoegd",
+    "price": "1.990.897.967.160.99",
+    "unit": "710 g710 g4 stuks360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi810/ah-appelmoes-0-suiker-toegevoegd",
+    "unitPrice": "Prijs per KG € 2,80"
+  },
+  {
+    "name": "AH Appelmoes 0% suiker toegevoegd",
+    "price": "0.991.990.897.967.16",
+    "unit": "360 g710 g710 g4 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi811/ah-appelmoes-0-suiker-toegevoegd",
+    "unitPrice": "Prijs per KG € 2,75"
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.690.791.291.110.591.15",
+    "unit": "360 g400 g800 g800 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi805/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,92"
+  },
+  {
+    "name": "AH Wortelen",
+    "price": "0.750.690.89",
+    "unit": "340 g180 g680 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi806/ah-wortelen",
+    "unitPrice": "Prijs per KG € 3,49"
+  },
+  {
+    "name": "AH Maiskorrels fris en knapperig",
+    "price": "1.051.991.69",
+    "unit": "300 g450 g190 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi800/ah-maiskorrels-fris-en-knapperig",
+    "unitPrice": "Prijs per KG € 3,50"
+  },
+  {
+    "name": "AH Tomaten gepeld",
+    "price": "0.69",
+    "unit": "400 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi803/ah-tomaten-gepeld",
+    "unitPrice": "Prijs per KG € 1,73"
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.791.291.110.690.591.15",
+    "unit": "400 g800 g800 g360 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi796/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Lekkerbekjes",
+    "price": "2.992.99",
+    "unit": "3 x 100 g350 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi799/ah-lekkerbekjes",
+    "unitPrice": "Prijs per KG € 9,97"
+  },
+  {
+    "name": "AH Vrieslollies",
+    "price": "1.191.591.990.992.992.29",
+    "unit": "10 stuks12 stuks8 stuks8 stuks5 stuks15 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi793/ah-vrieslollies",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Kabeljauw",
+    "price": "4.495.499.99",
+    "unit": "400 g250 g675 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi792/ah-kabeljauw",
+    "unitPrice": "Prijs per KG € 11,23"
+  },
+  {
+    "name": "AH Tuinerwten fijn",
+    "price": "0.951.39",
+    "unit": "450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi788/ah-tuinerwten-fijn",
+    "unitPrice": "Prijs per KG € 2,11"
+  },
+  {
+    "name": "AH Spinazie  la creme",
+    "price": "0.751.390.950.65",
+    "unit": "450 g450 g750 g450 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi777/ah-spinazie-la-creme",
+    "unitPrice": "Prijs per KG € 1,67"
+  },
+  {
+    "name": "AH Spinazie fijn gesneden",
+    "price": "0.650.751.390.95",
+    "unit": "450 g450 g450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi769/ah-spinazie-fijn-gesneden",
+    "unitPrice": "Prijs per KG € 1,44"
+  },
+  {
+    "name": "AH Aardappelkroketjes",
+    "price": "1.19",
+    "unit": "600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi772/ah-aardappelkroketjes",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Roomijs vanille",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi759/ah-roomijs-vanille",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Aardappelschijfjes",
+    "price": "1.99",
+    "unit": "600 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi765/ah-aardappelschijfjes",
+    "unitPrice": "Prijs per KG € 3,32"
+  },
+  {
+    "name": "AH Roomijs stracciatella",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi754/ah-roomijs-stracciatella",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Roomijs malaga",
+    "price": "3.493.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi751/ah-roomijs-malaga",
+    "unitPrice": "Prijs per LT € 3,49"
+  },
+  {
+    "name": "AH Chantilly",
+    "price": "3.195.991.992.392.29",
+    "unit": "8 stuks16 stuks8 x 120 ml6 stuks6 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi745/ah-chantilly",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Pizza kaas tomaat",
+    "price": "1.392.352.392.392.392.39",
+    "unit": "300 g540 g355 g355 g330 g335 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi737/ah-pizza-kaas-tomaat",
+    "unitPrice": "Prijs per KG € 4,63"
+  },
+  {
+    "name": "AH Pizzabroodjes salami",
+    "price": "1.391.29",
+    "unit": "2 x 125 g250 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi732/ah-pizzabroodjes-salami",
+    "unitPrice": "Prijs per KG € 5,56"
+  },
+  {
+    "name": "AH Afwasmiddel citrus",
+    "price": "1.191.551.291.551.191.39",
+    "unit": "0,5 l1 l0,5 l1 l0,5 l0,5 l",
+    "url": "https://www.ah.nl/producten/product/wi651/ah-afwasmiddel-citrus",
+    "unitPrice": "Prijs per LT € 2,38"
+  },
+  {
+    "name": "AH Tissues zacht & sterk",
+    "price": "1.491.895.965.361.591.12",
+    "unit": "100 stuks80 stuks4 stuks150 stuks150 stuks",
+    "url": "https://www.ah.nl/producten/product/wi632/ah-tissues-zacht-en-sterk",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Dikke bleek",
+    "price": "0.901.690.90",
+    "unit": "0,75 l2 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi648/ah-dikke-bleek",
+    "unitPrice": "Prijs per LT € 1,20"
+  },
+  {
+    "name": "AH Servetten 2-laags 33x33 cm wit",
+    "price": "1.991.691.990.893.991.69",
+    "unit": "50 stuks20 stuks20 stuks100 stuksper stuk20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi624/ah-servetten-2-laags-33x33-cm-wit",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Vuilnisemmerzakken 35L",
+    "price": "2.194.383.941.997.967.568.768.322.19",
+    "unit": "20 stuks2 stuks20 stuks4 stuks4 stuks25 stuks",
+    "url": "https://www.ah.nl/producten/product/wi565/ah-vuilnisemmerzakken-35l",
+    "unitPrice": ""
+  },
+  {
+    "name": "Glorix Bleek original",
+    "price": "1.552.492.49",
+    "unit": "0,75 l0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi562/glorix-bleek-original",
+    "unitPrice": "Prijs per LT € 2,07"
+  },
+  {
+    "name": "Grolsch Premium pilsner bier 6-pack",
+    "price": "6.2925.1622.647.99",
+    "unit": "6 x 0,33 lper pakket6 x 50 cl",
+    "url": "https://www.ah.nl/producten/product/wi446/grolsch-premium-pilsner-bier-6-pack",
+    "unitPrice": "Prijs per LT € 3,18"
+  },
+  {
+    "name": "Appelsientje Tomatientje",
+    "price": "2.29",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi487/appelsientje-tomatientje",
+    "unitPrice": "Prijs per LT € 2,29"
+  },
+  {
+    "name": "AH Blik pate rund wild",
+    "price": "0.950.995.945.354.090.454.49",
+    "unit": "400 g150 g6 stuks12 x 100 g150 g12 x 100 g",
+    "url": "https://www.ah.nl/producten/product/wi347/ah-blik-pate-rund-wild",
+    "unitPrice": "Prijs per KG € 2,38"
+  },
+  {
+    "name": "Conqueror Tawny port",
+    "price": "7.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi435/conqueror-tawny-port",
+    "unitPrice": "Prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Pat met rund",
+    "price": "0.850.290.293.903.510.790.79",
+    "unit": "400 g100 g100 gper stuk415 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi341/ah-pat-met-rund",
+    "unitPrice": "Prijs per KG € 2,13"
+  },
+  {
+    "name": "AH Blik brokjes kip kalkoen",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi337/ah-blik-brokjes-kip-kalkoen",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes zalm forel",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi334/ah-blik-brokjes-zalm-forel",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes wild gevogelte",
+    "price": "0.790.290.293.903.510.850.79",
+    "unit": "415 g100 g100 gper stuk400 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi336/ah-blik-brokjes-wild-gevogelte",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "Greenminds Schrijfblok A4 gelinieerd",
+    "price": "2.59",
+    "unit": "per stuk",
+    "url": "https://www.ah.nl/producten/product/wi319/greenminds-schrijfblok-a4-gelinieerd",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Amsterdamse uien",
+    "price": "0.65",
+    "unit": "320 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi317/ah-amsterdamse-uien",
+    "unitPrice": "Prijs per KG € 3,42"
+  },
+  {
+    "name": "Cave de Beblenheim Pinot blanc",
+    "price": "5.794.79",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi307/cave-de-beblenheim-pinot-blanc",
+    "unitPrice": "Normale prijs per LT € 7,72"
+  },
+  {
+    "name": "AH Fruitcocktail siroop",
+    "price": "1.79",
+    "unit": "411 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi309/ah-fruitcocktail-siroop",
+    "unitPrice": "Prijs per KG € 7,16"
+  },
+  {
+    "name": "AH Kattenbak houtkorrels",
+    "price": "6.493.79",
+    "unit": "10 l6 l",
+    "url": "https://www.ah.nl/producten/product/wi294/ah-kattenbak-houtkorrels",
+    "unitPrice": "Prijs per LT € 0,65"
+  },
+  {
+    "name": "Cave de Beblenheim AOC Alsace riesling",
+    "price": "7.296.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi305/cave-de-beblenheim-aoc-alsace-riesling",
+    "unitPrice": "Normale prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Ah roomkaas met kruiden",
+    "price": "0.952.892.292.292.892.89",
+    "unit": "125 g125 g125 g125 g125 g125 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi257/ah-ah-roomkaas-met-kruiden",
+    "unitPrice": "Prijs per KG € 7,60"
+  },
+  {
+    "name": "Chiarli 1860 Lambrusco bianco",
+    "price": "2.59",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi284/chiarli-1860-lambrusco-bianco",
+    "unitPrice": "Prijs per LT € 3,45"
+  },
+  {
+    "name": "AH Smeerkaas naturel",
+    "price": "0.690.750.790.691.85",
+    "unit": "100 g100 g105 g103 g300 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi249/ah-smeerkaas-naturel",
+    "unitPrice": "Prijs per KG € 6,90"
+  },
+  {
+    "name": "AH Galia meloen",
+    "price": "1.995.503.982.50",
+    "unit": "per stuk2 stuks200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi141/ah-galia-meloen",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Koffiefilters no2",
+    "price": "0.750.89",
+    "unit": "80 stuks100 stuks",
+    "url": "https://www.ah.nl/producten/product/wi159/ah-koffiefilters-no2",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Aardappelballetjes",
+    "price": "1.891.95",
+    "unit": "600 g600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi107/ah-aardappelballetjes",
+    "unitPrice": "Prijs per KG € 3,15"
+  },
+  {
+    "name": "Campina Halfvolle yoghurt vanillesmaak",
+    "price": "1.891.49",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi123/campina-halfvolle-yoghurt-vanillesmaak",
+    "unitPrice": "Normale prijs per LT € 1,89"
+  },
+  {
+    "name": "AH Franse baguettes",
+    "price": "0.754.183.971.091.492.093.273.11",
+    "unit": "2 stuks2 stuksper stuk250 g300 g3 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi73/ah-franse-baguettes",
+    "unitPrice": ""
+  },
+  {
+    "name": "Lea & Perrins Worcestershire saus",
+    "price": "1.99",
+    "unit": "150 ml",
+    "url": "https://www.ah.nl/producten/product/wi103/lea-en-perrins-worcestershire-saus",
+    "unitPrice": "Prijs per LT € 13,27"
+  },
+  {
+    "name": "AH Appelmoes 0% suiker toegevoegd",
+    "price": "1.990.897.967.160.99",
+    "unit": "710 g710 g4 stuks360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi810/ah-appelmoes-0-suiker-toegevoegd",
+    "unitPrice": "Prijs per KG € 2,80"
+  },
+  {
+    "name": "AH Appelmoes 0% suiker toegevoegd",
+    "price": "0.991.990.897.967.16",
+    "unit": "360 g710 g710 g4 stuks",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi811/ah-appelmoes-0-suiker-toegevoegd",
+    "unitPrice": "Prijs per KG € 2,75"
+  },
+  {
+    "name": "AH Wortelen",
+    "price": "0.750.690.89",
+    "unit": "340 g180 g680 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi806/ah-wortelen",
+    "unitPrice": "Prijs per KG € 3,49"
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.690.791.291.110.591.15",
+    "unit": "360 g400 g800 g800 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi805/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,92"
+  },
+  {
+    "name": "AH Tomaten gepeld",
+    "price": "0.69",
+    "unit": "400 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi803/ah-tomaten-gepeld",
+    "unitPrice": "Prijs per KG € 1,73"
+  },
+  {
+    "name": "AH Maiskorrels fris en knapperig",
+    "price": "1.051.991.69",
+    "unit": "300 g450 g190 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi800/ah-maiskorrels-fris-en-knapperig",
+    "unitPrice": "Prijs per KG € 3,50"
+  },
+  {
+    "name": "AH Lekkerbekjes",
+    "price": "2.992.99",
+    "unit": "3 x 100 g350 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi799/ah-lekkerbekjes",
+    "unitPrice": "Prijs per KG € 9,97"
+  },
+  {
+    "name": "AH Vrieslollies",
+    "price": "1.191.591.990.992.992.29",
+    "unit": "10 stuks12 stuks8 stuks8 stuks5 stuks15 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi793/ah-vrieslollies",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.791.291.110.690.591.15",
+    "unit": "400 g800 g800 g360 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi796/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Tuinerwten fijn",
+    "price": "0.951.39",
+    "unit": "450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi788/ah-tuinerwten-fijn",
+    "unitPrice": "Prijs per KG € 2,11"
+  },
+  {
+    "name": "AH Kabeljauw",
+    "price": "4.495.499.99",
+    "unit": "400 g250 g675 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi792/ah-kabeljauw",
+    "unitPrice": "Prijs per KG € 11,23"
+  },
+  {
+    "name": "AH Spinazie  la creme",
+    "price": "0.751.390.950.65",
+    "unit": "450 g450 g750 g450 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi777/ah-spinazie-la-creme",
+    "unitPrice": "Prijs per KG € 1,67"
+  },
+  {
+    "name": "AH Aardappelkroketjes",
+    "price": "1.19",
+    "unit": "600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi772/ah-aardappelkroketjes",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Spinazie fijn gesneden",
+    "price": "0.650.751.390.95",
+    "unit": "450 g450 g450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi769/ah-spinazie-fijn-gesneden",
+    "unitPrice": "Prijs per KG € 1,44"
+  },
+  {
+    "name": "AH Aardappelschijfjes",
+    "price": "1.99",
+    "unit": "600 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi765/ah-aardappelschijfjes",
+    "unitPrice": "Prijs per KG € 3,32"
+  },
+  {
+    "name": "AH Roomijs vanille",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi759/ah-roomijs-vanille",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Roomijs stracciatella",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi754/ah-roomijs-stracciatella",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Roomijs malaga",
+    "price": "3.493.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi751/ah-roomijs-malaga",
+    "unitPrice": "Prijs per LT € 3,49"
+  },
+  {
+    "name": "AH Chantilly",
+    "price": "3.195.991.992.392.29",
+    "unit": "8 stuks16 stuks8 x 120 ml6 stuks6 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi745/ah-chantilly",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Pizza kaas tomaat",
+    "price": "1.392.352.392.392.392.39",
+    "unit": "300 g540 g355 g355 g330 g335 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi737/ah-pizza-kaas-tomaat",
+    "unitPrice": "Prijs per KG € 4,63"
+  },
+  {
+    "name": "AH Afwasmiddel citrus",
+    "price": "1.191.551.291.551.191.39",
+    "unit": "0,5 l1 l0,5 l1 l0,5 l0,5 l",
+    "url": "https://www.ah.nl/producten/product/wi651/ah-afwasmiddel-citrus",
+    "unitPrice": "Prijs per LT € 2,38"
+  },
+  {
+    "name": "AH Pizzabroodjes salami",
+    "price": "1.391.29",
+    "unit": "2 x 125 g250 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi732/ah-pizzabroodjes-salami",
+    "unitPrice": "Prijs per KG € 5,56"
+  },
+  {
+    "name": "AH Tissues zacht & sterk",
+    "price": "1.491.895.965.361.591.12",
+    "unit": "100 stuks80 stuks4 stuks150 stuks150 stuks",
+    "url": "https://www.ah.nl/producten/product/wi632/ah-tissues-zacht-en-sterk",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Dikke bleek",
+    "price": "0.901.690.90",
+    "unit": "0,75 l2 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi648/ah-dikke-bleek",
+    "unitPrice": "Prijs per LT € 1,20"
+  },
+  {
+    "name": "AH Servetten 2-laags 33x33 cm wit",
+    "price": "1.991.691.990.893.991.69",
+    "unit": "50 stuks20 stuks20 stuks100 stuksper stuk20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi624/ah-servetten-2-laags-33x33-cm-wit",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Vuilnisemmerzakken 35L",
+    "price": "2.194.383.941.997.967.568.768.322.19",
+    "unit": "20 stuks2 stuks20 stuks4 stuks4 stuks25 stuks",
+    "url": "https://www.ah.nl/producten/product/wi565/ah-vuilnisemmerzakken-35l",
+    "unitPrice": ""
+  },
+  {
+    "name": "Glorix Bleek original",
+    "price": "1.552.492.49",
+    "unit": "0,75 l0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi562/glorix-bleek-original",
+    "unitPrice": "Prijs per LT € 2,07"
+  },
+  {
+    "name": "Appelsientje Tomatientje",
+    "price": "2.29",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi487/appelsientje-tomatientje",
+    "unitPrice": "Prijs per LT € 2,29"
+  },
+  {
+    "name": "Grolsch Premium pilsner bier 6-pack",
+    "price": "6.2925.1622.647.99",
+    "unit": "6 x 0,33 lper pakket6 x 50 cl",
+    "url": "https://www.ah.nl/producten/product/wi446/grolsch-premium-pilsner-bier-6-pack",
+    "unitPrice": "Prijs per LT € 3,18"
+  },
+  {
+    "name": "Conqueror Tawny port",
+    "price": "7.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi435/conqueror-tawny-port",
+    "unitPrice": "Prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Blik pate rund wild",
+    "price": "0.950.995.945.354.090.454.49",
+    "unit": "400 g150 g6 stuks12 x 100 g150 g12 x 100 g",
+    "url": "https://www.ah.nl/producten/product/wi347/ah-blik-pate-rund-wild",
+    "unitPrice": "Prijs per KG € 2,38"
+  },
+  {
+    "name": "AH Pat met rund",
+    "price": "0.850.290.293.903.510.790.79",
+    "unit": "400 g100 g100 gper stuk415 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi341/ah-pat-met-rund",
+    "unitPrice": "Prijs per KG € 2,13"
+  },
+  {
+    "name": "AH Blik brokjes kip kalkoen",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi337/ah-blik-brokjes-kip-kalkoen",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes wild gevogelte",
+    "price": "0.790.290.293.903.510.850.79",
+    "unit": "415 g100 g100 gper stuk400 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi336/ah-blik-brokjes-wild-gevogelte",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik brokjes zalm forel",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi334/ah-blik-brokjes-zalm-forel",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Amsterdamse uien",
+    "price": "0.65",
+    "unit": "320 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi317/ah-amsterdamse-uien",
+    "unitPrice": "Prijs per KG € 3,42"
+  },
+  {
+    "name": "Greenminds Schrijfblok A4 gelinieerd",
+    "price": "2.59",
+    "unit": "per stuk",
+    "url": "https://www.ah.nl/producten/product/wi319/greenminds-schrijfblok-a4-gelinieerd",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Fruitcocktail siroop",
+    "price": "1.79",
+    "unit": "411 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi309/ah-fruitcocktail-siroop",
+    "unitPrice": "Prijs per KG € 7,16"
+  },
+  {
+    "name": "Cave de Beblenheim Pinot blanc",
+    "price": "5.794.79",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi307/cave-de-beblenheim-pinot-blanc",
+    "unitPrice": "Normale prijs per LT € 7,72"
+  },
+  {
+    "name": "AH Kattenbak houtkorrels",
+    "price": "6.493.79",
+    "unit": "10 l6 l",
+    "url": "https://www.ah.nl/producten/product/wi294/ah-kattenbak-houtkorrels",
+    "unitPrice": "Prijs per LT € 0,65"
+  },
+  {
+    "name": "Cave de Beblenheim AOC Alsace riesling",
+    "price": "7.296.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi305/cave-de-beblenheim-aoc-alsace-riesling",
+    "unitPrice": "Normale prijs per LT € 9,72"
+  },
+  {
+    "name": "Chiarli 1860 Lambrusco bianco",
+    "price": "2.59",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi284/chiarli-1860-lambrusco-bianco",
+    "unitPrice": "Prijs per LT € 3,45"
+  },
+  {
+    "name": "AH Ah roomkaas met kruiden",
+    "price": "0.952.892.292.292.892.89",
+    "unit": "125 g125 g125 g125 g125 g125 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi257/ah-ah-roomkaas-met-kruiden",
+    "unitPrice": "Prijs per KG € 7,60"
+  },
+  {
+    "name": "AH Smeerkaas naturel",
+    "price": "0.690.750.790.691.85",
+    "unit": "100 g100 g105 g103 g300 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi249/ah-smeerkaas-naturel",
+    "unitPrice": "Prijs per KG € 6,90"
+  },
+  {
+    "name": "AH Koffiefilters no2",
+    "price": "0.750.89",
+    "unit": "80 stuks100 stuks",
+    "url": "https://www.ah.nl/producten/product/wi159/ah-koffiefilters-no2",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Galia meloen",
+    "price": "1.995.503.982.50",
+    "unit": "per stuk2 stuks200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi141/ah-galia-meloen",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Aardappelballetjes",
+    "price": "1.891.95",
+    "unit": "600 g600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi107/ah-aardappelballetjes",
+    "unitPrice": "Prijs per KG € 3,15"
+  },
+  {
+    "name": "Campina Halfvolle yoghurt vanillesmaak",
+    "price": "1.891.49",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi123/campina-halfvolle-yoghurt-vanillesmaak",
+    "unitPrice": "Normale prijs per LT € 1,89"
+  },
+  {
+    "name": "AH Franse baguettes",
+    "price": "0.754.183.971.091.492.093.273.11",
+    "unit": "2 stuks2 stuksper stuk250 g300 g3 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi73/ah-franse-baguettes",
+    "unitPrice": ""
+  },
+  {
+    "name": "Lea & Perrins Worcestershire saus",
+    "price": "1.99",
+    "unit": "150 ml",
+    "url": "https://www.ah.nl/producten/product/wi103/lea-en-perrins-worcestershire-saus",
+    "unitPrice": "Prijs per LT € 13,27"
+  },
+  {
+    "name": "AH Wortelen",
+    "price": "0.750.690.89",
+    "unit": "340 g180 g680 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi806/ah-wortelen",
+    "unitPrice": "Prijs per KG € 3,49"
+  },
+  {
+    "name": "AH Witte bonen in tomatensaus",
+    "price": "0.791.291.110.690.591.15",
+    "unit": "400 g800 g800 g360 g180 g360 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi796/ah-witte-bonen-in-tomatensaus",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Vrieslollies",
+    "price": "1.191.591.990.992.992.29",
+    "unit": "10 stuks12 stuks8 stuks8 stuks5 stuks15 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi793/ah-vrieslollies",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Tuinerwten fijn",
+    "price": "0.951.39",
+    "unit": "450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi788/ah-tuinerwten-fijn",
+    "unitPrice": "Prijs per KG € 2,11"
+  },
+  {
+    "name": "AH Roomijs malaga",
+    "price": "3.493.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi751/ah-roomijs-malaga",
+    "unitPrice": "Prijs per LT € 3,49"
+  },
+  {
+    "name": "AH Roomijs stracciatella",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi754/ah-roomijs-stracciatella",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Kabeljauw",
+    "price": "4.495.499.99",
+    "unit": "400 g250 g675 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi792/ah-kabeljauw",
+    "unitPrice": "Prijs per KG € 11,23"
+  },
+  {
+    "name": "AH Spinazie fijn gesneden",
+    "price": "0.650.751.390.95",
+    "unit": "450 g450 g450 g750 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi769/ah-spinazie-fijn-gesneden",
+    "unitPrice": "Prijs per KG € 1,44"
+  },
+  {
+    "name": "AH Aardappelschijfjes",
+    "price": "1.99",
+    "unit": "600 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi765/ah-aardappelschijfjes",
+    "unitPrice": "Prijs per KG € 3,32"
+  },
+  {
+    "name": "AH Roomijs vanille",
+    "price": "2.993.293.492.992.792.89",
+    "unit": "1 l1 l1 l1 l2 l1 l",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi759/ah-roomijs-vanille",
+    "unitPrice": "Prijs per LT € 2,99"
+  },
+  {
+    "name": "AH Spinazie  la creme",
+    "price": "0.751.390.950.65",
+    "unit": "450 g450 g750 g450 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi777/ah-spinazie-la-creme",
+    "unitPrice": "Prijs per KG € 1,67"
+  },
+  {
+    "name": "AH Aardappelkroketjes",
+    "price": "1.19",
+    "unit": "600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi772/ah-aardappelkroketjes",
+    "unitPrice": "Prijs per KG € 1,98"
+  },
+  {
+    "name": "AH Chantilly",
+    "price": "3.195.991.992.392.29",
+    "unit": "8 stuks16 stuks8 x 120 ml6 stuks6 stuks",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi745/ah-chantilly",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Pizza kaas tomaat",
+    "price": "1.392.352.392.392.392.39",
+    "unit": "300 g540 g355 g355 g330 g335 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi737/ah-pizza-kaas-tomaat",
+    "unitPrice": "Prijs per KG € 4,63"
+  },
+  {
+    "name": "AH Afwasmiddel citrus",
+    "price": "1.191.551.291.551.191.39",
+    "unit": "0,5 l1 l0,5 l1 l0,5 l0,5 l",
+    "url": "https://www.ah.nl/producten/product/wi651/ah-afwasmiddel-citrus",
+    "unitPrice": "Prijs per LT € 2,38"
+  },
+  {
+    "name": "AH Vuilnisemmerzakken 35L",
+    "price": "2.194.383.941.997.967.568.768.322.19",
+    "unit": "20 stuks2 stuks20 stuks4 stuks4 stuks25 stuks",
+    "url": "https://www.ah.nl/producten/product/wi565/ah-vuilnisemmerzakken-35l",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Pizzabroodjes salami",
+    "price": "1.391.29",
+    "unit": "2 x 125 g250 g",
+    "nutri": "D",
+    "url": "https://www.ah.nl/producten/product/wi732/ah-pizzabroodjes-salami",
+    "unitPrice": "Prijs per KG € 5,56"
+  },
+  {
+    "name": "Glorix Bleek original",
+    "price": "1.552.492.49",
+    "unit": "0,75 l0,75 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi562/glorix-bleek-original",
+    "unitPrice": "Prijs per LT € 2,07"
+  },
+  {
+    "name": "AH Tissues zacht & sterk",
+    "price": "1.491.895.965.361.591.12",
+    "unit": "100 stuks80 stuks4 stuks150 stuks150 stuks",
+    "url": "https://www.ah.nl/producten/product/wi632/ah-tissues-zacht-en-sterk",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Dikke bleek",
+    "price": "0.901.690.90",
+    "unit": "0,75 l2 l0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi648/ah-dikke-bleek",
+    "unitPrice": "Prijs per LT € 1,20"
+  },
+  {
+    "name": "AH Servetten 2-laags 33x33 cm wit",
+    "price": "1.991.691.990.893.991.69",
+    "unit": "50 stuks20 stuks20 stuks100 stuksper stuk20 stuks",
+    "url": "https://www.ah.nl/producten/product/wi624/ah-servetten-2-laags-33x33-cm-wit",
+    "unitPrice": ""
+  },
+  {
+    "name": "Appelsientje Tomatientje",
+    "price": "2.29",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi487/appelsientje-tomatientje",
+    "unitPrice": "Prijs per LT € 2,29"
+  },
+  {
+    "name": "Grolsch Premium pilsner bier 6-pack",
+    "price": "6.2925.1622.647.99",
+    "unit": "6 x 0,33 lper pakket6 x 50 cl",
+    "url": "https://www.ah.nl/producten/product/wi446/grolsch-premium-pilsner-bier-6-pack",
+    "unitPrice": "Prijs per LT € 3,18"
+  },
+  {
+    "name": "AH Blik brokjes zalm forel",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi334/ah-blik-brokjes-zalm-forel",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "AH Blik pate rund wild",
+    "price": "0.950.995.945.354.090.454.49",
+    "unit": "400 g150 g6 stuks12 x 100 g150 g12 x 100 g",
+    "url": "https://www.ah.nl/producten/product/wi347/ah-blik-pate-rund-wild",
+    "unitPrice": "Prijs per KG € 2,38"
+  },
+  {
+    "name": "AH Blik brokjes kip kalkoen",
+    "price": "0.790.290.293.903.510.790.85",
+    "unit": "415 g100 g100 gper stuk415 g400 g",
+    "url": "https://www.ah.nl/producten/product/wi337/ah-blik-brokjes-kip-kalkoen",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "Conqueror Tawny port",
+    "price": "7.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi435/conqueror-tawny-port",
+    "unitPrice": "Prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Pat met rund",
+    "price": "0.850.290.293.903.510.790.79",
+    "unit": "400 g100 g100 gper stuk415 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi341/ah-pat-met-rund",
+    "unitPrice": "Prijs per KG € 2,13"
+  },
+  {
+    "name": "AH Blik brokjes wild gevogelte",
+    "price": "0.790.290.293.903.510.850.79",
+    "unit": "415 g100 g100 gper stuk400 g415 g",
+    "url": "https://www.ah.nl/producten/product/wi336/ah-blik-brokjes-wild-gevogelte",
+    "unitPrice": "Prijs per KG € 1,90"
+  },
+  {
+    "name": "Cave de Beblenheim Pinot blanc",
+    "price": "5.794.79",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi307/cave-de-beblenheim-pinot-blanc",
+    "unitPrice": "Normale prijs per LT € 7,72"
+  },
+  {
+    "name": "AH Amsterdamse uien",
+    "price": "0.65",
+    "unit": "320 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi317/ah-amsterdamse-uien",
+    "unitPrice": "Prijs per KG € 3,42"
+  },
+  {
+    "name": "AH Fruitcocktail siroop",
+    "price": "1.79",
+    "unit": "411 g",
+    "nutri": "B",
+    "url": "https://www.ah.nl/producten/product/wi309/ah-fruitcocktail-siroop",
+    "unitPrice": "Prijs per KG € 7,16"
+  },
+  {
+    "name": "Greenminds Schrijfblok A4 gelinieerd",
+    "price": "2.59",
+    "unit": "per stuk",
+    "url": "https://www.ah.nl/producten/product/wi319/greenminds-schrijfblok-a4-gelinieerd",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Kattenbak houtkorrels",
+    "price": "6.493.79",
+    "unit": "10 l6 l",
+    "url": "https://www.ah.nl/producten/product/wi294/ah-kattenbak-houtkorrels",
+    "unitPrice": "Prijs per LT € 0,65"
+  },
+  {
+    "name": "Cave de Beblenheim AOC Alsace riesling",
+    "price": "7.296.29",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi305/cave-de-beblenheim-aoc-alsace-riesling",
+    "unitPrice": "Normale prijs per LT € 9,72"
+  },
+  {
+    "name": "AH Franse baguettes",
+    "price": "0.754.183.971.091.492.093.273.11",
+    "unit": "2 stuks2 stuksper stuk250 g300 g3 stuks",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi73/ah-franse-baguettes",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Galia meloen",
+    "price": "1.995.503.982.50",
+    "unit": "per stuk2 stuks200 g",
+    "nutri": "A",
+    "url": "https://www.ah.nl/producten/product/wi141/ah-galia-meloen",
+    "unitPrice": ""
+  },
+  {
+    "name": "AH Aardappelballetjes",
+    "price": "1.891.95",
+    "unit": "600 g600 g",
+    "nutri": "C",
+    "url": "https://www.ah.nl/producten/product/wi107/ah-aardappelballetjes",
+    "unitPrice": "Prijs per KG € 3,15"
+  },
+  {
+    "name": "AH Ah roomkaas met kruiden",
+    "price": "0.952.892.292.292.892.89",
+    "unit": "125 g125 g125 g125 g125 g125 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi257/ah-ah-roomkaas-met-kruiden",
+    "unitPrice": "Prijs per KG € 7,60"
+  },
+  {
+    "name": "AH Smeerkaas naturel",
+    "price": "0.690.750.790.691.85",
+    "unit": "100 g100 g105 g103 g300 g",
+    "nutri": "E",
+    "url": "https://www.ah.nl/producten/product/wi249/ah-smeerkaas-naturel",
+    "unitPrice": "Prijs per KG € 6,90"
+  },
+  {
+    "name": "AH Koffiefilters no2",
+    "price": "0.750.89",
+    "unit": "80 stuks100 stuks",
+    "url": "https://www.ah.nl/producten/product/wi159/ah-koffiefilters-no2",
+    "unitPrice": ""
+  },
+  {
+    "name": "Chiarli 1860 Lambrusco bianco",
+    "price": "2.59",
+    "unit": "0,75 l",
+    "url": "https://www.ah.nl/producten/product/wi284/chiarli-1860-lambrusco-bianco",
+    "unitPrice": "Prijs per LT € 3,45"
+  },
+  {
+    "name": "Campina Halfvolle yoghurt vanillesmaak",
+    "price": "1.891.49",
+    "unit": "1 l",
+    "url": "https://www.ah.nl/producten/product/wi123/campina-halfvolle-yoghurt-vanillesmaak",
+    "unitPrice": "Normale prijs per LT € 1,89"
+  },
+  {
+    "name": "Lea & Perrins Worcestershire saus",
+    "price": "1.99",
+    "unit": "150 ml",
+    "url": "https://www.ah.nl/producten/product/wi103/lea-en-perrins-worcestershire-saus",
+    "unitPrice": "Prijs per LT € 13,27"
+  }
+]

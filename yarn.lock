@@ -3157,6 +3157,11 @@
   resolved "https://registry.npmjs.org/@trpc/client/-/client-10.45.0.tgz"
   integrity sha512-m091R1qte9rvkvL8N1e/mzrbb8S4gb+Q4ZNJnEGDgd7kic/6a8DFgSciBTiCoSp0YwOTVhyQzSrrA/sZI6PhBg==
 
+"@trpc/client@^10.45.1":
+  version "10.45.1"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.45.1.tgz#ec80a5252ac9d3e5df2e5d8ddce1e23fc5caf5ac"
+  integrity sha512-nVbAk1xpIiI64WgzXGgfxPOGgHoYvffn1IsjV1D/Ri7DL4BKuo2qtZ7UQ+OuHkzH2M8j4ikSVBDpk545fOdvpw==
+
 "@trpc/client@^11.0.0-next-beta.283":
   version "11.0.0-next-beta.283"
   resolved "https://registry.yarnpkg.com/@trpc/client/-/client-11.0.0-next-beta.283.tgz#6d6b5c7760e65eec6a0b9862510994930ce302b4"
@@ -10149,7 +10154,7 @@ react-native@0.73.2:
     ws "^6.2.2"
     yargs "^17.6.2"
 
-react-refresh@0.14.0, react-refresh@^0.14.0:
+react-refresh@0.14.0, react-refresh@^0.14.0, react-refresh@~0.14.0:
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.14.0.tgz#4e02825378a5f227079554d4284889354e5f553e"
   integrity sha512-wViHqhAd8OHeLS/IRMJjTSDHF3U9eWi62F/MledQGPdJGDhodXJ9PBLNGr6WWL7qlH12Mt3TyTpbS+hGXMjCzQ==

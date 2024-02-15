@@ -8,26 +8,26 @@ import { router } from './routes.js';
 await Actor.init();
 
 interface Input {
-  maxRequestsPerCrawl: number;
+  maxRequests: number;
 }
 
 const { urls } = await Sitemap.load('https://www.ah.nl/sitemaps/entities/products/detail.xml');
 
-const { maxRequestsPerCrawl } = (await Actor.getInput<Input>()) ?? {};
+const { maxRequests } = (await Actor.getInput<Input>()) ?? {};
+
+export const storage = await Actor.openDataset('ah');
 
 const crawler = new CheerioCrawler({
   requestHandler: router,
-  maxRequestsPerCrawl: maxRequestsPerCrawl ?? 50,
+  maxRequestsPerCrawl: maxRequests ?? 50,
   maxRequestsPerMinute: 60,
-  maxConcurrency: 1,
+  maxConcurrency: 2,
 });
 
-await crawler.run(urls.slice(0, maxRequestsPerCrawl));
-
-await Actor.exit();
+await crawler.run(urls.slice(0, 1000));
 
 if (process.env.NODE_ENV !== 'production') {
-  const jsonFiles = await glob('storage/datasets/default/*.json', {
+  const jsonFiles = await glob(`storage/datasets/${storage.name}/*.json`, {
     absolute: true,
   });
 
@@ -39,3 +39,5 @@ if (process.env.NODE_ENV !== 'production') {
 
   await writeFile('output.json', JSON.stringify(results, null, 2));
 }
+
+await Actor.exit();
